@@ -1,0 +1,128 @@
+# Site
+name: 'Kuran ve Bilim'
+title: 'İslam dini akıl ve vicdan dinidir.'
+description: İnsan, aklı ile Allah’ın bildirdiği gerçekleri görür ve vicdanını kullanarak gördüklerinden sonuç çıkarır
+logo: assets/images/logo.png
+favicon: favicon.ico
+baseurl: ''
+url    : https://kuranvebilim.github.io
+disqus : 'vdemir-github-io'
+email  : 'evlenmekistiyorum@yandex.com'
+mailchimp-list: 'https://yandex.us20.list-manage.com/subscribe?u=955ac2b297f05748440c9765e&id=a69ebec7e0'
+
+
+include: ["_pages",'.htaccess']
+permalink: /:title/
+
+
+# Plugins
+plugins_dir: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-assets
+  - jekyll-coffeescript
+  
+authors:
+    admin:
+      name:           Admin
+      site:           https://vdemir.github.io
+      url :           https://kuranvebilim.github.io
+      avatar:         assets/images/avatar1.jpg
+      bio:            "Blogger"
+      email:          evlenmekistiyorum@yandex.com
+      twitter:        https://twitter.com/zekidem20379657
+      instagram:      https://www.instagram.com/jeruselam.github.io
+    sal:
+      name:           Sal
+      site:           https://vdemir.github.io
+      url :           https://kuranvebilim.github.io
+      avatar:         assets/images/avatar1.jpg
+      bio:            "Blogger"
+      email:          evlenmekistiyorum@yandex.com
+      twitter:        https://twitter.com/zekidem20379657
+      instagram:      https://www.instagram.com/jeruselam.github.io
+
+    jane:
+      name:           Jane
+      site:           https://vdemir.github.io
+      url :           https://kuranvebilim.github.io
+      avatar:         assets/images/avatar2.jpg
+      bio:            "Blogger"
+      email:          evlenmekistiyorum@yandex.com
+      twitter:        https://twitter.com/zekidem20379657
+      instagram:      https://www.instagram.com/jeruselam.github.io
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+
+  
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+paginate_path: "/page:num/"
+
+webmaster_verifications:
+  google: jn4DhlndDBTEb4jBIR_5kr68CHmh3aHkEJDnyN67R5E
+  yandex: 56e99e2f3ec9d9b5
+  bing: D462E9F8C0920AC921D93C3895430C0D
+  
+social:
+  name: Vedat Demir
+  links:
+    - https://github.com/vdemir
+    - https://twitter.com/zekidem20379657
+    - https://www.instagram.com/jeruselam.github.io
+    
+twitter:
+  username: zekidem20379657
+  card: Blogger, instagram
+
+timezone: Europe/Istanbul # add your own locale timezone
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "vdemir-github-io"
+source: .
+destination: _site
+
+
+# Jekyll configuration
+encoding          : UTF-8
+
+# Location
+
+language          : tr
+address           : Türkiye
+locale            : tr_TR
+
+include: ["_pages",'.htaccess']
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+
+# Declare license on posts
+post_copyright:
+  enable: false
+  license: CC BY-NC-SA 3.0
+  license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+# Bitbucket profile settings
+# Username zekid
+# Workspace ID zekid 20552055v!V
+# https://bitbucket.org

@@ -1,0 +1,30 @@
+<div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Özel Dosya</span></h4>  
+    <ol class="list-featured">				
+        {% for post in site.tags.featured %}                
+            <li class="mb-4">
+            <div>
+                <h6 class="font-weight-bold">
+                    <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
+                </h6>
+                <span class="d-block text-muted">
+                    <i class="far fa-copy"></i> <span class="catlist">
+                    {% for category in post.categories %}
+                    <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                    {% endfor %}
+                    </span>
+                </span>
+            </div>
+            </li>                
+        {% endfor %}   
+    </ol> 
+<!--- Tag Cloud --->
+<h4 class="font-weight-bold spanborder"><span>Etiket Bulutu</span></h4>
+{% for tag in site.tags %}
+  <span style="font-size: {{ tag | last | size | times: 150 | divided_by: site.tags.size | plus: 100  }}%">
+    <a href="/tags.html#{{ tag | first | slugize }}"  style="text-decoration: none; color:#1e5b9f; cursor:pointer">
+      {{ tag | first }}
+    </a> &nbsp;
+  </span>
+{% endfor %}
+</div>

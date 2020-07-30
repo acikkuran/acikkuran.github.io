@@ -1,0 +1,5 @@
+Sitemap: https://kuranvebilim.github.io/sitemap.xml
+
+User-agent: *
+Disallow: /assets/
+
