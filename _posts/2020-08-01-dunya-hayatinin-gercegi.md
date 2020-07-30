@@ -13,6 +13,7 @@ encoding: UTF-8
 ---
 
  Önsöz
+-------------
 
 Resimde gördüğünüz kadın yaklaşık 70 yaşlarında. Hiç düşündünüz mü, 70 yaşında bir insanın geçmişe yönelik düşünceleri nelerdir?
 
@@ -28,7 +29,7 @@ Yaşamı boyunca yaptıklarını yazmasını veya anlatmasını isteseniz, en fa
 
   
 
-![manzara gÃ¼l Ã§erÃ§eve yaÅŸlÄ± kadÄ±n](https://g.fmanager.net/image/truth_life_world/dhg_5b_010.jpg)
+![manzara gÃ¼l Ã§erÃ§eve yaÅŸlÄ± kadÄ±n](https://acikkuran.github.io/assets/images/dhg_5b_010.jpg)
 
   
 
@@ -66,7 +67,7 @@ Bu yanlış inanç sebebiyle de insanların çoğu günlük hayat ile kendilerin
 
 Halk arasında dünya hayatının kısalığı ve geçiciliği hakkında bazı deyimler kullanılır; "ölümlü dünya", "üç günlük dünya", "hayat fani" gibi. Ama bu kalıp sözcükler aslında insanların samimi görüşlerini yansıtmaz. Bu tarz sözler, toplumun bir geleneği gibi, aralarında konuşulan bir sohbet, hatta espri konusudur. Nitekim böyle önemli bir konunun hemen arkasından dünya ile ilgili planlara başlanır. Örneğin "ölümlü dünya", "dünyaya bir kere geldik" sözünün akabinde; "Tabii ki dünyayı tepe tepe yaşayacaksın!" tarzında sığ mantıklar öne sürülebilir.
 
- ![kadÄ±n gÃ¼zel gÃ¼l Ã§iÃ§ek](https://g.fmanager.net/image/truth_life_world/dhg_5b_011b.jpg)
+ ![kadÄ±n gÃ¼zel gÃ¼l Ã§iÃ§ek](https://acikkuran.github.io/assets/images/dhg_5b_011b.jpg)
 
   
 
@@ -76,7 +77,7 @@ Halk arasında dünya hayatının kısalığı ve geçiciliği hakkında bazı d
 
 Oysa ki hayatın kısa olması, ölümlü olmak ve dünyaya bir kere gelmek, her insan için en önemli gerçeklerdendir. Belli bir yaşa kadar insan bu önemli gerçeğin farkına varamamış olabilir, ancak bunu fark ettiği anda tüm yaşamını gözden geçirmesi ve Allah'ın kendisinden istediği şeylere göre yeniden yaşantısını düzenlemesi gerekir. Çünkü hayat kısadır, ama insan ruhu -Allah'ın dilemesiyle- sonsuza kadar yaşayacaktır. Sonsuzun yanında 60-70 senelik hayatın hiçbir kıymeti yoktur. Burada az bir zevk almak için sonsuz hayatı feda etmek ise elbette akılsızlıktır.  
   
-![manzara bulut gÃ¶l aÄŸaÃ§](https://g.fmanager.net/image/truth_life_world/dhg_5b_009.jpg)
+![manzara bulut gÃ¶l aÄŸaÃ§](https://acikkuran.github.io/assets/images/dhg_5b_009.jpg)
 
   
 
@@ -106,7 +107,7 @@ Daha güzelini ve iyisini arama, sahip olunca eskisinin öneminin kalmaması, bi
 
   
 
-![kitap yeÅŸillik  ](https://g.fmanager.net/image/truth_life_world/dhg_5b_016.jpg)
+![kitap yeÅŸillik  ](https://acikkuran.github.io/assets/images/dhg_5b_016.jpg)
 
   
 
@@ -131,7 +132,7 @@ Peki hiç düşündünüz mü, tüm bu üstünlüklerin aksine insan neden son d
 
   
 
-![kadÄ±n bayan girl woman ](https://g.fmanager.net/image/truth_life_world/dhg_5b_050.jpg)
+![kadÄ±n bayan girl woman ](https://acikkuran.github.io/assets/images/dhg_5b_050.jpg)
 
  Evet, insan bedeni her yönüyle korunmaya ve kollanmaya muhtaçtır. Dünya şartlarında başına ne zaman ne geleceği belli değildir. Yaşadığı yer ister dünyanın en gelişmiş şehri olsun, ister en yakın medeniyete kilometrelerce uzaklıkta, elektrikten, sudan mahrum bir dağ köyü olsun; kişi, hayatının hiç beklemediği bir anında bir tehlikeyle karşılaşabilir. Ölümcül bir hastalığa yakalanabilir, sakatlanabilir. Karşılaştığı olay, hiç kaybetmeyeceğini sandığı bedensel gücünü, güzelliğini ya da övündüğü fiziksel bir özelliğini alıp götürebilir. Bu konuda yaşadığı yer gibi kişinin kim olduğu da bir istisna yaratmaz; dağ başında sürülerini otlatan bir çoban ya da bütün dünyanın tanıdığı bir yıldız olsa da, söz konusu olaylardan herhangi biri hayatını hiç tahmin edemeyeceği yönde değiştirebilir.
 
@@ -141,7 +142,7 @@ Allah insanları en güzel surette ve en mükemmel sistemlerle yaratmıştır. A
 
   
 
-![kadÄ±n bayan yaÅŸlÄ± old woman ](https://g.fmanager.net/image/truth_life_world/dhg_5b_051.jpg)
+![kadÄ±n bayan yaÅŸlÄ± old woman ](https://acikkuran.github.io/assets/images/dhg_5b_051.jpg)
 
 İnsan, Allah'tan bir hatırlatma olarak bedeninin acizliğini sık sık hisseder. Örneğin, soğuk havanın etkisi insan vücudunun acizliğini bütün gerçekliğiyle ortaya koyan bir etkendir. Soğuk hava insanın fizyolojik savunmasını yavaş yavaş felç eder. Vücudun sürekli ayar yaparak koruduğu sabit sıcaklığının (37oC) ne kadar önemli olduğu böyle bir durumda hemen anlaşılır. Çok soğuk bir havada bedenin yavaş yavaş çöküşü gözlenebilir. Başlangıçta kalp ritmi hızlanır, damarlar büzülür ve atardamar basıncı yükselir. Vücut kendisini ısıtmak için titremeye başlar. Vücut sıcaklığı 35 dereceye düştüğünde artık tehlikeli bir durum başgöstermiştir. Kalp ritmi yavaşlamaya başlar, tansiyon düşer, kol ve bacaklarda, en çok da parmaklarda damarlar büzülmeye başlar. Vücut sıcaklığı 35 dereceye düşen bir kişide bilinç bulanıklığı, yönelim bozukluğu, uyku eğilimi ve dikkat dağınıklığı ortaya çıkar. Zihinsel işlemlerde aksama oluşur. Burada kuşkusuz en önemli nokta vücut sıcaklığının sadece 1.5 derece düşmesiyle bile, böylesine önemli sonuçların ortaya çıkmasıdır. Soğukta daha fazla kalındığında ve vücut sıcaklığı 33 derecenin altına düştüğünde ise bellek ve bilinç kaybı yaşanır. 24 dereceye düştüğünde solunum, 20 dereceye düştüğünde beyin, 19 dereceye düştüğünde ise kalp durur ve insan için kaçınılmaz olan ölüm gerçekleşir.
 
@@ -239,7 +240,7 @@ Sabah ilk uyandığı andan gece uyuyana kadar bir insanın uygulamak zorunda ol
 
 İnsan içine çıkmak için gerekli temizliğin sağlanmasında kullanılan malzemeler ise o kadar çoktur ki; insanın bedeninin ne kadar çok şeye muhtaç olduğunu göstermesi açısından üzerinde düşünülmelidir. Örneğin, temizlik için su ve sabunun yanında ek malzemelere de ihtiyaç vardır. Çünkü cilt üzerindeki ölü deri tabakasını temizlemek gerekir. Her insanın, beden temizliği yanında kıyafetlerinin, evinin, çevresinin de temizliğine uzun bir süre ayırması gerekir. Hem beden temizliğine hem evin temizliğine hem de kıyafetlere harcanan vakit düşünüldüğünde insanın ömrünün çok büyük bölümünün temizliğe ayrıldığı açıkça görülmektedir.
 
- ![cocuklar diÅŸ fÄ±rcalayan ](https://g.fmanager.net/image/truth_life_world/dhg_5b_059.jpg)  
+ ![cocuklar diÅŸ fÄ±rcalayan ](https://acikkuran.github.io/assets/images/dhg_5b_059.jpg)  
   
 
 Kısacası insanın bir gün içinde yaşadığı vaktin önemli bir bölümü temizlik ve bakımla geçer. Üstelik bu bakımı sağlayabilmek için çok çeşitli araçlara, kimyasal malzemelere ihtiyaç duyar. Allah insanı son derece aciz bir bedenle yaratırken, bu acizliğini geçici olarak örtmesini, dışarıya hissettirmemesini sağlayacak imkanları da ona sunmuştur. Ayrıca insana temizlenmesini, acizliğini göstermemesini sağlayacak bir düşünme yeteneği de vermiştir. Ancak kimi zaman insanlar akıllarını ve Allah'ın verdiği diğer teknik imkanları kullanmadıkları için kötü bir görünümle karşımıza çıkabilirler. Özellikle temizlik için gereken malzemeleri kullanmadıkları ve bu yönde bir çaba harcamadıkları takdirde, kısa sürede son derece itici bir görünüme bürünebilirler.
@@ -250,7 +251,7 @@ Kısacası insanın bir gün içinde yaşadığı vaktin önemli bir bölümü t
 
 Elbette burada anlatılanlar her insanın kendi üzerinde görebileceği eksikliklerdir. Ancak herkes bunların bir eksiklik olduğunu kavrayabiliyor mudur acaba? Yoksa her insan aynı acizliklere sahip diye bunları doğal mı karşılıyordur? Elbette burada anlatılanlar tüm insanlar için geçerlidir. Ama unutmamak gerekir ki, Allah dileseydi bunların hiçbirini insanların üzerinde yaratmazdı; her insan bir gül kadar güzel kokulu ve tertemiz olabilirdi. Ama insanı tüm acizlikleriyle beraber yaratan Allah bunu belli bir hikmet üzerine yapmıştır. Yaratıcımız olan Allah karşısındaki acizliğini gören insan, O'nun kendisini davet ettiği yola uymalı; geçici ve eksik olan bu dünyaya bağlanmamalı, sonsuz bir yurt olan ahiret için hazırlık yapmalıdır.
 
- ![yiyecek food](https://g.fmanager.net/image/truth_life_world/dhg_5b_060.jpg)
+ ![yiyecek food](https://acikkuran.github.io/assets/images/dhg_5b_060.jpg)
 
   
   
@@ -277,7 +278,7 @@ Uykunun hemen öncesinde, vücut adeta ölür gibi duyarsızlaşmaya başlar, hi
 
   
 
- ![cocuk bebek uyuyor sleeping child](https://g.fmanager.net/image/truth_life_world/dhg_5b_064.jpg)
+ ![cocuk bebek uyuyor sleeping child](https://acikkuran.github.io/assets/images/dhg_5b_064.jpg)
 
   
   
@@ -340,7 +341,7 @@ ADNAN OKTAR: Cennette uyku yoktur, yorulma diye bir şey yoktur yani sonsuza kad
 
   
 
-![SaÃ§ fÄ±rÃ§alayan gÃ¼zel kadÄ±n woman girl yeÅŸil mavi green blue](https://g.fmanager.net/image/truth_life_world/dhg_5b_068.jpg)
+![SaÃ§ fÄ±rÃ§alayan gÃ¼zel kadÄ±n woman girl yeÅŸil mavi green blue](https://acikkuran.github.io/assets/images/dhg_5b_068.jpg)
 
   
   
@@ -363,7 +364,7 @@ Hastalıkların yanısıra, insanın dünyada karşı karşıya olduğu tehlikel
 
   
 
-![hastalÄ±k](https://g.fmanager.net/image/truth_life_world/dhg_5b_071.jpg)
+![hastalÄ±k](https://acikkuran.github.io/assets/images/dhg_5b_071.jpg)
 
   
 
@@ -416,7 +417,7 @@ Sabaha kadar sayarım insanın acizliklerini. "Dünyanın metaı azdır" diyor C
 Hastalık Ve Kazaların Getirdiği Sonuçlar
 ----------------------------------------
 
-![Gül rose buket](https://g.fmanager.net/image/truth_life_world/dhg_5b_076.jpg)
+![Gül rose buket](https://acikkuran.github.io/assets/images/dhg_5b_076.jpg)
 
 Daha önce de vurguladığımız gibi, hastalıklar ve kazalar Allah'ın insanları denemek için yarattığı olaylardır. İman eden bir insan başına gelen bu tür bir olay karşısında dua edip, Allah'a yönelir ve bilir ki Allah'tan başka kendisini kurtarabilecek hiçbir güç yoktur. Böyle bir olayla onun sabrını, sadakatini, tevekkülünü deneyen Allah'ın, ahirette de kendisine en güzel karşılığı vereceğini umar. Nitekim Kuran'da, Hz. İbrahim (as) bu konuda güzel tavrıyla ve samimi duasıyla örnek gösterilmiştir. Müminlere düşen de bu samimiyeti örnek almaktır. Hz. İbrahim'in duası şöyledir:
 
@@ -430,14 +431,14 @@ Bu tür sıkıntılar müminlerin Allah'a olan bağlılıklarının, olgunluklar
 
 Örneğin, sakat kalan birinin eşi ya da akrabaları çok büyük olasılıkla bundan şiddetle yakınmaya başlayacaklardır. Çevrelerine ne kadar sıkıntıda olduklarını anlatacaklardır. Kimisi gençliğini öne sürecek ve kendince bu yaşta böyle birşeyi hak etmediğini, daha "hayatının baharında" bunun başına geldiğini söyleyecektir. Bunun sonucunda da hasta kişiye yeterli ilgiyi göstermemesi konusunda etrafındakilerin kendisine hak vermesini bekleyecektir. Bir kısım insanlar da kendilerine kalsa hasta kişiyi hemen bırakıp gitmek isterken, sadece toplum tarafından ayıplanma korkusu sebebiyle bunu yapamayacaktır. Hasta kişiye sağlıklı iken verilen sadakat ve vefa sözleri, yerini egoist, bencil ve çıkarcı düşünce ve sözlere bırakmıştır.
 
- ![  ](https://g.fmanager.net/image/truth_life_world/dhg_5b_075.jpg)
+ ![  ](https://acikkuran.github.io/assets/images/dhg_5b_075.jpg)
 
   
   
 
 Sadakat ve vefanın çok kısa süreli olduğu böyle bir sistemde yaşanan bu tarz olaylara şaşırmak da aslında yanlıştır. Çünkü insanları sadece maddesel kıstaslarla değerlendiren ve en önemlisi Allah korkusu olmayan bir insandan sürekli sadakat beklemek mümkün değildir. Karşılığını ahirette alacağına inanmayan bir insanın iyi davranışlarda bulunması, kendi çarpık mantığına göre bir "enayilik"tir. Çünkü birkaç on yıl içerisinde ölümle birlikte sonsuza kadar yok olacağına inandığı bir insana fedakarlık yapıp sadakat göstermesinin cahiliye kültürüne göre bir anlamı yoktur. Zaten her ikisi de kısa süre yaşayıp yok olacakları inancındadırlar, dolayısıyla bir tercih yapılması gerektiğinde de kendi çıkarlarını, rahatlarını düşüneceklerdir.
 
-![Gül rose buket yaşlı kadın old woman çerçeve](https://g.fmanager.net/image/truth_life_world/dhg_5b_077.jpg)
+![Gül rose buket yaşlı kadın old woman çerçeve](https://acikkuran.github.io/assets/images/dhg_5b_077.jpg)
 
 Oysa Müslümanlar için durum son derece farklıdır. Allah'a iman eden, O'na karşı aczini bilen ve O'ndan korkan insanlar birbirlerini de Allah'ın emrettiği özellikler doğrultusunda değerlendirirler. İnsanın en önemli özelliği "takvası" yani Allah'a olan korkusu, saygısı ve bundan dolayı sahip olduğu asalet ve güzel ahlaktır.
 
@@ -465,7 +466,7 @@ Bunlar hep dinden uzak olmak, Allah sevgisinden uzak olmak, Allah aşkıyla seve
 Özetle, Allah için sevmek dünyanın bir süsü ve güzelliğidir. Allah bizi öyle yarattı. Allah için aşkla, tutkuyla sevecek şekilde yarattı bizi, Allah'ın tecellisi olarak. Bunu yapmadığımızda mutlaka ama mutlaka felaketle karşılaşırız. Sevgisizliğin, egoistliğin acısını en şiddetli şekilde yaşarız Allah vermesin. Onun için materyalist kafadan şiddetle kaçınıp, Kuran ahlakıyla, Kuran sevgisiyle, Allah sevgisiyle, Allah'ın tecellisi olarak sevmek çok hayati bir konudur. İnşaAllah. (Sayın Adnan Oktar'ın 4 Temmuz 2010 Tarihli HarunYahya.TV Röportajından)  
   
 YAŞLILIK  
-![GÃ¼l rose buket yaÅŸlÄ± adam old man Ã§erÃ§eve](https://g.fmanager.net/image/truth_life_world/dhg_5b_081.jpg)  
+![GÃ¼l rose buket yaÅŸlÄ± adam old man Ã§erÃ§eve](https://acikkuran.github.io/assets/images/dhg_5b_081.jpg)  
 
 Zamanın yıpratıcı etkisi herşeyde gözle görülür biçimde fark edilir. En son model diye alınan bir araba birkaç sene içinde çizilir, arızalanır ve kaçınılmaz olarak eskir. Çok beğenilen bir ev, 5-10 sene sonra (eğer bakım yapılmazsa) boyaları dökülmüş, eski görünümlü bir harabeye dönüşür. Ancak tüm bunların yanında en büyük yıpranmaya insan kendi bedeninde şahit olur. Geçen yıllarla birlikte insanın çok değer verdiği bedeni, geri dönülemez bir biçimde hasar görür. İnsanın belirli bir zaman süreci içinde geçirdiği bu değişiklik Kuran'da şöyle bildirilmiştir:
 
@@ -475,7 +476,7 @@ Yaşlılık çoğu zaman, düşünülmek istenmeyen, hayata dair planlara dahil 
 
   
 
-![GÃ¼l rose buket yaÅŸlÄ± kadÄ±n adam old woman man Ã§erÃ§eve](https://g.fmanager.net/image/truth_life_world/dhg_5b_080.jpg)  
+![GÃ¼l rose buket yaÅŸlÄ± kadÄ±n adam old woman man Ã§erÃ§eve](https://acikkuran.github.io/assets/images/dhg_5b_080.jpg)  
 
 **_Evet Biz onları ve atalarını yararlandırdık; öyle ki ömür onlara_**  
  **_(hiç bitmeyecekmiş gibi) uzun geldi…_** (Enbiya Suresi, 44)
@@ -496,7 +497,7 @@ Sadece birkaç saniye düşünerek kavranabilecek bu gerçek, insanı hayatını
 
 O halde insan, ön yargılarını bir kenara bırakıp kendi hayatı hakkında daha gerçekçi düşünmelidir. Öncelikle belirttiğimiz gibi zaman çok hızlı geçmekte ve geçen her gün insanı daha genç ve dinamik bir yapıya değil, ayette bildirildiği gibi "bir za'fa" düşürmektedir. Kısacası yaşlanmak, insanın acizliğinin önemli bir göstergesidir. İlerleyen zamanın insan bedeni ve zihni üzerinde yarattığı bozucu etki apaçık bir gerçektir. Kuran'da insanın yaşlılıkla birlikte içine düştüğü acizlikten şöyle bahsedilmiştir:
 
- ![cocuk genÃ§ yetiÅŸkin yaÅŸlÄ± kadÄ±n old Ã¶lÃ¼m Ã§erÃ§eve](https://g.fmanager.net/image/truth_life_world/dhg_5b_082b.jpg)
+ ![cocuk genÃ§ yetiÅŸkin yaÅŸlÄ± kadÄ±n old Ã¶lÃ¼m Ã§erÃ§eve](https://acikkuran.github.io/assets/images/dhg_5b_082b.jpg)
 
   
 
@@ -510,7 +511,7 @@ Kısacası insan, hayatına çocuk olarak başlar ve bir dönem sonra tekrar ço
 
 Bu dünyanın geçiciliği ve insanın belli bir hikmet üzerine yaşlılık dönemine ulaştırıldığı, aşağıdaki ayetle açıkça ifade edilir:
 
- ![yaÅŸam Ã§erÃ§eve yaÅŸlÄ±lar](https://g.fmanager.net/image/truth_life_world/dhg_5b_084.jpg)
+ ![yaÅŸam Ã§erÃ§eve yaÅŸlÄ±lar](https://acikkuran.github.io/assets/images/dhg_5b_084.jpg)
 
   
 
@@ -518,7 +519,7 @@ Bu dünyanın geçiciliği ve insanın belli bir hikmet üzerine yaşlılık dö
 
 ### Yaşlılıkla Gelen Fiziki Bozulmalar
 
-![genÃ§ kadÄ±n yaÅŸlÄ± kadÄ±n young old woman](https://g.fmanager.net/image/truth_life_world/dhg_5b_087.jpg)
+![genÃ§ kadÄ±n yaÅŸlÄ± kadÄ±n young old woman](https://acikkuran.github.io/assets/images/dhg_5b_087.jpg)
 
 Ne kadar zengin, ünlü ya da güçlü olursa olsun, hiçbir insan ileriki yaşlarda kendisini bekleyen ve aşağıda bahsedeceğimiz fiziki bozulmalardan kurtulamaz.
 
@@ -538,7 +539,7 @@ Her geçen gün hızla yaşlanıp ölüme hazırlanan insan, bu dünyanın geçi
 
   
 
-![GÃ¼l rose buket yaÅŸlÄ± kadÄ±n old woman Ã§erÃ§eve](https://g.fmanager.net/image/truth_life_world/dhg_5b_088a.jpg)
+![GÃ¼l rose buket yaÅŸlÄ± kadÄ±n old woman Ã§erÃ§eve](https://acikkuran.github.io/assets/images/dhg_5b_088a.jpg)
 
   
 
@@ -571,7 +572,7 @@ Peygamberimiz'in biliyorsunuz lakabı "Muhammed-ül emin"di. Kim diyor bunu bili
   
 İbret Verici Yaşlılık Örnekleri  
   
-![  ](https://g.fmanager.net/image/truth_life_world/dhg_5b_092.jpg)  
+![  ](https://acikkuran.github.io/assets/images/dhg_5b_092.jpg)  
   
   
 
@@ -583,13 +584,13 @@ Bunun örneklerini çevremizde yüzlerce kez görmemiz mümkündür. Bir zamanla
 
   
 
- ![Robert Redford Brigitte Bardot Rita Hayworth](https://g.fmanager.net/image/truth_life_world/dhg_5b_093.jpg)  
+ ![Robert Redford Brigitte Bardot Rita Hayworth](https://acikkuran.github.io/assets/images/dhg_5b_093.jpg)  
   
-![Catherine Deneuve Mickey Rourke Sharone Stone](https://g.fmanager.net/image/truth_life_world/dhg_5b_094.jpg)   
+![Catherine Deneuve Mickey Rourke Sharone Stone](https://acikkuran.github.io/assets/images/dhg_5b_094.jpg)   
   
-![Sean Connery Meryl Streep Robert De Niro](https://g.fmanager.net/image/truth_life_world/dhg_5b_095.jpg)  
+![Sean Connery Meryl Streep Robert De Niro](https://acikkuran.github.io/assets/images/dhg_5b_095.jpg)  
   
-![Sean Connery Meryl Streep Robert De Niro](https://g.fmanager.net/image/truth_life_world/dhg_5b_095.jpg)  
+![Sean Connery Meryl Streep Robert De Niro](https://acikkuran.github.io/assets/images/dhg_5b_095.jpg)  
 
 **İnsanın Ölümü**
 -----------------
@@ -606,7 +607,7 @@ Birçok insan ölümü düşünmek istemez, aynı zamanda günlük uğraşılar�
 
 Oysaki ölüm insana aniden geldiğinde, o an için dünyaya yönelik herşey, tüm beklentiler, umutlar, hesaplar sona erer. Şu anki halinizi, gözlerinizin açılıp kapanmasını, vücudunuzun hareket etmesini, konuşabilmenizi, gülebilmenizi, yani tüm hayati fonksiyonlarınızı düşünün. Sonra da ölümün akabinde ne hale geleceğinizi canlandırın gözünüzde... Hareketsiz bir şekilde, etrafınızda olup bitenleri anlamayıp öylece yatacaksınız. Bedeniniz başka insanlar tarafından taşınacak ve bir "et yığını" olarak kabul edileceksiniz. Tabutunuzun konacağı mezar kazılırken, siz gusülhanede görevli kişi tarafından yıkanacaksınız. Beyaz kefenle sizi saracaklar. Tahta tabuta konacaksınız. Camideki işlemler bittikten sonra mezara gidilecek, üzerinde isminizin, doğum ve ölüm tarihinizin yazıldığı bir taş olacak. Kefenle birlikte sizin için kazılan çukura atılacaksınız. Üzerinize tahta konacak, daha sonra da toprak. Toprak sizi iyice örttükten sonra işlem son bulmuş olacak.
 
-![mezar Ã¶lÃ¼m dead](https://g.fmanager.net/image/truth_life_world/dhg_5b_097.jpg)
+![mezar Ã¶lÃ¼m dead](https://acikkuran.github.io/assets/images/dhg_5b_097.jpg)
 
   
 
@@ -834,12 +835,12 @@ Sevinç ve heyecanla cennete içeri girmiş oluyor. Mehdi de öyledir. Mesela Me
 
   
 
-![gÃ¶kyÃ¼zÃ¼ mavi martÄ± bulut kelebek](https://g.fmanager.net/image/truth_life_world/dhg_5b_111.jpg)  
+![gÃ¶kyÃ¼zÃ¼ mavi martÄ± bulut kelebek](https://acikkuran.github.io/assets/images/dhg_5b_111.jpg)  
   
   
 Dünya Hayatının Süsleri  
   
-![dunya](https://g.fmanager.net/image/truth_life_world/dhg_5b_113.jpg)  
+![dunya](https://acikkuran.github.io/assets/images/dhg_5b_113.jpg)  
 
 Genel olarak insanların yaşamları boyunca ulaşmak ve sahip olmak için çaba harcadıkları birkaç hedef vardır. Zenginlik, mal, itibar, eş, çocuk birçok insan için dünya hayatının değişmez süsleridir. Yapılan tüm planlar, gösterilen çabalar bunlara sahip olmak içindir. Hepsinin gelip geçici olduğunu, dünyada herşeyin değer kaybettiğini, eskidiğini, yok olduğunu bildikleri halde bu gibi insanlar kendilerini bunlara şiddetle bağlanmaktan alıkoyamazlar. Malın eskiyeceğini, toprakların hep aynı berekete sahip olamayacağını, o çok değer verdikleri eşlerinin bir gün yaşlanıp güzelliğini kaybedeceğini ve en önemlisi de her insanın tüm sahip olduklarını bir gün bırakmak zorunda kalıp dünyadan ayrılacağını bilmelerine rağmen bu bağlılığı sürdürmeye devam ederler.
 
@@ -853,7 +854,7 @@ Servet, eşler, oğullar, ticaret gibi dünyaya ait tüm değerler, Allah'ı ve 
 
 Allah ahirette çok daha hayırlısını ve üstününü insanlara vereceğini vaat ettiği ve bu güzelliğe kavuşmak için de sadece Kendisi'ne gereği gibi kulluk edilmesini, yalnızca Kendi rızasının aranmasını emrettiği halde bazı insanların bundan yüz çevirip dünya hayatına razı olması şaşırtıcıdır. Oysa bir insan tamamen dinsiz, inançsız da olsa, öldükten sonra dirilmeye %50 "ihtimal" bile verse, bu düşünce onu bu konuda daha akıllı davranmaya zorlamalıdır.
 
- ![mutlu aile](https://g.fmanager.net/image/truth_life_world/dhg_5b_114.jpg)
+ ![mutlu aile](https://acikkuran.github.io/assets/images/dhg_5b_114.jpg)
 
   
 
@@ -877,7 +878,7 @@ Müminler ise bunun "ihtimal" değil, kesin bir gerçek olduğunun farkındadır
 
 Bazı insanlar dünyaya bağlanmakta ve ahireti unutmaktadırlar ancak düşünmedikleri önemli bir gerçek daha vardır. Bağlı oldukları değerler, sahip olmaya çalıştıkları "süsler" kendilerine dünyada da gerçek mutluluğu vermeyecektir. Bunun en önemli nedenlerinden biri insanın bitmek bilmeyen hırsı ve hep daha fazlasını isteyen nefsidir. Dolayısıyla değer verilen şeylerin "en üstününe, en iyisine" sahip olunması, dünya koşullarında mümkün değildir. Sahip oldukları her ne olursa olsun muhakkak daha üstünü, daha iyisi, daha güzeli vardır. Dolayısıyla bu dünya, insan ruhunun gerçek huzuru ve tatmini bulacağı bir yer kesinlikle değildir. Gerçek mutluluk ve huzur iman edenlerin sonsuza kadar içinde kalacakları ahirettedir, cennettedir.
 
- ![Erik cicegi](https://g.fmanager.net/image/truth_life_world/dhg_5b_115c.jpg)  
+ ![Erik cicegi](https://acikkuran.github.io/assets/images/dhg_5b_115c.jpg)  
 Gerçek Zenginlik Bu Dünyada mı?
 
 Bazı insanlar dünyadaki yaşamlarının, eğer isteyip uğraşırlarsa, mükemmel ve kendilerini gerçekten tatmin edecek kadar eksiksiz olabileceğini zannederler. Bunun da yeterli maddi imkanların elde edilmesiyle sağlanabileceğini düşünürler. Böylece mutlu bir aileye daha rahat kavuşacak, insanların gözünde itibar kazanacak, huzur içinde yaşamlarını sürdüreceklerdir. Oysa tüm ömürlerini sadece bunları elde etmek ve kaybetmemek için tüketen insanlar aslında büyük bir hataya düşmektedirler. Çünkü hayatlarını yalnızca dünyadaki huzurlarını ve rahatlarını düşünerek geçirmişler, gerçek ve sonsuz hayatın ahiret olduğunu tamamen unutmuşlardır. En önemli görevleri Allah'a kulluk etmek olduğu halde, dünyaya aldanmış, sahip oldukları tüm zenginlikleri kendilerine veren ve onları yaratan Allah'a şükretmeleri gerekirken, Allah'ı unutmuş ve insanların rızasını kazanmak için didinip durmuşlardır.
@@ -907,14 +908,14 @@ Ancak bu kişiler hiçbir zaman unutmamaları gereken bir konuyu gözardı etmi�
 Allah dilediğine rızkı genişletir-yayar ve daraltır da. Onlar ise dünya hayatına sevindiler. Oysaki dünya hayatı, ahirette (ki sınırsız mutluluk yanında geçici) bir meta'dan başkası değildir.  (Rad Suresi, 26)
 
   
-![Luxury Home ](https://g.fmanager.net/image/truth_life_world/dhg_5b_119_LuxuryHome.jpg)  
+![Luxury Home ](https://acikkuran.github.io/assets/images/dhg_5b_119_LuxuryHome.jpg)  
   
   
   
   
 Dünyadaki Zenginlik Ve İtibar Gerçekten Önemli mi?  
   
-![altÄ±n gold mÃ¼cevher jewelry car araba](https://g.fmanager.net/image/truth_life_world/dhg_5b_121.jpg)  
+![altÄ±n gold mÃ¼cevher jewelry car araba](https://acikkuran.github.io/assets/images/dhg_5b_121.jpg)  
   
   
 
@@ -924,7 +925,7 @@ Birçok insan dünyada eksiksiz bir yaşantı kurarak, son derece mükemmel bir 
 
   
 
-![altÄ±n gold mÃ¼cevher jewelry](https://g.fmanager.net/image/truth_life_world/dhg_5b_122c_jewellery_ring.jpg)
+![altÄ±n gold mÃ¼cevher jewelry](https://acikkuran.github.io/assets/images/dhg_5b_122c_jewellery_ring.jpg)
 
 Şuurlu bir insanın düşünmesi gereken şudur; en fazla evi olan, en pahalı arabaları satın alan, en çok kıyafeti olan kısacası en zengin olan insanın da oturabileceği ev, kullanacağı araba, yiyeceği yemek, yatacağı yatak, giyeceği kıyafet sınırlıdır. Dünyanın en büyük sarayında oturan bir insan aynı anda kaç odada birden oturabilir? Veya en güzel kıyafetlere sahip insan bir seferde bu kıyafetlerin kaçını üstüste giyebilir? Bu insanların hayatlarına baktığımızda görürüz ki, onlarca odadan oluşan malikanelere sahip olsalar dahi, aynı anda bütün odaları kullanamayacakları için evlerinin en fazla bir odasında oturabilirler. Dolaplar dolusu kıyafetleri olsa da aynı anda sadece tek bir kıyafeti giyebilirler. Allah'ın yarattığı binlerce çeşit yiyeceğe sahip olabilseler bile, en fazla 2-3 tabak yemek yiyebilirler; daha fazlasını yemeye kalksalar, bu onlar için bir işkence haline dönüşür.
 
@@ -934,7 +935,7 @@ Kuşkusuz bu örnekler çoğaltılabilir. Ancak bunlardan daha da etkilisi, kiş
 
   
 
-![altÄ±n gold mÃ¼cevher jewelry](https://g.fmanager.net/image/truth_life_world/dhg_5b_123b_zenginlik.jpg)
+![altÄ±n gold mÃ¼cevher jewelry](https://acikkuran.github.io/assets/images/dhg_5b_123b_zenginlik.jpg)
 
 Oysa Allah'ın tüm zenginliğin sahibi olduğunu, dünyadaki malın ve itibarın yine orada kalacağını bilen insanlar hiçbir zaman dünyanın peşine düşmezler. Bu insanlar sahip oldukları bir zenginlikten dolayı şımarmaz, herşeyin sahibi Rabbimiz olan Allah'ı unutmazlar, verilen bütün nimetlere şükrederek çalışırlar. Allah dünyadaki değerlere hırsla bağlanmayan bu insanlara da onurlu ve rahat bir yaşantı vaat etmiştir. Allah'ı gereği gibi takdir eden ve O'na güvenen insanlar, dünyanın geçiciliğinin, mal ve mevkinin dünyada ancak kısa bir fayda ve çıkar sağladığının, ahiretteki sonsuz yaşantının yanında da çok az bir değeri olduğunun farkındadırlar. Böyle düşünen bir insan mal sahibi olur, ancak bunu haksızlık yapmak ve insanları ezmek için kullanmaz. Zenginlik onu daha da çok dünyaya bağlamaz, aksine Allah'a olan yakınlığını ve şükrediciliğini artırır. Kimsenin hakkını yemez, Allah'ın ona verdikleriyle hep iyi işler yapmaya çalışır.
 
@@ -960,7 +961,7 @@ Oysa kendisini yaratan Allah'ı unutup malına güvenen kişi dünyada da, ahire
 
 Gerçek zenginlik ise; Allah'a iman eden ve dünyanın geçip gitmekte olan süslerine gereğinden fazla önem vermeyen, herşeyin yalnızca Allah'tan geldiğini bilen müminlere aittir. Kısa sürecek olan dünya hayatı yerine Allah'ın sonsuza kadar süreceğini bildirdiği ahiret hayatını seçen bu insanlar gerçek zenginlerdir. Mümin, dünya hayatı karşılığında ahireti satın aldığı için zaten en karlı alış verişi yapmış, geçici değil sonsuz zenginliği seçmiştir. Kuran'da bu gerçek şöyle anlatılır:
 
-![altın gold mücevher jewelry](https://g.fmanager.net/image/truth_life_world/dhg_5b_125a.jpg)
+![altın gold mücevher jewelry](https://acikkuran.github.io/assets/images/dhg_5b_125a.jpg)
 
 Hiç şüphesiz Allah müminlerden karşılığında mutlaka cenneti vermek üzere canlarını ve mallarını satın almıştır. Onlar Allah yolunda savaşırlar, öldürürler ve öldürülürler, bu Tevrat'ta, İncil'de, Kuran'da onun üzerine gerçek olan bir vaaddir. Allah'tan daha çok ahdine vefa gösterecek olan kimdir? Şu halde yaptığınız bu alışverişten dolayı sevinip, müjdeleşiniz. İşte 'büyük kurtuluş ve mutluluk' budur. (Tevbe Suresi, 111)
 
@@ -978,7 +979,7 @@ Dünya hayatına insanı bağlayan en önemli konulardan biri de evliliktir. İy
 
   
 
-![GÃ¼zel kadÄ±n evlilik](https://g.fmanager.net/image/truth_life_world/dhg_5b_127.jpg)
+![GÃ¼zel kadÄ±n evlilik](https://acikkuran.github.io/assets/images/dhg_5b_127.jpg)
 
   
 
@@ -1000,7 +1001,7 @@ Ayetlerde görüldüğü gibi hesap günü inkarcılar için dünyadaki eşin, d
 
   
 
- ![cocuk anne mother children](https://g.fmanager.net/image/truth_life_world/dhg_5b_129.jpg) 
+ ![cocuk anne mother children](https://acikkuran.github.io/assets/images/dhg_5b_129.jpg) 
 
   
 
@@ -1072,7 +1073,7 @@ Hz. İsa Mesih hiç evlenmedi, bilmiyor muydu evlenmeyi? Allah'a kendini adadı.
 
   
 
-![cocuk children](https://g.fmanager.net/image/truth_life_world/dhg_5b_135_children.jpg)
+![cocuk children](https://acikkuran.github.io/assets/images/dhg_5b_135_children.jpg)
 
   
 
@@ -1104,7 +1105,7 @@ Cahiliye kültüründe karşılaşılan en büyük hayal kırıklığı ise hiç
 
   
 
-![cocuk anne mother children](https://g.fmanager.net/image/truth_life_world/dhg_5b_137b.jpg)
+![cocuk anne mother children](https://acikkuran.github.io/assets/images/dhg_5b_137b.jpg)
 
 Oysa Kuran ahlakıyla yetiştirilmiş bir çocuğun davranışları bambaşkadır. Çünkü Kuran'da anne babanın emeğinden, onlara karşı gösterilmesi gereken saygıdan bahsedilir ve yaşlılık zamanında onları incitmemek emredilir:
 
@@ -1200,7 +1201,7 @@ Ayrıca Allah **_"Her nefis ölümü tadıcıdır. Biz sizi, şerle de, hayırla
 
   
 
-![Afetler kopru](https://g.fmanager.net/image/truth_life_world/dhg_5b_145.jpg)
+![Afetler kopru](https://acikkuran.github.io/assets/images/dhg_5b_145.jpg)
 
   
 
@@ -1250,7 +1251,7 @@ Depremler...
 
   
 
-![deprem ](https://g.fmanager.net/image/truth_life_world/dhg_5b_147_HaitiDepremi.jpg)
+![deprem ](https://acikkuran.github.io/assets/images/dhg_5b_147_HaitiDepremi.jpg)
 
   
 
@@ -1282,7 +1283,7 @@ Depremler son yıllarda giderek sıklaşmış ve güçleri de nerdeyse bir ülke
 
 Helikopterlerden çekilen ve Japon televizyonlarında yayımlanan görüntüler, Kuzey'deki kıyı bölgelerinde gemilerin karaya çıktığını, yüzlerce evin sular altında kaldığını gözler önüne sermiştir. Deprem kuşağında yaşadıkları için bu doğal afete karşı en etkili önlemleri alan ve sürekli deprem tatbikatı gören Japonlar, bu afetin boyutları karşısında tamamen çaresiz kalmışlardır. Başkent Tokyo ve çevresinde, yaklaşık 4 milyon evin elektriği kesilmiş, ulaşım sistemi felce uğramış, binlerce kişi sokaklarda, evlerinde veya tren istasyonlarında mahsur kalmıştır.
 
- ![Japonya Deprem ](https://g.fmanager.net/image/truth_life_world/dhg_5b_150a_japonya1.jpg)
+ ![Japonya Deprem ](https://acikkuran.github.io/assets/images/dhg_5b_150a_japonya1.jpg)
 
   
 
@@ -1290,7 +1291,7 @@ Helikopterlerden çekilen ve Japon televizyonlarında yayımlanan görüntüler,
 
   
 
-![Japonya Deprem](https://g.fmanager.net/image/truth_life_world/dhg_5b_150b_japonya2.jpg)
+![Japonya Deprem](https://acikkuran.github.io/assets/images/dhg_5b_150b_japonya2.jpg)
 
   
 
@@ -1298,7 +1299,7 @@ Helikopterlerden çekilen ve Japon televizyonlarında yayımlanan görüntüler,
 
   
 
-![Japonya Deprem](https://g.fmanager.net/image/truth_life_world/dhg_5b_150c_japonya3.jpg)
+![Japonya Deprem](https://acikkuran.github.io/assets/images/dhg_5b_150c_japonya3.jpg)
 
   
 
@@ -1322,19 +1323,19 @@ Sahip oldukları teknolojinin üstünlüğü, çoğu zaman bazı insanlara doğa
 
   
 
-![Kobe Japonya Deprem](https://g.fmanager.net/image/truth_life_world/dhg_5b_152a_KobeTrainRailway.jpg)
+![Kobe Japonya Deprem](https://acikkuran.github.io/assets/images/dhg_5b_152a_KobeTrainRailway.jpg)
 
   
 
   
 
-![Kobe Japonya Deprem](https://g.fmanager.net/image/truth_life_world/dhg_5b_152b.jpg)
+![Kobe Japonya Deprem](https://acikkuran.github.io/assets/images/dhg_5b_152b.jpg)
 
   
 
   
 
-![Kobe Japonya Deprem ](https://g.fmanager.net/image/truth_life_world/dhg_5b_152d_Newsjan95.jpg)
+![Kobe Japonya Deprem ](https://acikkuran.github.io/assets/images/dhg_5b_152d_Newsjan95.jpg)
 
   
 
@@ -1474,7 +1475,7 @@ Peygamber Efendimiz (sav)'in bir hadisinde de bu duruma işaret edilmektedir:
 
   
 
-![deprem earthquick](https://g.fmanager.net/image/truth_life_world/dhg_5b_156.jpg)
+![deprem earthquick](https://acikkuran.github.io/assets/images/dhg_5b_156.jpg)
 
   
 
@@ -1518,7 +1519,7 @@ Tayfunlar, Kasırgalar, Hortumlar...
 
   
 
-![Tayfunlar, KasÄ±rgalar, Hortumlar typoon wind hurricane](https://g.fmanager.net/image/truth_life_world/dhg_5b_157_Tayfun_Kasirga_Hortum.jpg)
+![Tayfunlar, KasÄ±rgalar, Hortumlar typoon wind hurricane](https://acikkuran.github.io/assets/images/dhg_5b_157_Tayfun_Kasirga_Hortum.jpg)
 
   
 
@@ -1536,13 +1537,13 @@ Oysa Allah her olayda olduğu gibi burada da insanlar üzerindeki korumasını g
 
   
 
- ![tayfun typoon](https://g.fmanager.net/image/truth_life_world/dhg_5b_158_tayfun.jpg)
+ ![tayfun typoon](https://acikkuran.github.io/assets/images/dhg_5b_158_tayfun.jpg)
 
   
 
 Yanardağlar, Volkanlar  
   
-![yanardag  volcano](https://g.fmanager.net/image/truth_life_world/dhg_5b_161_yanardag.jpg)
+![yanardag  volcano](https://acikkuran.github.io/assets/images/dhg_5b_161_yanardag.jpg)
 
   
 
@@ -1582,11 +1583,11 @@ Seller
 
   
 
-![Tayfunlar, KasÄ±rgalar, Hortumlar typoon wind hurricane tsunami](https://g.fmanager.net/image/truth_life_world/dhg_5b_163_tsunami.jpg)
+![Tayfunlar, KasÄ±rgalar, Hortumlar typoon wind hurricane tsunami](https://acikkuran.github.io/assets/images/dhg_5b_163_tsunami.jpg)
 
   
 
-![ sel flood Tayfunlar, KasÄ±rgalar, Hortumlar typoon wind hurricane tsunami](https://g.fmanager.net/image/truth_life_world/dhg_5b_164_sel.jpg)
+![ sel flood Tayfunlar, KasÄ±rgalar, Hortumlar typoon wind hurricane tsunami](https://acikkuran.github.io/assets/images/dhg_5b_164_sel.jpg)
 
   
 
@@ -1668,7 +1669,7 @@ Peygamber Efendimiz (sav)'in hadislerinde bildirdiği gibi onbinlerce kişinin h
 
 Tarihten İbret Verici Bir Örnek: Titanik  
   
-![Titanik](https://g.fmanager.net/image/truth_life_world/dhg_5b_167_titanic1.jpg)
+![Titanik](https://acikkuran.github.io/assets/images/dhg_5b_167_titanic1.jpg)
 
   
 
@@ -1696,7 +1697,7 @@ Dünyanın Çevresini Sessizce Saran Göktaşları
 
   
 
-![GÃ¶ktaÅŸlarÄ±](https://g.fmanager.net/image/truth_life_world/dhg_5b_169_Gostaslari3.jpg)
+![GÃ¶ktaÅŸlarÄ±](https://acikkuran.github.io/assets/images/dhg_5b_169_Gostaslari3.jpg)
 
   
 
@@ -1740,11 +1741,11 @@ Yan sayfada gördüğünüz resim 1980-2010 yılları arasında dünyanın etraf
 
   
 
-![GÃ¶ktaÅŸlarÄ±](https://g.fmanager.net/image/truth_life_world/dhg_5b_170a_Goktaslari.jpg)
+![GÃ¶ktaÅŸlarÄ±](https://acikkuran.github.io/assets/images/dhg_5b_170a_Goktaslari.jpg)
 
   
 
-![GÃ¶ktaÅŸlarÄ±](https://g.fmanager.net/image/truth_life_world/dhg_5b_170b_Gosktaslari2.jpg)**  
+![GÃ¶ktaÅŸlarÄ±](https://acikkuran.github.io/assets/images/dhg_5b_170b_Gosktaslari2.jpg)**  
   
 2000 yılına girdiğimizde** Dünya’nın etrafındaki göktaşı sayısı daha önce görülmedik bir hızla artarak yaklaşık bir misli sayıya, 118.441'e ulaşıyor.
 
@@ -1834,7 +1835,7 @@ Bu açıdan insanların başlarına gelen zorluklar hem kendileri hem de onlara 
 
   
 
-![yeÅŸil bulut mavi gÃ¶kyÃ¼zÃ¼ ](https://g.fmanager.net/image/truth_life_world/dhg_5b_174_dua_zaman.jpg)
+![yeÅŸil bulut mavi gÃ¶kyÃ¼zÃ¼ ](https://acikkuran.github.io/assets/images/dhg_5b_174_dua_zaman.jpg)
 
   
 
@@ -1847,7 +1848,7 @@ Görmüyorlar mı ki, gerçekten onlar her yıl, bir veya iki defa belaya çarpt
   
 
 Geçmiş Uygarlıklar  
-![GeÃ§miÅŸ UygarlÄ±klar misir_heykel](https://g.fmanager.net/image/truth_life_world/dhg_5b_177_misir_heykel.jpg)  
+![GeÃ§miÅŸ UygarlÄ±klar misir_heykel](https://acikkuran.github.io/assets/images/dhg_5b_177_misir_heykel.jpg)  
 
 Dünyayı Allah insanlar için özel bir sınama yeri olarak var etmiştir. Tarih boyunca da insanları uyarıp korkutmak, doğru yola davet etmek için elçilerini hak kitaplarla göndermiştir. Bugün de Allah'tan gelmiş ve inananlar için bir hidayet rehberi olan hak kitap elimizdedir. Doğruyu yanlıştan ayıran, geçmişte inkar eden kavimlerin başlarına gelenlerle bizi uyarıp korkutan bu kitap, Kuran'dır.
 
@@ -1865,7 +1866,7 @@ Geçmiş uygarlıkların başlarına gelenlerden bizim almamız gereken ders ise
 
   
 
-![GeÃ§miÅŸ UygarlÄ±klar](https://g.fmanager.net/image/truth_life_world/dhg_5b_178.jpg)
+![GeÃ§miÅŸ UygarlÄ±klar](https://acikkuran.github.io/assets/images/dhg_5b_178.jpg)
 
   
 
@@ -1904,7 +1905,7 @@ Allah'ın dinine karşı gelmelerinden ve azgınlıklarından dolayı helak edil
 
 Bir başka ayette ise Semud kavminin içinde yaşadığı ortam şöyle tarif edilmektedir:
 
-![Semud Kavmi](https://g.fmanager.net/image/truth_life_world/dhg_5b_181_petra3.jpg)
+![Semud Kavmi](https://acikkuran.github.io/assets/images/dhg_5b_181_petra3.jpg)
 
 "Siz burada güvenlik içinde mi bırakılacaksınız?"  
 "Bahçelerin, pınarların içinde,"  
@@ -1925,7 +1926,7 @@ O zulmedenleri dayanılmaz bir ses sarıverdi de kendi yurtlarında dizüstü ç
 
 Yeryüzünde yaşamış hangi topluluk olursa olsun, ne kadar büyük bir zenginlik ve ihtişama sahip olduğuna bakılmaksızın, azgınlık gösterdikleri takdirde Allah'ın azabına uğramışlardır. Bugün Semud kavminden, peygamberlerini öldürmeye varacak kadar azgınlaşan insanların ne elde ettikleri mallarından, ne de güçlerinden hiçbir eser yoktur. İsimleri dahi bilinmeyen bu insanların yaşamı, tüm diğer inkarcılar gibi cehennem hayatıyla son bulmuştur. Bu, her insanın ibret alarak düşünmesi gereken bir sondur.
 
-![Semud Kavmi](https://g.fmanager.net/image/truth_life_world/dhg_5b_180_petra.jpg)
+![Semud Kavmi](https://acikkuran.github.io/assets/images/dhg_5b_180_petra.jpg)
 
   
 
@@ -1947,7 +1948,7 @@ Ayetlerden görüldüğü gibi, Sebe halkı bereketli bağ ve bahçelerde, refah
 Muhteşem Sümerler  
   
   
-![MuhteÅŸem SÃ¼merler ](https://g.fmanager.net/image/truth_life_world/dhg_5b_185_altinli_iskelet.jpg)  
+![MuhteÅŸem SÃ¼merler ](https://acikkuran.github.io/assets/images/dhg_5b_185_altinli_iskelet.jpg)  
 
 _Irak'ın güneyinde, Dicle ve Fırat kıyılarından uzaklaşır uzaklaşmaz, çölü andıran, geniş bozkır alanlarının yayıldığı görülür. Bu uçsuz bucaksız düzlüklerde, yer yer, heybetli tepeler belirir. Çünkü kumla örtülü bu tepelerin altında, büyük sitelerin kalıntıları yatmaktadır. Bu siteler, Sümerler adı verilen bir halk tarafından kurulmuştur. Artık, kavurucu çöl rüzgarlarının önüne katıp sürüklediği kumlardan başka birşey görülmeyen, sadece çakalların ve akbabaların yaşadıkları bu yerlerde, 45 yüzyıl önce, kanallarla çevrili, bahçelerle bezenmiş cıvıl cıvıl şehirler yükseliyordu. Bugün ise, bir ölüm sessizliği hüküm sürüyor...._
 
@@ -1959,10 +1960,10 @@ Kısacası Sümer medeniyetinin önemli bir ismi olan Kraliçe Puabi, muhteşem 
 
   
 
- ![MuhteÅŸem SÃ¼merler ](https://g.fmanager.net/image/truth_life_world/dhg_5b_183_sumerler.jpg)
+ ![MuhteÅŸem SÃ¼merler ](https://acikkuran.github.io/assets/images/dhg_5b_183_sumerler.jpg)
 
   
-![MuhteÅŸem SÃ¼merler ](https://g.fmanager.net/image/truth_life_world/dhg_5b_184_puabi.jpg)
+![MuhteÅŸem SÃ¼merler ](https://acikkuran.github.io/assets/images/dhg_5b_184_puabi.jpg)
 
   
   
@@ -1981,7 +1982,7 @@ Pek çok yönden dönemin en önemli uygarlıklarından biri olan Girit ahalisi 
   
   
   
-![Girit UygarlÄ±ÄŸÄ±](https://g.fmanager.net/image/truth_life_world/dhg_5b_186_girit.jpg)  
+![Girit UygarlÄ±ÄŸÄ±](https://acikkuran.github.io/assets/images/dhg_5b_186_girit.jpg)  
   
 Yurtlarında gezip dolaştıkları nice nesilleri kendilerinden evvel yıkıma uğratmış olmamız,   
 hala onları doğru yola iletip yöneltmedi mi? Elbette, bunda ayetler vardır; yine de   
@@ -1990,7 +1991,7 @@ işitmiyorlar mı? (Secde Suresi, 26)
   
 Pompei Faciası  
   
-![Pompei](https://g.fmanager.net/image/truth_life_world/dhg_5b_191_girit2.jpg)  
+![Pompei](https://acikkuran.github.io/assets/images/dhg_5b_191_girit2.jpg)  
 
 Tarihçilere göre, bundan 2000 yıl kadar önce bazı kentler, zevk ve sefanın hüküm sürdüğü şehirler olarak tanınmaktaydı. İşte Pompei de bunlardan biriydi.
 
@@ -2010,15 +2011,15 @@ Günümüzden yüzlerce hatta binlerce yıl önce yaşayan uygarlıkların, geri
 
   
 
-![Pompei](https://g.fmanager.net/image/truth_life_world/dhg_5b_187_Pompei_Italia.jpg)  
+![Pompei](https://acikkuran.github.io/assets/images/dhg_5b_187_Pompei_Italia.jpg)  
 Vezüv Yanardağında geçmişte yaşanan bir lav ve kül felaketi, bu kentin insanlarını ani bir biçimde yakalamıştı. Felaket öylesine ani olmuştu ki, herşey 2000 yıl öncesinde olduğu gibi kaldı. Bugün, volkanın lavlarıyla "taş kesilmiş" Roma hayatı tüm ayrıntılarıyla görülebilmektedir.  
   
 İşte Allah insanlara bu örnekleri vermekte, bunların benzerleriyle dünya tutkunlarını uyarmaktadır. Kuşkusuz bundan öğüt alıp bir ders çıkarabilenler, tarih boyunca meydana gelen olayların hiçbirinin boşuna yaratılmadığını, Allah'ın her an her yerde bütün bunlardan daha şiddetlisini insanlara tattırmaya güç yetirdiğini kavrayabilirler. Dünya sadece bir imtihan yeridir. Burada imtihanın gereklerini yerine getirenler kazançlıdırlar. Sadece dünyayı yurt edinenler ise, geçmişteki örneklerin benzeri bir kayba uğrayacaklardır. Kuşkusuz bu, kendi yapıp ettiklerinin karşılığıdır. Ahirette sadece yaptıkları ile karşılık göreceklerdir. Şüphesiz doğrusunu Allah bilir.  
   
-![Pompei](https://g.fmanager.net/image/truth_life_world/dhg_5b_192_pompei.jpg)  
+![Pompei](https://acikkuran.github.io/assets/images/dhg_5b_192_pompei.jpg)  
   
   
-![cocuk genÃ§ yetiÅŸkin yaÅŸlÄ± kadÄ±n old Ã¶lÃ¼m Ã§erÃ§eve](https://g.fmanager.net/image/truth_life_world/dhg_5b_193_pompei20.jpg)  
+![cocuk genÃ§ yetiÅŸkin yaÅŸlÄ± kadÄ±n old Ã¶lÃ¼m Ã§erÃ§eve](https://acikkuran.github.io/assets/images/dhg_5b_193_pompei20.jpg)  
   
 Pompei, içindeki 20 bin kişi ve tüm güzellikleriyle birlikte yok oldu.  
   
@@ -2062,7 +2063,7 @@ Elbette, dünya hayatının eksikliği, bu dünyada güzel şeylerin var olmadı
 İşte bu nedenle, ahiret yurdunu kazanmak, yani cennete kavuşmak için ciddi bir çaba gerekmektedir. Allah inanan kullarına bunu emretmiştir:
 
   
-![cennet](https://g.fmanager.net/image/truth_life_world/dhg_5b_195_cennet.jpg)  
+![cennet](https://acikkuran.github.io/assets/images/dhg_5b_195_cennet.jpg)  
   
   
   
@@ -2089,7 +2090,7 @@ Bu, Allah'ın kendilerini görünmeyen meleklerle desteklediğini, **_"önlerind
 
   
 
-![cennet](https://g.fmanager.net/image/truth_life_world/dhg_5b_199_kugu.jpg)
+![cennet](https://acikkuran.github.io/assets/images/dhg_5b_199_kugu.jpg)
 
   
   
@@ -2117,7 +2118,7 @@ Ahiret yurdu bu dünyadan daha hayırlı ve üstündür. Dünya hayatının tüm
   
 
   
-![cennet](https://g.fmanager.net/image/truth_life_world/dhg_5b_201_cennet4.jpg)  
+![cennet](https://acikkuran.github.io/assets/images/dhg_5b_201_cennet4.jpg)  
   
 Sakınanlara: "Rabbiniz ne indirdi?" dendiğinde "Hayır" dediler. Bu dünyada güzel davranışlarda bulunanlara güzellik vardır; ahiret yurdu ise daha hayırlıdır. Takva sahiplerinin yurdu ne güzeldir. (Nahl Suresi, 30)  
   
@@ -2165,7 +2166,7 @@ Bir kısmı dünyadakileri andıran, bir kısmı ise daha önce hiçbir nefsin g
   
 Cennette Müminlerin Yaşadıkları Ortam  
   
-![mutlu aile](https://g.fmanager.net/image/truth_life_world/dhg_5b_206_Altindanirmaklar.jpg)  
+![mutlu aile](https://acikkuran.github.io/assets/images/dhg_5b_206_Altindanirmaklar.jpg)  
   
   
 
@@ -2221,7 +2222,7 @@ Ebedi hayatta bu tür şölenlerle ve buna benzer, bitmek tükenmek bilmeyen env
 
 Bu yorgunluğa zihinsel yorgunluk da dahil olabilir. (Doğrusunu Allah bilir) Dünyevi şartlarda insan, bedenen zayıf yaratıldığından kolay yorulur. Yorulduğunda ise zihni bulanmaya başlar, dikkati dağılır, sağlıklı düşünebilmesi zorlaşır, algılaması da zayıflar. Oysa bu durum cennette söz konusu olmayacaktır. Zihin, müminin Allah'ın nimetlerini eksiksiz algılayabilmesi ve bunlardan zevk alabilmesi için her zaman açık, şuur keskin olacaktır. Dünyanın eksikliklerinden birisi olan yorgunluk hissi ortadan kaldırılacağı için, müminlerin sonsuz nimetlerden aralıksız istifade edebilmeleri mümkün olacaktır. Alınan haz kesintisizdir, bir nimetten diğerine geçiş olur.
 
-![genç kadın yaşlı kadın young old woman](https://g.fmanager.net/image/truth_life_world/dhg_5b_210_kova.jpg)
+![genç kadın yaşlı kadın young old woman](https://acikkuran.github.io/assets/images/dhg_5b_210_kova.jpg)
 
 Yorgunluğun ve bıkkınlığın dokunmadığı bir ortamda Allah, müminlerin "her diledikleri şey"i yaratarak onları ödüllendirmektedir. Hatta "orada diledikleri herşey onlarındır, Katımız'da daha fazlası da var" (Kaf Suresi, 35) diyerek Allah, insanın isteyebileceğinden, hayal edebileceğinden de fazlasını vereceğini, sınırlı isteklerimizin, cennette kat kat artırılacağını belirtmektedir.
 
@@ -2315,7 +2316,7 @@ Cennet Allah'ın bir ikramıdır ve bu nedenle çok değerlidir. Cennet ehli, **
 
 Çünkü inkar edenler suçludurlar ve işledikleri de olabilecek en büyük suçtur. İnsanın, kendini yaratan, can veren Allah'a isyan ve nankörlük etmesi, tüm evrendeki en büyük suçtur. Buna karşılık cehennem Allah'ın adaletinin yerine getirileceği mekandır. İnsan Allah'a kul olsun diye yaratılmıştır. Yaratılış amacını reddederse bu hatasının karşılığını görür. Allah, bir ayette şöyle buyurmaktadır:
 
-![cehennem](https://g.fmanager.net/image/truth_life_world/dhg_5b_218_cehennem_giris.jpg)
+![cehennem](https://acikkuran.github.io/assets/images/dhg_5b_218_cehennem_giris.jpg)
 
 ... Doğrusu Bana ibadet etmekten büyüklenen (müstekbir)ler; cehenneme boyun bükmüş kimseler olarak gireceklerdir.(Mü'min Suresi, 60)
 
@@ -2353,11 +2354,11 @@ Cehennemin en korkunç özelliklerinden biri, azabın hiçbir zaman bitmeyecek o
 
   
 
-![cehennem](https://g.fmanager.net/image/truth_life_world/dhg_5b_224_cehennem4.jpg)  
+![cehennem](https://acikkuran.github.io/assets/images/dhg_5b_224_cehennem4.jpg)  
   
 Cehennemdeki Azap Ortamı  
   
-![cehennem](https://g.fmanager.net/image/truth_life_world/dhg_5b_227_cehennem5.jpg)  
+![cehennem](https://acikkuran.github.io/assets/images/dhg_5b_227_cehennem5.jpg)  
   
   
 
@@ -2401,7 +2402,7 @@ Karşı karşıya kaldıkları azap, Kuran'da bildirildiği üzere **_"büyük b
 
 **_Artık o gün hiç kimse (Allah'ın) vereceği azap gibi azaplandıramaz. Onun vuracağı bağı hiç kimse vuramaz._**  (Fecr Suresi, 25-26)
 
- ![cehennem](https://g.fmanager.net/image/truth_life_world/dhg_5b_229_cehennem6.jpg)
+ ![cehennem](https://acikkuran.github.io/assets/images/dhg_5b_229_cehennem6.jpg)
 
 Kuran'da anlatıldığına göre, cehennemde tam anlamıyla bir hayat vardır. Ancak her anı çok yönlü işkencelerle ve acılarla dolu bir hayat söz konusudur. Cehennemdeki bu hayat, aşağılanmanın, rezilliğin, sefilliğin, fiziksel ve psikolojik eziyetlerin, işkencelerin çok çeşitli uygulamalarından oluşur. Cehennemdeki azabı dünyadaki herhangi birşeyle kıyaslamak elbette mümkün değildir.
 
@@ -2427,7 +2428,7 @@ Ayetlerde bildirildiği üzere Allah'a, O'nun tam olarak istediği gibi değil, 
 
   
 
-![cehennem](https://g.fmanager.net/image/truth_life_world/dhg_5b_231_cehennem7.jpg)
+![cehennem](https://acikkuran.github.io/assets/images/dhg_5b_231_cehennem7.jpg)
 
 **_Eğer Biz dilemiş olsaydık, her bir nefse kendi hidayetini verirdik. Fakat benden çıkan şu söz gerçekleşecektir: "Andolsun, cehennemi cinlerden ve insanlardan (inkâr edenlerle) tamamıyla dolduracağım."_** (Secde Suresi, 13)
 
@@ -2445,7 +2446,7 @@ Her insan böyle bir tehlikeyle karşı karşıyadır. Eğer kendisini yaratmı�
 
 **_Hayır; eğer o, (bu tutumuna) bir son vermeyecek olursa, andolsun, onu perçeminden tutup sürükleyeceğiz; O yalancı, günahkar olan alnından. O zaman da meclisini (yakın çevresini ve yandaşlarını) çağırsın. Biz de zebanileri çağıracağız._** (Alak Suresi, 15-18)
 
- ![cehennem](https://g.fmanager.net/image/truth_life_world/dhg_5b_233_cehennem8.jpg)
+ ![cehennem](https://acikkuran.github.io/assets/images/dhg_5b_233_cehennem8.jpg)
 
 Sonuçsuz Yalvarmalar ve Ümitsizlik 
 
@@ -2465,7 +2466,7 @@ Ayetten anlaşıldığına üzere bu, Allah'ın cehennem ehline son hitabıdır 
 
 Cehennem ehli çığlık çığlığa azap çekerken, "kurtuluşa ve mutluluğa eren"ler, yani müminler de cennetin nimetleri içindedirler. Ve cehennem ehlinin çektiği manevi azapların birini, söz konusu cennet ehli ile olan diyaloğu oluşturur. İnkarcılar, cehennemin korkunç azapları içinde işkence görürken, bir yandan cenneti görür, oradaki büyük nimet ve ihtişamı izlerler. Dünyada iken kendileriyle alay ettikleri müminlerin; büyük bir rahatlık içinde, görkemli mekanlarda, muhteşem evlerde, nefis yiyecek ve içecekleri tattıklarını görürler. Kendi yaşadıkları azap ve aşağılanmaya karşılık, müminlerin böylesine büyük bir nimet, övülmüşlük ve huzur içinde olduğunu fark ederler. Bu ise yaşadıkları azabı daha da şiddetlendirir. Duydukları pişmanlık, dayanılmaz boyutlara varır. Dünyada iken iman etmemiş, müminlerin aksine Allah'ın hükümlerine itaat etmemiş olmalarının kahredici pişmanlığı içinde boğulurlar. Bu psikoloji içinde, cennet ehliyle diyalog kurmaya, hatta onlardan yardım dilemeye de çalışırlar. Yalvarırlar; ancak yine boşunadır. Bu arada cennettekiler de inkarcıların halini görürler ve bu onların Allah'a daha çok şükretmelerine neden olur. Kuran'da, cennet ve cehennem ehli arasındaki diyaloglar şöyle haber verilir:
 
- ![cehennem](https://g.fmanager.net/image/truth_life_world/dhg_5b_235.jpg)
+ ![cehennem](https://acikkuran.github.io/assets/images/dhg_5b_235.jpg)
 
 Onlar (müminler) cennetlerdedirler; birbirlerine sorarlar. 
 
