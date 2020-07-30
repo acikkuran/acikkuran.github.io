@@ -14,8 +14,6 @@ encoding: UTF-8
 
  Önsöz
 
-  
-
 Resimde gördüğünüz kadın yaklaşık 70 yaşlarında. Hiç düşündünüz mü, 70 yaşında bir insanın geçmişe yönelik düşünceleri nelerdir?
 
   
