@@ -5,9 +5,9 @@ description: İnsan, aklı ile Allah’ın bildirdiği gerçekleri görür ve vi
 logo: assets/images/logo.png
 favicon: favicon.ico
 baseurl:
-url    : https://kuranvebilim.github.io
+url    : https://acikkuran.github.io
 disqus : vdemir-github-io
-email  : evlenmekistiyorum@yandex.com
+email  : union2023@protonmail.com
 mailchimp-list: https://yandex.us20.list-manage.com/subscribe?u=955ac2b297f05748440c9765e&id=a69ebec7e0
 
 
@@ -28,7 +28,7 @@ authors:
     admin:
       name:           Admin
       site:           https://vdemir.github.io
-      url :           https://kuranvebilim.github.io
+      url :           https://acikkuran.github.io
       avatar:         assets/images/avatar1.jpg
       bio:            Blogger
       email:          evlenmekistiyorum@yandex.com
@@ -37,7 +37,7 @@ authors:
     sal:
       name:           Sal
       site:           https://vdemir.github.io
-      url :           https://kuranvebilim.github.io
+      url :           https://acikkuran.github.io
       avatar:         assets/images/avatar1.jpg
       bio:            Blogger
       email:          evlenmekistiyorum@yandex.com
@@ -47,7 +47,7 @@ authors:
     jane:
       name:           Jane
       site:           https://vdemir.github.io
-      url :           https://kuranvebilim.github.io
+      url :           https://acikkuran.github.io
       avatar:         assets/images/avatar2.jpg
       bio:            Blogger
       email:          evlenmekistiyorum@yandex.com
