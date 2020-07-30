@@ -5,7 +5,7 @@ author: jane
 categories: [ Ahlak ]
 tags: [Sevgi]
 keywords: Nimet, Ahlak, Sevgi, Düşünmek
-image: assets/images/sevgide-ahlak.jpg
+image: assets/images/shutterstock_96153884.jpg
 comments: false
 published: true
 lang: tr
@@ -16,7 +16,7 @@ Dünyanın dört bir yanındaki insanlara sorsanız, her biri de kendince “sev
 
 
 
-[![kadın](/assets/images/shutterstock_96153884.jpg "kadın")](https://dusuneninsanlaricin.com/wp-content/uploads/2016/02/shutterstock_96153884.jpg)
+[![kadın](/assets/images/sevgide-ahlak.jpg "kadın")](https://dusuneninsanlaricin.com/wp-content/uploads/2016/02/shutterstock_96153884.jpg)
 
 İnsanların ‘sevgi’ zannettikleri bir duygu vardır elbette. Ancak geçen zaman, bunun sevgi olmadığını çok açık bir şekilde ortaya koyar. **Gerçek sevgi, pek çok denemeden geçtiği halde, hiçbir şekilde zedelenmeyen; zamana, zorluklara, eksikliklere, yanlışlıklara karşı dayanabilen ve sürekli olarak artan duyguya verilen addır.**
 
