@@ -2,8 +2,8 @@
 layout: post
 title:  "Dünya Hayatının Gerçeği"
 author: jane
-categories: [ Ahlak ]
-tags: [Sevgi]
+categories: [ Kitap ]
+tags: [Dünya]
 keywords: Nimet, Ahlak, Sevgi, Düşünmek
 image: assets/images/Dünya-Hayatının-Gerçeği.jpg
 comments: false
@@ -12,12 +12,13 @@ lang: tr
 encoding: UTF-8
 ---
 
+
+
  Önsöz
 -------------
 
 Resimde gördüğünüz kadın yaklaşık 70 yaşlarında. Hiç düşündünüz mü, 70 yaşında bir insanın geçmişe yönelik düşünceleri nelerdir?
 
-  
 
 Bu insan her kim olursa olsun, muhtemelen yaşadığı 70-80 senenin nasıl geçtiğini anlayamadığını düşünüyordur. Hatta kendisine sorsanız, "göz açıp kapayıncaya kadar geçti, hiçbir şey anlayamadım" diyecektir. 20'li yaşlarındayken herhalde o da yaşlanacağını hiç düşünmemiştir. Ancak şu an, çok uzak gördüğü o dönemin içinde bulunmanın şaşkınlığını yaşıyordur. Ve bu anı uzak görmekle ne kadar yanıldığını da çok iyi anlamıştır.
 
@@ -25,9 +26,6 @@ Bu insan her kim olursa olsun, muhtemelen yaşadığı 70-80 senenin nasıl geç
 
 Yaşamı boyunca yaptıklarını yazmasını veya anlatmasını isteseniz, en fazla bir defteri doldurabilir veya en fazla beş-altı saat arka arkaya anlatabilir. "Koskoca 70 sene" dediği şeyin tamamı işte bu kadardır...
 
-  
-
-  
 
 ![manzara gÃ¼l Ã§erÃ§eve yaÅŸlÄ± kadÄ±n](https://acikkuran.github.io/assets/images/dhg_5b_010.jpg)
 
