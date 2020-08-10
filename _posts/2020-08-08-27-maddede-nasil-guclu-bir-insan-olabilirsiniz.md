@@ -2,8 +2,8 @@
 layout: post
 title:  "27 Maddede Nasıl Güçlü Bir İnsan Olabilirsiniz?"
 author: jane
-categories: [ Ahlak ]
-tags: [Sevgi]
+categories: [ Yaşam-Sağlık ]
+tags: [Sağlıki]
 keywords: Nimet, Ahlak, Sevgi, Düşünmek
 image: assets/images/superman.jpg
 comments: false
