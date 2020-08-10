@@ -5,7 +5,7 @@ author: jane
 categories: [ Evren ]
 tags: [Evren]
 keywords: Evren , Evrenin Yaratılışı
-image: assets/images/00-Banner-Gama-ışınları-1-1764x700.jpg
+image: assets/images/00-Banner-Gama-ışınları-1-1280x507.jpg
 comments: false
 published: true
 lang: tr
