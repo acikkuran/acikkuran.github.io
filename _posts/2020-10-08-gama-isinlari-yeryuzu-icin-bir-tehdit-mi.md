@@ -119,6 +119,8 @@ Bu gerçekleri düşünmek ve Allah’a olan yakınlığımızı arttırmak her 
 **“Gökten yere her işi O evirip düzene koyar…”** (Secde Suresi, 5)
 **Onlar, ayakta iken, otururken, yan yatarken Allah’ı zikrederler ve göklerin ve yerin yaratılışı konusunda düşünürler. (Ve derler ki:) ‘Rabbimiz, sen bunu boşuna yaratmadın. Sen pek yücesin, bizi ateşin azabından koru.’** (Al-i İmran Suresi, 191)
 
+https://yaratilis.com/index.php/gama-isinlari-yeryuzu-icin-bir-tehdit-mi/
+
 Referanslar:
 (1) http://www.yaklasansaat.com/evren/yildiz\_ve\_yasami/gama\_isini1.asp
 (2) https://courses.lumenlearning.com/boundless-physics/chapter/the-electromagnetic-spectrum/
