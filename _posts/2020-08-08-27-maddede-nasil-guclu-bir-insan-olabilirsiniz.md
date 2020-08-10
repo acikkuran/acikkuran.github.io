@@ -12,6 +12,8 @@ lang: tr
 encoding: UTF-8
 ---
 
+Nasıl Güçlü Bir İnsan Olabilirsiniz?
+=========================================
 
 1- Size bağıran birini dinlerken bağırmasına takılmadan konuyu dinleyip, o konuyu kendinizde değiştirmeye çalışabilirsiniz. Eleştirilmekten korkmayın.Doğru bir eleştiri sizi geliştirir.
 
