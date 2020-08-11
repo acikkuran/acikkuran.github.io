@@ -4,7 +4,7 @@ title:"Gama Işınları Yeryüzü İçin Bir Tehdit Mi?"
 author: jane
 categories: [ Evren ]
 tags: [Evren]
-keywords: Evren , Evrenin Yaratılışı
+keywords: Evren
 image: assets/images/Gama.jpg
 comments: false
 published: true
