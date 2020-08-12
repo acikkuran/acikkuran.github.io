@@ -5,7 +5,7 @@ author: jane
 categories: [ Evren ]
 tags: [Sağlıki]
 keywords: Nimet, Ahlak, Sevgi, Düşünmek
-image: assets/images/superman.jpg
+image: assets/images/Gama.jpg
 comments: false
 published: true
 lang: tr
