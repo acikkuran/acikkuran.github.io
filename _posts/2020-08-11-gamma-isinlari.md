@@ -89,7 +89,7 @@ Gama ışınları taşıdıkları yüksek enerji nedeniyle organizmalarda büyü
 ###### **Organ ve Dokuları Harap Ederler**
 
 Hasarlı DNA düzgün onarılmadığı takdirde hücre ya bozuk (kötü çalışan) bir metabolizma ile sağ kalacak ya da ölecektir. Vücudun birçok organ veya dokusu, önemli sayıda hücre kaybına rağmen faaliyetlerini normal bir şekilde sürdürebilir. Radyasyonun verdiği hasar sonucu hücre ölmüyor ancak değişikliğe uğruyorsa, bu hücredeki hasar genellikle onarılır. Onarım mükemmel olarak gerçekleşmediği takdirde, değişim yavru hücrelere aktarılacak ve er geç bu organ veya dokularda kanser oluşumuna ya da işlev bozukluklarına yol açacaktır.
-Hücre kaybı belli bir sayının üzerine çıktığında ise onarım mümkün olmaz, dolayısıyla organ veya dokular faaliyetini normal şekilde sürdüremez. Sonuç olarak ışına maruz kalan kişilerde gözlenebilir hasarlar yani hastalıklar meydana gelir. Bunlar organ ve dokularda işlev bozuklukları olabileceği gibi kanserleşmeler de olabilir. Bu da ancak bu kadar çok sayıda hücrenin ölümüne sebep olacak büyüklükte bir radyasyon dozuna maruz kalınması sonucu gerçekleşir. Ayrıca maruz kalınan radyasyonun süresi ve sürekliliği de önemli bir etkendir.
+Hücre kaybı belli bir sayının üzerine çıktığında ise onarım mümkün olmaz, dolayısıyla organ veya dokular faaliyetini normal şekilde sürdüremez. Sonuç olarak ışına maruz kalan kişilerde gözlenebilir hasarlar yani hastalıklar meydana gelir. Bunlar organ ve dokularda işlev bozuklukları olabileceği gibi kanserleşmeler de olabilir. Bu da ancak bu kadar çok sayıda hücrenin olumüne sebep olacak büyüklükte bir radyasyon dozuna maruz kalınması sonucu gerçekleşir. Ayrıca maruz kalınan radyasyonun süresi ve sürekliliği de önemli bir etkendir.
 Eğer bir kişinin, çocuklarına genetik bilgilerin aktarılmasıyla ilgili hücreleri radyasyondan etkilenirse kalıtımsal bozukluklar meydana gelebilir. Yani gelecek nesillerde hastalıklar ve sakatlıklar görülebilir.(14)
  
 
@@ -120,7 +120,7 @@ Bu gerçekleri düşünmek ve Allah’a olan yakınlığımızı arttırmak her 
 
 
 
-[(https://yaratilis.com/index.php/gama-isinlari-yeryuzu-icin-bir-tehdit-mi/)](https://yaratilis.com/index.php/gama-isinlari-yeryuzu-icin-bir-tehdit-mi/))
+[https://yaratilis.com/index.php/gama-isinlari-yeryuzu-icin-bir-tehdit-mi/](https://yaratilis.com/index.php/gama-isinlari-yeryuzu-icin-bir-tehdit-mi/))
 
 **Referanslar:**
 
