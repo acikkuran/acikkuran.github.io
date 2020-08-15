@@ -3,8 +3,8 @@ layout: post
 title:  "Gama Işınları Yeryüzü İçin Bir Tehdit Mi?"
 author: jane
 categories: [ Evren ]
-tags: [Sağlıki]
-keywords: Nimet, Ahlak, Sevgi, Düşünmek
+tags: [Evren]
+keywords: Gama, Hayat, Dünya, Evren
 image: assets/images/Gama.jpg
 comments: false
 published: true
