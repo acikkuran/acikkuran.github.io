@@ -1,0 +1,110 @@
+I"�<div class="container">
+{% assign count = '0' %}
+{% assign idx = '0' %}
+{% for post in site.posts reversed %}
+	{% if post.series == page.series %}
+		{% capture count %}{{ count | plus: '1' }}{% endcapture %}
+		{% if post.url == page.url %}
+			{% capture idx %}{{count}}{% endcapture %}
+		{% endif %}
+	{% endif %}
+{% endfor %}
+
+<div class="seriesNote">
+	<ul><table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Sıra</th>
+      <th scope="col">Makale İsmi</th>
+    </tr>
+  </thead>
+  <tbody>
+	{% assign count = '0' %}
+	{% for post in site.posts reversed %}
+	{% if post.series == page.series %}
+		{% capture count %}{{ count | plus: '1' }}{% endcapture %} 
+		{% if page.url == post.url %}
+			Bu Makale
+		{% else %}
+    <tr>
+      <th scope="row">{{ count }}</th>
+      <td><a href="{{post.url}}" target="_blank">{{post.title}}</a></td>
+    </tr>
+		{% endif %}
+		&lt;/li&gt;
+	{% endif %}
+	{% endfor %}
+  </tbody>
+</table>
+	</ul>
+</div>
+<br />
+</div>
+<!--
+<div class="container">
+- Tag Cloud -
+<h4><i class="fas fa-tags"></i> &nbsp;  Etiket Bulutu</h4>
+{% for tag in site.tags %}
+  <span style="font-size: {{ tag | last | size | times: 150 | divided_by: site.tags.size | plus: 100  }}%">
+    <a href="/tags.html#{{ tag | first | slugize }}"  style="text-decoration: none; color:#1e5b9f; cursor:pointer">
+      {{ tag | first }}
+    </a> &nbsp;
+  </span>
+{% endfor %}</div>
+<br>-->
+<!--- Site visitor counter 
+<div class="container">
+<a href="https://flaghitcounter.com/details/uk" rel="nofollow"><img src="https://flaghitcounter.com/uk/" alt="Flag Counter"></a></div>
+<br>
+--->
+
+<!--- 
+<div class="container">
+<div class="tag-cloud">
+   {% for tag in site.tags %}
+      <a href="/tags.html#{{ tag | first | slugize }}" id="{{ forloop.index }}" class="__tag" style="margin: 5px">{{ tag[0] }}</a>
+      <ul id="list_{{ forloop.index }}" style="display:none;">
+         {% for post in tag[1] %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+         {% endfor %}
+      </ul>
+   {% endfor %}
+</div>
+
+<div id ="posts-tags" class="post-list" style="margin: 50px;"></div>
+</div>
+<script>
+   $(function() {
+      var minFont = 15.0,
+          maxFont = 40.0,
+          diffFont = maxFont - minFont,
+          size = 0;
+       
+      {% assign max = 1.0 %}
+      {% for tag in site.tags %}
+         {% if tag[1].size > max %}
+            {% assign max = tag[1].size %}
+         {% endif %}
+      {% endfor %}
+            
+      {% for tag in site.tags %}
+         size = (Math.log({{ tag[1].size }}) / Math.log({{ max }})) * diffFont + minFont;
+         $("#{{ forloop.index }}").css("font-size", size + "px");
+      {% endfor %}
+
+      $('.tag-cloud a[class^="__tag"]').click(function() {
+         $('.post-list').empty();
+         $('#list_' + $(this).attr('id')).each(function() {
+            $('.post-list').append('<ul>' + $(this).html() + '</ul>');
+         });
+      });
+   });
+</script>
+
+
+harunyahya
+<div class="container">
+<div><iframe id="webservicePreview" frameborder="0" width="320" height="595" src="https://www.harunyahya.web.tr/Webservice/addyourwebsite?widgetForm=type%255B%255D%3D6%26frameSchema%3DKutuluListe%26count%3D9%26target%3D_blank%26not_pagination%3D1%3D%26fullListLink%3D%252Flist%252Ftype%252F6%252F"></iframe>
+</div>
+</div> --->
+:ET
