@@ -41,7 +41,7 @@ encoding: UTF-8
 <tr>
 <td></td>
 <td bgcolor="#FFFFFF">
-<table width="540" border="1" cellspacing="0" cellpadding="5" align="center">
+<table width="600" border="1" cellspacing="0" cellpadding="5" align="center">
 <tbody>
 <tr>
 <td bgcolor="#FCCC6A">Ayet</td>
