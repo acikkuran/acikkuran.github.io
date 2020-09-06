@@ -11,17 +11,7 @@ published: true
 lang: tr
 encoding: UTF-8
 ---
-
-<table width="1003" border="0" cellspacing="0" cellpadding="0" align="center">
-<tbody>
-<tr>
-<td bgcolor="#FFFFFF"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td bgcolor="#FFFFFF">
+ 
 <h2>   <span style="color:#ff0000;">KURAN&#8217;DA EBCED HESABI</span></h2>
 <p>Arapça alfabedeki her harfin sayısal bir değeri vardır. Yani Arapçada her harf bir rakama tekabül eder. Bundan istifade edilerek çeşitli hesaplamalar yapılır. İşte yapılan bu hesaba &#8220;ebced hesabı&#8221; ya da &#8220;hisab-ı cümel&#8221; denir.<a href="http://www.kuranmucizeleri.com/matematik02.html#239"> (İsmail Yakıt, Türk-İslam Kültüründe Ebced Hesabı ve Tarih Düşürme, s. 36)</a></p>
 <p>Ebced alfabe düzeninin her bir harfinin bir rakama tekabül etmesi özelliğinden faydalanan Müslümanlar, bunu çeşitli sahalarda kullanmışlardır. Cifr ilmi de bu yöntemlerden birisidir.</p>
@@ -29,7 +19,7 @@ encoding: UTF-8
 <p>Cifr; gelecekte muhtemel olacak işlerden haber veren ilmin adıdır. Buna göre sembolik şekiller ve harflerin ebced sayı karşılıkları üzerinde yapılan yorumlar, bu sahayla meşgul olan kimselerin başvurdukları yollardan biridir. Ebced ile cifr yöntemleri arasındaki en önemli fark; ebced gerçekleşmiş olanın, cifr ise gerçekleşmesi muhtemel olanın ilmidir.<a href="http://www.kuranmucizeleri.com/matematik02.html#240"> (İsmail Yakıt, Türk-İslam Kültüründe Ebced Hesabı ve Tarih Düşürme, s. 56)</a></p>
 <p>Bu hesap yöntemi, çok eski tarihlere kadar uzanan ve daha henüz Kuran indirilmeden önce kullanımı çok yaygın olan bir yazım şeklidir. Arap tarihinde geçen tüm olaylar, harflere rakam değeri verilerek yazılır ve böylece her olayın tarihi de kayda geçilmiş olurdu. Bu tarihler, her kullanılan harfin özel rakam değerlerinin toplanmasıyla elde ediliyordu.</p>
 <p>İşte söz konusu bu ebced yöntemiyle, Kuran&#8217;da geçen bazı ayetler incelendiğinde, bu ayetlerin anlamlarına uygun olarak birtakım tarihlere denk geldiğini görürüz. Ve bu ayetlerde bahsedilen olayların, ebced hesaplarıyla elde edilen tarihlerde gerçekleştiğini gördüğümüzde ise, söz konusu ayetlerde olaya ilişkin gizli bir işaret bulunduğunu anlarız. (Doğrusunu en iyi Allah bilir.)</p>
-<table width="95%" border="1" cellspacing="0" cellpadding="10" align="center">
+<table width="45%" border="1" cellspacing="0" cellpadding="10" align="center">
 <tbody>
 <tr>
 <th scope="col">AÇIKLAMA:Bu sitede bulunan ebced hesaplamaları; aynı ayet üzerinden şeddeli, şeddesiz, tenvinli, tenvinsiz gibi çeşitli hesaplama yöntemleri kullanılarak yapıldığından, aynı ayetin farklı ebced sonuçları bulunmaktadır.</th>
@@ -1627,109 +1617,5 @@ miladi 1981</td>
 </tr>
 </tbody>
 </table>
-<table width="68%" border="0" cellspacing="5" cellpadding="5" align="center">
-<tbody>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>s</p>
-<table width="70%" border="0" align="center">
-<tbody>
-<tr>
-<td><a href="http://www.kuranyeterlidir.com/" target="_blank"><img src="https://i0.wp.com/www.kurandaebcedtarihleri.com/images/yeterlidir.jpg" alt="" width="800" height="503" border="0" /></a></td>
-</tr>
-</tbody>
-</table>
-<table width="100%" border="0" align="center">
-<tbody>
-<tr>
-<td>SAYIN ADNAN OKTAR&#8217;IN KURAN&#8217;I KERİM İLE İLGİLİ AÇIKLAMALARININ<br />
-YER ALDIĞI RÖPORTAJ KESİTLERİ&nbsp;</td>
-</tr>
-<tr>
-<td><a href="http://www.harunyahya.tv" target="_blank"><img src="https://i2.wp.com/www.kurandaebcedtarihleri.com/images/AdnanOktar.jpg" alt="" width="930" height="156" border="0" /></a></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td>
-<table width="38%" border="0" align="center">
-<tbody>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr>
-<td>
-<hr />
-</td>
-</tr>
-<tr>
-<td>
-<table width="549" border="0" align="center">
-<tbody>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr>
-<td>
-<hr />
-</td>
-</tr>
-<tr>
-<td>
-<table width="549" border="0" align="center">
-<tbody>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-</td>
-<td></td>
-<td><img src="https://i2.wp.com/www.kurandaebcedtarihleri.com/images/spacer.gif" alt="" width="1" height="55" border="0" /></td>
-</tr>
-<tr>
-<td colspan="3">
-<p align="center"><a href="http://www.harunyahya.org/yazar_hakkinda.htm" target="_blank">Yazar Hakkında</a> &#8211; <a href="http://harunyahya.org/tr.m_website_index.php" target="_blank">Diğer Siteler</a> &#8211; <a>Email</a> &#8211; <a>Üye Ol</a></p>
-<p>Bu sitede yayınlanan tüm materyali, siteyi referans göstermek koşuluyla telif hakkı ödemeksizin<br />
-kopyalayabilir ve çoğaltabilirsiniz. <strong><a href="http://www.kurandaebcedtarihleri.com/" target="_blank">www.kurandaebcedtarihleri.com</a></strong></p>
-<p align="center"><a href="http://www.harunyahya.org/KuraniKerim/index.html" target="_blank">TÜRKÇE KURAN-I KERİM</a> &#8211; <a href="http://www.islamahizmet.com/" target="_blank">BİZE DESTEK OLUN</a> &#8211; <a href="http://www.harunyahya.org/hadis_kosesi.html" target="_blank">HADİS KÖŞESİ</a></p>
-<p align="center"><a href="http://harunyahya.tv/" target="_blank"><img src="https://i0.wp.com/kuranyeterlidir.com/images/tv.jpg" alt="" width="460" height="106" border="0" /></a></p>
-</td>
-</tr>
-</tbody>
-</table>
+ 
 
