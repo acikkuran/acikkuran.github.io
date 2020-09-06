@@ -5,7 +5,7 @@ author: jane
 categories: [ Yaşam-Sağlık ]
 tags: [Ölüm]
 keywords: Plan, Ölüm, Hayat
-image: assets/images/olum/olum12.jpg
+image: assets/images/EBCED.jpg
 comments: false
 published: true
 lang: tr
