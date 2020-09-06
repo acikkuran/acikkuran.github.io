@@ -26,19 +26,7 @@ encoding: UTF-8
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td bgcolor="#FFFFFF"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td bgcolor="#FFFFFF">
+ 
 <table width="37%" border="0" align="center">
 <tbody>
 <tr>
