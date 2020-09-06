@@ -39,7 +39,7 @@ encoding: UTF-8
 <tr>
 <td></td>
 <td bgcolor="#FFFFFF">
-<table width="57%" border="0" align="center">
+<table width="37%" border="0" align="center">
 <tbody>
 <tr>
 <td><img src="https://i0.wp.com/www.kurandaebcedtarihleri.com/images/index_r5_c3.jpg" alt="" width="756" height="42" /></td>
@@ -53,7 +53,7 @@ encoding: UTF-8
 <tr>
 <td></td>
 <td bgcolor="#FFFFFF">
-<table width="940" border="1" cellspacing="0" cellpadding="5" align="center">
+<table width="540" border="1" cellspacing="0" cellpadding="5" align="center">
 <tbody>
 <tr>
 <td bgcolor="#FCCC6A">Ayet</td>
