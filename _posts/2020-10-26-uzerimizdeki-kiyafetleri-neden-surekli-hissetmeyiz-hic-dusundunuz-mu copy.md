@@ -19,7 +19,7 @@ encoding: UTF-8
 **Bunun önemli bir sebebi vardır. İnsan derisindeki alıcılar belirli bir süre sonra beyne, cilde temas eden madde ile ilgili sinyalleri göndermeyi durdururlar. İnsan cildi, kendisiyle temas halinde olan maddeye karşı alışkanlık kazanır ve onunla ilgili his sinyallerini zamanla iletmemeye başlar.**
 
 [![kiyafet](https://acikkuran.github.io/assets/images/kiyafet/3.jpg "title")](https://acikkuran.github.io/assets/images/kiyafet/3.jpg)
-2
+
 **Bu, harika bir sistem ve mükemmel bir detaydır. İnsan, çoğu zaman böyle bir detayın farkında bile değildir ama, herhangi bir rahatsızlık duymadan yaşaması bu mükemmel sistemin kusursuz şekilde çalışması ile mümkün olur.**
 
 [![kiyafet](https://acikkuran.github.io/assets/images/kiyafet/1.jpg "title")](https://acikkuran.github.io/assets/images/kiyafet/1.jpg)
