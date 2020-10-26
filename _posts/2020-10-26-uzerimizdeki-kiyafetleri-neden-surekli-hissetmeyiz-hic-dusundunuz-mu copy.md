@@ -18,15 +18,15 @@ encoding: UTF-8
 
 **Bunun önemli bir sebebi vardır. İnsan derisindeki alıcılar belirli bir süre sonra beyne, cilde temas eden madde ile ilgili sinyalleri göndermeyi durdururlar. İnsan cildi, kendisiyle temas hâlinde olan maddeye karşı alışkanlık kazanır ve onunla ilgili his sinyallerini zamanla iletmemeye başlar.**
 
-![kiyafet](https://acikkuran.github.io/assets/images/kiyafet/3.jpg "title")]
+![kiyafet](https://acikkuran.github.io/assets/images/kiyafet/3.jpg "title")
 
 **Bu, harika bir sistem ve mükemmel bir detaydır. İnsan, çoğu zaman böyle bir detayın farkında bile değildir ama, herhangi bir rahatsızlık duymadan yaşaması bu mükemmel sistemin kusursuz şekilde çalışması ile mümkün olur.**
 
-![kiyafet](https://acikkuran.github.io/assets/images/kiyafet/1.jpg "title")]
+![kiyafet](https://acikkuran.github.io/assets/images/kiyafet/1.jpg "title")
 
-**Vücuttaki bu “alışma” mekanizması olmasaydı giyinmek gibi sıradan bir olay insan için büyük bir sıkıntı haline gelirdi. İnsanın üzerindeki giysileri sürekli olarak hissetmesi bir eziyete dönüşür, ayrıca dokunduğu diğer şeylerden gelen sinyalleri almakta da güçlük çekerdi.**
+**Vücuttaki bu “alışma” mekanizması olmasaydı giyinmek gibi sıradan bir olay insan için büyük bir sıkıntı hâline gelirdi. İnsanın üzerindeki giysileri sürekli olarak hissetmesi bir eziyete dönüşür, ayrıca dokunduğu diğer şeylerden gelen sinyalleri almakta da güçlük çekerdi.**
 
-![kiyafet](https://acikkuran.github.io/assets/images/kiyafet/2.jpg "title")]
+![kiyafet](https://acikkuran.github.io/assets/images/kiyafet/2.jpg "title")
 
 **Dikkati sürekli, giydiği çorabın bileğini ne kadar sarıp sıktığını, saatin sürekli bileğinde hareket ettiğini düşünmek gibi konularda olabilirdi. Bu nedenle kişi rahat uyuyamaz, dinlenemezdi. Hayatı bu sıkıntı verici detaylardan dolayı oldukça zorlaşırdı.**
 
