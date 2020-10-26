@@ -11,64 +11,35 @@ published: true
 lang: tr
 encoding: UTF-8
 ---
+Üzerimizdeki kıyafetleri neden sürekli hissetmeyiz hiç düşündünüz mü?
+=====================================================================
 
-Planlarınıza Ölümü de Ekleyin!
-=========================================
+**İnsan, üzerinde sürekli cildiyle temas halinde olan giysilerle muhataptır. Ama onları her an hissetmez. Gece yatarken üzerine aldığı yorganın, koluna taktığı saatin ya da oturduğu koltuğun kendisiyle temas halinde olduğunu da sürekli olarak algılamamaktadır.**
 
+![kiyafet](https://acikkuran.github.io/assets/images/kiyafet/6.jpg "title") (https://acikkuran.github.io/assets/images/kiyafet/6.jpg)
 
-**Bugün yapacaklarınızı planladınız mı?** Haftalık planınız da ana hatlarıyla bellidir. Hatta senelik planınız; bu yılın sınav takvimi ya da işinizin yıllık takvimi.
+**Bunun önemli bir sebebi vardır. İnsan derisindeki alıcılar belirli bir süre sonra beyne, cilde temas eden madde ile ilgili sinyalleri göndermeyi durdururlar. İnsan cildi, kendisiyle temas halinde olan maddeye karşı alışkanlık kazanır ve onunla ilgili his sinyallerini zamanla iletmemeye başlar.**
 
-[![olum](https://acikkuran.github.io/assets/images/olum/olum1.jpg)](https://acikkuran.github.io/assets/images/olum/olum1.jpg)
+![kiyafet](https://acikkuran.github.io/assets/images/kiyafet/3.jpg "title") (https://acikkuran.github.io/assets/images/kiyafet/3.jpg)
+2
+**Bu, harika bir sistem ve mükemmel bir detaydır. İnsan, çoğu zaman böyle bir detayın farkında bile değildir ama, herhangi bir rahatsızlık duymadan yaşaması bu mükemmel sistemin kusursuz şekilde çalışması ile mümkün olur.**
 
+![kiyafet](https://acikkuran.github.io/assets/images/kiyafet/1.jpg "title") (https://acikkuran.github.io/assets/images/kiyafet/1.jpg)
 
-Daha uzun vadeli planlarınız bile vardır, kaç sene sonra okul bitecek, belki bir süre yurtdışına çıkarsınız, çalıştığınız yerde terfi için kafanızda planladığınız süre ya da iş değişikliği için hedeflediğiniz bir tarih…
+**Vücuttaki bu “alışma” mekanizması olmasaydı giyinmek gibi sıradan bir olay insan için büyük bir sıkıntı haline gelirdi. İnsanın üzerindeki giysileri sürekli olarak hissetmesi bir eziyete dönüşür, ayrıca dokunduğu diğer şeylerden gelen sinyalleri almakta da güçlük çekerdi.**
 
-[![olum](https://acikkuran.github.io/assets/images/olum/olum2.jpg)](https://acikkuran.github.io/assets/images/olum/olum2.jpg)
+![kiyafet](https://acikkuran.github.io/assets/images/kiyafet/2.jpg "title") (https://acikkuran.github.io/assets/images/kiyafet/2.jpg)
 
+**Dikkati sürekli, giydiği çorabın bileğini ne kadar sarıp sıktığını, saatin sürekli bileğinde hareket ettiğini düşünmek gibi konularda olabilirdi. Bu nedenle kişi rahat uyuyamaz, dinlenemezdi. Hayatı bu sıkıntı verici detaylardan dolayı oldukça zorlaşırdı.**
 
-**Bu planların bir yerine ölümü koydunuz mu?**
-Ölüm hiç planlamadığınız bir anda sizi bulacak. Tüm gelecek planlarınızı ortadan kaldırıp, o ana kadar yaptığınız her şeyi yanına alıp sizi sorguya götürecek. En önemli planınız olması gereken, en çok odaklandığınız konu olması gereken ahiret hayatı bu andan itibaren başlayacak.
+![kiyafet](https://acikkuran.github.io/assets/images/kiyafet/4.jpg "title") (https://acikkuran.github.io/assets/images/kiyafet/4.jpg)
 
-[![olum](https://acikkuran.github.io/assets/images/olum/olum3.jpg)](https://acikkuran.github.io/assets/images/olum/olum3.jpg)
+**Hissetmenin bir nimet olması gibi, hissin zamanla kaybolması da insana sunulmuş büyük bir nimettir. Tek bir detay, bir insan yaşamını kolaylaştırmakta, onun rahat yaşamasına vesile olmaktadır.**
 
-Ölümü sıkça düşünmek, sizi kendinizi bu dünyadaki bitmek bilmez planlara kaptırmaktan korur. Asıl önemli olanın ahiret olduğunu hatırlatır.
+![kiyafet](https://acikkuran.github.io/assets/images/kiyafet/8.jpg "title") (https://acikkuran.github.io/assets/images/kiyafet/8.jpg)
 
-**Aslında her gün insana ölümü hatırlatan sayısız olay vardır.**
+**Evrimcilerin hayali mekanizmalarının, insan bedeninin neye ihtiyaç duyduğunu belirleyecek bir bilinci yoktur. Bu nimeti insana sunan, varlığı tüm varlıkların bütün ihtiyaçlarına Kafi olan Yüce Allah’tır.**
 
-[![olum](https://acikkuran.github.io/assets/images/olum/olum4.jpg)](https://acikkuran.github.io/assets/images/olum/olum4.jpg)
+![kiyafet](https://acikkuran.github.io/assets/images/kiyafet/7.jpg "title") (https://acikkuran.github.io/assets/images/kiyafet/7.jpg)
 
-Tanıdığımız birinin ya da çevremizdekilerin yakınlarının ölüm haberini hemen her gün duyarız. Haberlerde istinasız her gün ölüm haberleri yer alır.
-
-[![olum](https://acikkuran.github.io/assets/images/olum/olum5.jpg)](https://acikkuran.github.io/assets/images/olum/olum5.jpg)
-
-Beden sürekli yaşlanmakta, kirlenmekte, yorulmakta, adeta bozulup çürümektedir; sanki daha ölmeden ölmeye başlamıştır. Her gün kaçınılmaz olarak yatıp uyuruz; tıpkı bir tabuta girip ölümü beklemek gibi.
-
-[![olum](https://acikkuran.github.io/assets/images/olum/olum6.jpg)](https://acikkuran.github.io/assets/images/olum/olum6.jpg)
-
-Ve hastalıklar; insanın acizliğini, Allah’a muhtaçlığını anladığı olaylardır. Büyük hastalıklar zaten ölümle sonuçlanma riski taşıdığından insanın ölümü tüm ciddiyetiyle tefekkür etmesini sağlar.
-
-[![olum](https://acikkuran.github.io/assets/images/olum/olum7.jpg)](https://acikkuran.github.io/assets/images/olum/olum7.jpg)
-
-Grip gibi yaygın ve sık yaşanan hastalıklar ise genelde hiç beklenmedik bir anda geldikleri için ölümü tefekkür etmek için iyi birer fırsattır.
-
-[![olum](https://acikkuran.github.io/assets/images/olum/olum8.jpg)](https://acikkuran.github.io/assets/images/olum/olum8.jpg)
-
-Kimse günlük, haftalık, aylık planlarının içinde bir yere grip olmayı koymaz. Grip aniden tüm planları alt üst edecek şekilde kişinin güçten düşmesine neden olur. Kişi işe gidebileceğini zannederken aslında kaderinde gripten dolayı evde yatmak olduğunu öğrenir.
-
-[![olum](https://acikkuran.github.io/assets/images/olum/olum9.jpg)](https://acikkuran.github.io/assets/images/olum/olum9.jpg)
-
-Aynı şekilde ölüm de beklenmedik bir anda ve elinizden hiçbir şey gelmeden sizi bulacaktır. Planlarınız yarım kalacak, kaderinizde takdir edilen an, hayatınız sona erecektir. Hayatınızda önemli gördüğünüz tüm dünyevî konular önemini yitirecek ve siz asıl sonsuz hayatınıza başlayacaksınız.
-
-[![olum](https://acikkuran.github.io/assets/images/olum/olum10.jpg)](https://acikkuran.github.io/assets/images/olum/olum10.jpg)
-
-Planlarınıza ölümü ekleyin. Dünya hayatı geçicidir. Sonsuz hayatınızın ahiret olduğunu asla unutmayın. Her an Allah’ın rızasının en çoğunu hedefleyin. Sizi Allah yarattı ve bu hayatınızın kıymetli bir amacı var. Allah’a sımsıkı sarılın.
-
-[![olum](https://acikkuran.github.io/assets/images/olum/olum11.jpg)](https://acikkuran.github.io/assets/images/olum/olum11.jpg)
-
-
-**Ancak tevbe edenler, ıslah edenler, Allah´a sımsıkı sarılanlar ve dinlerini katıksız olarak Allah için (halis) kılanlar başka; işte onlar mü´minlerle beraberdirler. Allah mü´minlere büyük bir ecir verecektir. (Nisa Suresi, 146)**
-
-**Onlar, göklerin ve yerin ´bağımlı olduğu egemenliğe ve sünnete’ (melekût), Allah´ın yarattığı şeylere ve ihtimal (verip) ecellerinin pek yaklaştığına bakmıyorlar mı? Bundan sonra onlar artık hangi söze inanacaklar? (A’raf Suresi,185)**
-
-
-
+**“Nimet olarak size ulaşan ne varsa, Allah’tandır, sonra size bir zarar dokunduğunda (yine) ancak O’na yalvarmaktasınız.” (Nahl Suresi, 53)**
