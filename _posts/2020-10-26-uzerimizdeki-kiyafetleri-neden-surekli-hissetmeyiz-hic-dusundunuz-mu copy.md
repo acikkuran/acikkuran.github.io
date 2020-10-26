@@ -1,5 +1,5 @@
 ---
-layout: post5
+layout: post
 title: "Üzerimizdeki kıyafetleri neden sürekli hissetmeyiz hiç düşündünüz mü?"
 author: jane
 categories: [ Yaşam-Sağlık ]
