@@ -36,7 +36,7 @@ encoding: UTF-8
 
 ![kiyafet](https://acikkuran.github.io/assets/images/kiyafet/8.jpg "title")
 
-**Evrimcilerin hayali mekanizmalarının, insan bedeninin neye ihtiyaç duyduğunu belirleyecek bir bilinci yoktur. Bu nimeti insana sunan, varlığı tüm varlıkların bütün ihtiyaçlarına Kafi olan Yüce Allah’tır.**
+**Evrimcilerin hayali mekanizmalarının, insan bedeninin neye ihtiyaç duyduğunu belirleyecek bir bilinci yoktur. Bu nimeti insana sunan, varlığı tüm varlıkların bütün ihtiyaçlarına Kâfî olan Yüce Allah’tır.**
 
 ![kiyafet](https://acikkuran.github.io/assets/images/kiyafet/7.jpg "title")
 
