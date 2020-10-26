@@ -10,10 +10,7 @@ comments: false
 published: true
 lang: tr
 encoding: UTF-8
----
-
-Üzerimizdeki kıyafetleri neden sürekli hissetmeyiz hiç düşündünüz mü?
-=====================================================================
+--- 
 
 **İnsan, üzerinde sürekli cildiyle temas halinde olan giysilerle muhataptır. Ama onları her an hissetmez. Gece yatarken üzerine aldığı yorganın, koluna taktığı saatin ya da oturduğu koltuğun kendisiyle temas halinde olduğunu da sürekli olarak algılamamaktadır.**
 
