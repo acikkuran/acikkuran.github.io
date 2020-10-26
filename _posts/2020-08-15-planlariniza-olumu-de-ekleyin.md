@@ -12,8 +12,6 @@ lang: tr
 encoding: UTF-8
 ---
 
-
-
 Planlarınıza Ölümü de Ekleyin!
 =========================================
 
