@@ -12,11 +12,11 @@ lang: tr
 encoding: UTF-8
 --- 
 
-**İnsan, üzerinde sürekli cildiyle temas halinde olan giysilerle muhataptır. Ama onları her an hissetmez. Gece yatarken üzerine aldığı yorganın, koluna taktığı saatin ya da oturduğu koltuğun kendisiyle temas halinde olduğunu da sürekli olarak algılamamaktadır.**
+**İnsan, üzerinde sürekli cildiyle temas hâlinde olan giysilerle muhataptır. Ama onları her an hissetmez. Gece yatarken üzerine aldığı yorganın, koluna taktığı saatin ya da oturduğu koltuğun kendisiyle temas hâlinde olduğunu da sürekli olarak algılamamaktadır.**
 
 ![kiyafet](https://acikkuran.github.io/assets/images/kiyafet/6.jpg "title")
 
-**Bunun önemli bir sebebi vardır. İnsan derisindeki alıcılar belirli bir süre sonra beyne, cilde temas eden madde ile ilgili sinyalleri göndermeyi durdururlar. İnsan cildi, kendisiyle temas halinde olan maddeye karşı alışkanlık kazanır ve onunla ilgili his sinyallerini zamanla iletmemeye başlar.**
+**Bunun önemli bir sebebi vardır. İnsan derisindeki alıcılar belirli bir süre sonra beyne, cilde temas eden madde ile ilgili sinyalleri göndermeyi durdururlar. İnsan cildi, kendisiyle temas hâlinde olan maddeye karşı alışkanlık kazanır ve onunla ilgili his sinyallerini zamanla iletmemeye başlar.**
 
 ![kiyafet](https://acikkuran.github.io/assets/images/kiyafet/3.jpg "title")]
 
