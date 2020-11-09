@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Beyinde Vicdanı Uyaran Nokta"
+title:  "İnsanları boş şeylerle meşgul eden yahut kavminin özellikleri"
 author: jane
-categories: [ Biyoloji ]
+categories: [ İslam ]
 image: assets/images/beyin.png
-tags: yaratılış
-keywords: Beyin, Vicdan
+tags: Din
+keywords: münafık, kafir
 comments: false
 published: true
 lang: tr
