@@ -3,7 +3,7 @@ layout: post
 title:  "Cüneyt Özyaşar’ın Cezaevinden Yazdığı Yeni Yazısı 'CENNET KARDEŞLİĞİ'"
 author: jane
 categories: [ Makale ]
-image: assets/images/Cuneyt/cennet kardeşliği.jpg
+image: assets/images/Cuneyt/cennet-kardesligi.jpg
 tags: cennet
 keywords: CENNET, Kardeşlik
 comments: false
