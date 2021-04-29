@@ -2,7 +2,7 @@
 layout: post
 title:  "MATTER THE OTHER NAME FOR ILLUSION"
 author: jane
-categories: [ Makale ]
+categories: [ Books ]
 image: assets/images/matter.jpg
 tags: matter
 keywords: MATTER, ILLUSION
