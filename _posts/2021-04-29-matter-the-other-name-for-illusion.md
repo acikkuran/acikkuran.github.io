@@ -16,9 +16,6 @@ encoding: UTF-8
 
 **To Be Seen As Matter?**
 
-  
-
-  
 
 **MATTER**
 
@@ -26,99 +23,8 @@ encoding: UTF-8
 
 **FOR ILLUSION**
 
-  
-
-  
-
-  
 
 **HARUN YAHYA**
-
-  
-
-  
-
-  
-
-  
-
-  
-
-First English Edition published in February 2002
-
-Second English Edition published in March 2002
-
-  
-
-  
-
-Translated by:
-
-Carl Rossini, Ron Evans and Andrew Clark
-
-  
-
-  
-
-Edited by:
-
-Teed Rockwell, PhD
-
-  
-
-  
-
-KULTUR
-
-PUBLISHERS
-
-  
-
-  
-
-Catalcesme sk. Uretmen Han No: 29/7
-
-Cagaloglu - Istanbul / TURKEY
-
-Tel: (+90) 212 511 44 03
-
-  
-
-  
-
-Printing Press: Secil Ofset
-
-100 Yil Mahallesi MAS-SIT Matbaacilar Sitesi
-
-4\. Cadde No: 77 Bagcilar - Istanbul / TURKEY
-
-Tel: (+90) 212 629 06 15
-
-  
-
-  
-
-Website:
-
-[www.harunyahya.com](http://www.harunyahya.com/)
-
-  
-
-  
-
-  
-
-  
-
-**CONTENTS**
-
-  
-
-  
-
-**FOREWORD**
-
-  
 
 **INTRODUCTION**
 
