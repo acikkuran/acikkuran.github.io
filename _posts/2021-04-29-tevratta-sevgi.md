@@ -2,7 +2,7 @@
 layout: post
 title:  "Tevrat'ta Sevgi"
 author: jane
-categories: [ Makale ]
+categories: [ Kitap ]
 image: assets/images/mtevrat.jpg
 tags: sevgi
 keywords: Tevrat, Sevgi
