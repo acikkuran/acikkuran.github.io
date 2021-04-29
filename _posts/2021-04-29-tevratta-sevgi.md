@@ -21,3 +21,17 @@ encoding: UTF-8
 "Övünmesi boşunadır, yaptıkları da." (Yeremya, 48:29-30)
 
 Kudretiyle sonsuza dek egemenlik sürer... Başkaldıranlar gurura kapılmasın! (Mezmurlar, 66:7)
+
+Ne mutlu Rab'be güvenen insana, gururluya, yalana sapana ilgi duymayana. (Mezmurlar, 40:4)
+
+Kötüler gururla mazlumları avlıyor, mazlumlar kötülerin kurduğu tuzağa düşüyor. Kötü insan içindeki isteklerle övünür... Kendini beğenmiş kötü insan Allah'a yönelmez... Öyle yücedir ki Senin yargıların, kötüler anlayamaz, düşmanına burun kıvırır. (Mezmurlar, 10:2-5)
+
+Onlara yaptıklarını, gurura kapılıp isyan ettiklerini bildirir. Öğüdünü dinletir, kötülükten dönmelerini buyurur. Eğer dinler ve O'na kulluk ederlerse, kalan günlerini bolluk, yıllarını rahatlık içinde geçirirler. Ama dinlemezlerse ölür, ders almadan yok olurlar. (Eyüp, 36:9-12)
+
+Kötülerin gururu yüzünden insanlar feryat ediyor... (Eyüp, 35:12)
+
+Kulaklarına konuşur, uyarısıyla onları korkutur; onları yaptıkları kötülükten döndürmek, gururdan uzak tutmak, canlarını çukurdan, hayatlarını ölümden kurtarmak için. (Eyüp, 33:16-18)
+
+Ama atalarımız gurura kapıldı; dikbaşlılık edip buyruklarına uymadılar. Söz dinlemek istemediler, aralarında yaptığın harikaları unuttular. Dikbaşlılık ettiler, eski kölelik yaşamlarına dönmek için kendilerine bir önder bularak başkaldırdılar... (Nehemya, 9:16-17)
+
+
