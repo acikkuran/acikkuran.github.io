@@ -128,23 +128,35 @@ Gururun ardından yıkım, kibirli ruhun ardından da düşüş gelir. (Süleyma
 
 Küstahlığın ardından utanç gelir, ama bilgelik alçakgönüllülerdedir. (Süleyman'ın Özdeyişleri, 11:2)
 
+Yakında kötünün sonu gelecek, yerini arasan da bulunmayacak. Ama alçakgönüllüler ülkeyi miras alacak, derin bir huzurun zevkini tadacak. (Mezmurlar, 37:10-11)
 
+Allah'ı Rab'bin gözünde kötü olanı yaptı. Rab'bin sözünü bildiren Peygamber Yeremya'nın karşısında alçakgönüllü davranmadı. (2. Tarihler, 36:12)
 
+Rab'bin meleği kadına görünerek, "Kısır olduğun, çocuk doğurmadığın halde gebe kalıp bir oğul doğuracaksın" dedi... Kadın tarladayken Allah'ının meleği yine ona göründü... (Hakimler, 13:3-9)
 
+Rab'bin meleği ona görünerek, "Ey yiğit savaşçı, Rab seninledir" dedi. (Hakimler, 6:12)
 
+Melek... bunun üzerine şöyle dedi: "Rab... ‘Güçle kuvvetle değil, ancak Benim ruhumla başaracaksın.' diyor. Böyle diyor herşeye egemen Rab." (Zekeriya, 4:5-6)
 
+Ey bütün melekleri, O'na övgüler sunun, övgüler sunun O'na, ey bütün göksel orduları! (Mezmurlar, 148:2)
 
+Rab bir melek göndererek Asur Kralı'nın ordugahındaki bütün yiğit savaşçıları, önderleri, komutanları yok etti. Asur Kralı utanç içinde ülkesine döndü... (2. Tarihler, 32:21)
 
+Süt ve bal akan ülkeye senden önce bir melek gönderecek... (Mısır'dan Çıkış, 33:2-3)
 
+İki melek akşamleyin Sodom'a vardılar. Lut kentin kapısında oturuyordu. Onları görür görmez karşılamak için ayağa kalktı... (Yaratılış, 19: 1)
 
+Tan ağarırken melekler Lut'a "... iki kızını al, hemen buradan uzaklaş" diye üstelediler... (Yaratılış, 19:15)
 
+Bundan sonra Rab meleğe kılıcını kınına koymasını buyurdu. Melek buyruğa uydu. (1. Tarihler, 21:27)
 
+Ama biz Rab'be yakarınca, yakarışımızı işitti. Bir melek gönderip bizi Mısır'dan çıkardı... (Çölde Sayım, 20:16)
 
+Yakup yoluna devam ederken, Allah'ının melekleriyle karşılaştı. (Yaratılış, 32:1)
 
+Rab... "Şimdi git, halkı sana söylediğim yere götür. Meleğim sana öncülük edecek. Ama zamanı gelince günahlarından ötürü onları cezalandıracağım." (Mısır'dan Çıkış, 32:33-34)
 
-
-
-
+"Efendim, ‘Yolunda yürüdüğüm Rab meleğini seninle gönderecek, yolunu açacak' dedi..." (Yaratılış, 24:40)
 
 
 
