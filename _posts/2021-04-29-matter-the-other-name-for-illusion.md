@@ -12,25 +12,15 @@ lang: en
 encoding: UTF-8
 ---
 
-**How Do Images Come**
+**How Do Images Come To Be Seen As Matter?**
 
-**To Be Seen As Matter?**
-
-
-**MATTER**
-
-**THE OTHER NAME**
-
-**FOR ILLUSION**
-
+**MATTER THE OTHER NAME FOR ILLUSION**
 
 **HARUN YAHYA**
 
 **INTRODUCTION**
 
-**IT IS A SCIENTIFIC FACT THAT THE WORLD**
-
-**COMES INTO EXISTENCE IN OUR BRAINS**
+**IT IS A SCIENTIFIC FACT THAT THE WORLD COMES INTO EXISTENCE IN OUR BRAINS**
 
 It's Not Our Eyes That See, It is Our Brain
 
@@ -56,9 +46,7 @@ Who Is It That Experiences All These Perceptions?
 
   
 
-**WHY IS THE TRUTH ABOUT MATTER SUCH AN**
-
-**IMPORTANT SUBJECT?**
+**WHY IS THE TRUTH ABOUT MATTER SUCH AN IMPORTANT SUBJECT?**
 
 The Truth About Matter Shows That God is The One Absolute Being
 
