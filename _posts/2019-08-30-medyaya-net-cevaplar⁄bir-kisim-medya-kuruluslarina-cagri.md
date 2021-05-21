@@ -64,7 +64,7 @@ Bu iddianız da TMSF Başkanı, “**TBAV ile alakalı çok bir şey yok aslınd
 
 Bunların yanı sıra, bir yılı aşkın bir süredir yüzlerce kez yayınladığınız ve defalarca çürütülmüş, asılsızlığı, uydurmalığı, saçmalıkları gözler önüne serilmiş gerçek dışı haberlerinizden diğer bazılarını da tekrar hatırlayacak olursak:
 
-**– Evler yıkıldı, altları kazıldı, TOPRAĞA GÖMÜLÜ OLDUĞUNU İDDİA ETTİĞİNİZ****HAYALİ MİLYONLARCA DOLAR hiçbir yerden çıkmadı**.
+** Evler yıkıldı, altları kazıldı, TOPRAĞA GÖMÜLÜ OLDUĞUNU İDDİA ETTİĞİNİZ HAYALİ MİLYONLARCA DOLAR hiçbir yerden çıkmadı**.
 
 – Sözde işkence ya da eziyet gördüğünü iddia ettiğiniz **husumetli müştekilerin HİÇBİRİNİN GEÇERLİ RAPOR YA DA BELGESİNİN OLMADIĞI, **tüm iddiaların **fantezi ve televole mantığındaki iftiralar ve delilsiz-belgesiz yalan beyanlar üzerine kurulu olduğu **anlaşıldı.
 
