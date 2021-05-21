@@ -18,7 +18,7 @@
             </li>                
         {% endfor %}   
     </ol> 
-<!--- Tag Cloud --->
+<!-- Tag Cloud -->
 <h4 class="font-weight-bold spanborder"><span>Etiket Bulutu</span></h4>
 {% for tag in site.tags %}
   <span style="font-size: {{ tag | last | size | times: 150 | divided_by: site.tags.size | plus: 100  }}%">
