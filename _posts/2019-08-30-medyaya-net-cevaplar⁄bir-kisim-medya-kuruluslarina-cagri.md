@@ -32,27 +32,27 @@ Bu bütünüyle uydurma, mesnetsiz ve hayal ürünü haberleri bir kez daha hat�
 
   
 
-– “_Binlerce Şantaj kaseti var_” dediniz, bir tane bile çıkmadı; 
+– "Binlerce Şantaj kaseti var" dediniz, bir tane bile çıkmadı; 
 
 Eğer iddia edildiği gibi, ortada şantaj kasetleri diye bir şey olsaydı, aynı anda 120 eve habersiz, eş zamanlı yapılan baskınlarda bunlar mutlaka ortaya çıkardı. Ayrıca 2 yıl teknik takibe alınan telefon konuşmalarında bu konuya ait mutlaka bir delil bulunması gerekirdi. Kaldı ki binlerce değil, bir tane bile sözde şantaj kaseti bulunmuş olsa bugüne kadar bunun haberini zaten BİNLERCE KEZ yayınlardınız!
 
-– “_6 kamyon tarihi eser çıktı_” diye defalarca haber yaptınız, oysa tek bir tarihi eserin dahi olmadığı ortaya çıktı; 
+– "6 kamyon tarihi eser çıktı" diye defalarca haber yaptınız, oysa tek bir tarihi eserin dahi olmadığı ortaya çıktı; 
 
 Operasyon sırasında girilen evlerdeki normal ev eşyalarını, elektrikli abajurları, Kütahya seramik süs eşyalarını, reprodüksiyon tabloları aylarca kamuoyuna tarihi eserlermiş gibi sundunuz. Fakat, tamamının en fazla 4-5 yıllık eşyalar olduğu Mimar Sinan Güzel Sanatlar Fakültesi tarafından verilen bilirkişi raporlarıyla ispatlandı.
 
-– Bir doktor arkadaşımıza ait EKG cihazı için “_yalan makinası bulundu_” şayiasını çıkardınız;
+– Bir doktor arkadaşımıza ait EKG cihazı için "yalan makinası bulundu" şayiasını çıkardınız;
 
 Bu iddianızın da, gerçek dışı olduğunu, bunun da hemen ortaya çıkacağını kendiniz de çok iyi bildiğiniz halde sırf kamuoyunda aleyhimizde şaibe oluşturmak, kara propagandanızı sürdürmek adına bu saçma yalanı haber diye yayınladınız. Yalan olduğu ortaya çıkan hiçbir haberinizi tekzip etmediğiniz gibi kamuoyunu yanılttığınız için özür bile dilemediniz.
 
-– “_Taciz, tecavüz var_” dediniz, DNA testleri yapıldığını, her şeyin ortaya çıkacağını söylediniz de neden bu yalanları çürüten test sonuçlarını yayınlamadınız ???
+– "Taciz, tecavüz var" dediniz, DNA testleri yapıldığını, her şeyin ortaya çıkacağını söylediniz de neden bu yalanları çürüten test sonuçlarını yayınlamadınız ???
 
 İstismar, tecavüz ve taciz iddialarını tümüyle çürüten, TBAV'na AİT DNA RAPORLARI, KAN ÖRNEKLERİ TERTEMİZ ÇIKIP ORTADA HİÇBİR SUÇ OLMADIĞINI SOMUT OLARAK İSPATLAYINCA, bu sonuçları hiçbir şekilde yayınlamadınız. Temiz çıkmamız, hiçbir suç çıkmaması sizi neden sevindirmedi?
 
-– TBAV mensuplarına ait ruhsatlı silahlarla “_suç işlendi_” dediniz, bu haberiniz de anında belgelerle çürütüldü;
+– TBAV mensuplarına ait ruhsatlı silahlarla "suç işlendi" dediniz, bu haberiniz de anında belgelerle çürütüldü;
 
 İstanbul Kriminal Laboratuvarı Müdürlüğü tarafından yapılan balistik incelemelerinde TBAV mensuplarına ait silahların tamamen legal ve ruhsatlı oldukları, hiçbir suça veya olaya karışmadıkları anlaşıldı.
 
-– Güya “_Zorla alıkonulduğu_”nu iddia ettiğiniz kadınlar nerede?
+– Güya "Zorla alıkonulduğu"nu iddia ettiğiniz kadınlar nerede?
 
 120 yere yapılan eş zamanlı baskınlarda ne bir suç unsuruna ne de bir zorla tutulma vakasına rastlanmadığı gibi şu an tutuklu bulunan 100 bayan arkadaşımız da herhangi bir zorla tutulma şikayetinde bulunmadı.
 
@@ -74,15 +74,15 @@ Bunların yanı sıra, bir yılı aşkın bir süredir yüzlerce kez yayınladı
 
 – Sürekli gündem yaptığınız sözde askeri ve siyasi sırların sızdırıldığına dair CASUSLUK İFTİRALARININ TEK BİR KANITI, BELGESİ VEYA FOTOĞRAFI YOK.
 
-– Değil uyuşturucu, sigara, alkol, nargile dahi kullanmayan TBAV'nın, “_KANLARINDA UYUŞTURUCU BULUNDU_” iftiranızın da gerçek dışı olduğu Adli Tıp Kurumu Kimya İhtisas Dairesi raporuyla ispatlandı.
+– Değil uyuşturucu, sigara, alkol, nargile dahi kullanmayan TBAV'nın, "KANLARINDA UYUŞTURUCU BULUNDU" iftiranızın da gerçek dışı olduğu Adli Tıp Kurumu Kimya İhtisas Dairesi raporuyla ispatlandı.
 
 – "_Evlerin altında gizli geçitler, gizli hücreler var_" diye tamamıyla kurgu olan iddiaları haber yaptınız, İstanbul İl Emniyet Müdürlüğü hiçbir evde böyle bir yapıya rastlamadı. BU HABERİN DE GERÇEK DIŞI OLDUĞU ORTAYA ÇIKTI.
 
 – Güvenlik kameralarıyla 7/24 kayda alınan BAHÇE MERDİVENLERİNİN GÖRÜNTÜLERİNİ SİYAH BEYAZA ÇEVİRİP KARARTIP FLULAŞTIRARAK"_gizli geçit görüntüleri_" diye haber yaparak insanları yanılttınız.
 
-– Evlerde, ofislerde “_dinleme cihazları, böcekler, gizli kameralar_” var dediniz, bu iddianızın da gerçek dışı olduğu iddianamenin açıklanmasıyla bir kez daha ortaya çıktı. Adeta halkın aklıyla alay edercesine, BAHÇE VE GÜVENLİK KAMERALARINA BİLE GİZLİ KAMERALAR DEDİNİZ.
+– Evlerde, ofislerde "dinleme cihazları, böcekler, gizli kameralar" var dediniz, bu iddianızın da gerçek dışı olduğu iddianamenin açıklanmasıyla bir kez daha ortaya çıktı. Adeta halkın aklıyla alay edercesine, BAHÇE VE GÜVENLİK KAMERALARINA BİLE GİZLİ KAMERALAR DEDİNİZ.
 
-– Canlı yayında gösterilen 60 YILLIK EL YAZMASI TEVRAT için hiçbir aslı olmayan “_Tarihi Eser Tevrat_” safsatasını ortaya atınız, bu uydurma iddianız da iddianamede yer almadı.
+– Canlı yayında gösterilen 60 YILLIK EL YAZMASI TEVRAT için hiçbir aslı olmayan "Tarihi Eser Tevrat" safsatasını ortaya atınız, bu uydurma iddianız da iddianamede yer almadı.
 
 Buraya kadar verdiğimiz örneklerden de açıkça anlaşılacağı üzere, HAKLARINDA HİÇBİR YARGI KARARI BULUNMAYAN, HAYATLARINDA HİÇBİR SUÇA KARIŞMAMIŞ, SABIKA KAYITLARI BİLE BULUNMAYAN VE BİR ANAYASAL HAK OLARAK "MASUMİYET KARİNESİNE" SAHİP SUÇSUZ İNSANLARI DAHA MAHKEMELERİ DAHİ GÖRÜLMEMİŞKEN GERÇEK DIŞI HABERLERLE SUÇLU İLAN EDİYORSUNUZ!
 
@@ -108,7 +108,7 @@ Camiamız aleyhinde, kamuoyunda olumsuz algı oluşturmak, karalama ve itibarsı
 
 Sürekli gerçek dışı, önyargılı, asılsız haberlerle adaletin ve hukukun da gücünü kırıyorsunuz. Mahkemeler üzerinde baskı oluşturuyorsunuz, yaptığınız haberler delilsiz, mesnetsiz olduğu halde, çıkardığınız infiallerle, koparttığınız yaygaralarla adil ve bağımsız yargıyı etki altında bırakıyorsunuz.
 
-İnsanlar da bu durumdan dolayı güzel ülkemizde adaletin, hukukun kalmadığını düşünüyor; basına ve yargıya duyulan güven giderek düşüyor. Anketlerden, “_Yargıya Olan Güven Yüzde 20'lere Düştü_”, “_Adalete Güven Arzulanan Seviyede Değil_” sonuçları çıkıyor.
+İnsanlar da bu durumdan dolayı güzel ülkemizde adaletin, hukukun kalmadığını düşünüyor; basına ve yargıya duyulan güven giderek düşüyor. Anketlerden, "Yargıya Olan Güven Yüzde 20'lere Düştü", "Adalete Güven Arzulanan Seviyede Değil" sonuçları çıkıyor.
 
 Ama, sizin habercilik anlayışınızın bunda hiçbir katkısı yokmuş gibi İŞİNİZE GELMEYİNCE ADALETSİZLİKTEN, HUKUKSUZLUKTAN, YARGININ DÜZGÜN İŞLEMEYİŞİNDEN YAKINIYORSUNUZ.
 
@@ -156,17 +156,17 @@ Her durumda temel başvuru kaynağımız olan KURAN’DA, YÜCE RABBİMİZ;
 
 _“Mü'min erkeklere ve mü'min kadınlara İRTİKAB ETMEDİKLERİ (BİR SUÇ) SEBEBİYLE EZİYET EDENLER ise, gerçekten bir iftira ve açık bir günah yüklenmişlerdir.”_(Ahzab Suresi, 58)
 
-– Müslümanların, “_kendi aleyhlerinde bile olsa_” her koşulda adil olmalarını emretmektedir :
+– Müslümanların, "kendi aleyhlerinde bile olsa" her koşulda adil olmalarını emretmektedir :
 
 Allah bir ayetinde ise “…_kendiniz, anne-babanız ve yakınlarınız aleyhine bile olsa, Allah için şahitler olarak adaleti ayakta tutun” _buyurarak adaletten hiçbir şekilde ve hiçbir koşulda şaşmamayı emretmiştir:
 
 _“Ey iman edenler, kendiniz, anne-babanız ve yakınlarınız aleyhine bile olsa, ALLAH İÇİN ŞAHİTLER OLARAK ADALETİ AYAKTA TUTUN. (Onlar) ister zengin olsun, ister fakir olsun; çünkü Allah onlara daha yakındır. Öyleyse adaletten dönüp heva (tutkuları)nıza uymayın. EĞER DİLİNİZİ EĞİP BÜKER (SÖZÜ GEVELER) ya da yüz çevirirseniz, şüphesiz Allah, yaptıklarınızdan haberi olandır.” _(Nisa Suresi, 135)
 
-– Kuran’da “_bir topluluğa olan kininiz, sizi adaletten alıkoymasın” _buyurulmaktadır:
+– Kuran’da "bir topluluğa olan kininiz, sizi adaletten alıkoymasın” _buyurulmaktadır:
 
 Allah’ın Kuran’da bildirdiği gerçek adalet, insanlar arasında hiçbir ayrım yapmadan hükmetmeyi, insanların hakkını korumayı, zulme asla rıza göstermemeyi, zalime karşı mazlumdan yana tavır almayı, ihtiyaç içinde olanlara yardım eli uzatmayı emreder. Bu adalet, bir karar vermek gerektiğinde her iki tarafın da hakkını korumayı, OLAYLARI ÇOK YÖNLÜ DEĞERLENDİRMEYİ, ÖN YARGISIZ DÜŞÜNMEYİ, TARAFSIZLIĞI, HAKKANİYETİ, DÜRÜSTLÜĞÜ, HOŞGÖRÜYÜ, MERHAMETİ VE ŞEFKATİ gerektirir.
 
-Kuran’ın emri gereği tüm kişisel duygu ve düşüncelerinizi bir tarafa bırakmayı, kendisinden yardım talep eden iki tarafa da adil davranmanız, her şart ve durumda doğrulardan yana olmanız, Kuran’da belirtilen İslam ahlakı ölçüsünde, dürüstlükten ve doğruluktan asla taviz vermemeyi kendinize ilke edinmelisiniz. Çünkü, Allah Kuran’da “_adil şahitler olarak, Allah için, hakkı ayakta tutun” _diye emretmektedir:
+Kuran’ın emri gereği tüm kişisel duygu ve düşüncelerinizi bir tarafa bırakmayı, kendisinden yardım talep eden iki tarafa da adil davranmanız, her şart ve durumda doğrulardan yana olmanız, Kuran’da belirtilen İslam ahlakı ölçüsünde, dürüstlükten ve doğruluktan asla taviz vermemeyi kendinize ilke edinmelisiniz. Çünkü, Allah Kuran’da "adil şahitler olarak, Allah için, hakkı ayakta tutun” _diye emretmektedir:
 
 _“Ey iman edenler, ADİL ŞAHİTLER OLARAK, ALLAH İÇİN, HAKKI AYAKTA TUTUN. BİR TOPLULUĞA OLAN KİNİNİZ, SİZİ ADALETTEN ALIKOYMASIN. Adalet yapın. O, takvaya daha yakındır.Allah’tan korkup-sakının. Şüphesiz Allah, yapmakta olduklarınızdan haberi olandır.” _(Maide Suresi, 8)
 
