@@ -56,9 +56,9 @@ Bu iddianızın da, gerçek dışı olduğunu, bunun da hemen ortaya çıkacağ�
 
 120 yere yapılan eş zamanlı baskınlarda ne bir suç unsuruna ne de bir zorla tutulma vakasına rastlanmadığı gibi şu an tutuklu bulunan 100 bayan arkadaşımız da herhangi bir zorla tutulma şikayetinde bulunmadı.
 
-**– A9 TV ve Global Yayıncılık gibi şirketler üzerinden güya “_100 MİLYONLARCA DOLARLIK kara para aklandı_” dediniz...**
+** A9 TV ve Global Yayıncılık gibi şirketler üzerinden güya “100 MİLYONLARCA DOLARLIK kara para aklandı” dediniz...**
 
-Bu iddianız da TMSF Başkanı, “**TBAV ile alakalı çok bir şey yok aslında, (TOPLAM 86 ŞİRKETİN) 10 MİLYON TL SEVİYESİNDE BİR AKTİF BÜYÜKLÜĞÜ SÖZ KONUSU_**” sözleriyle resmi ağızdan yalanlandı. A9 TV, Global Yayıncılık gibi şirketlerin **ortalama bir bakkal dükkânından fazla cirosu ve sermayesi olmadığı **ortaya çıktı, Günlerce sayfalarınıza, kanallarınıza defalarce taşıdığınız bu gülünç iddialara dair **İDDİANAMEDE BİLE HERHANGİ BİR SUÇ İSNADI YOK. **Şirketlerin, güya kara para aklama faaliyeti olarak gösterilen işlemlerin ofis boyların bankalara yatırdıkları 500'er, 1000'er liralık elektrik, su, doğalgaz faturaları olduğu anlaşıldı.
+Bu iddianız da TMSF Başkanı, “**TBAV ile alakalı çok bir şey yok aslında, (TOPLAM 86 ŞİRKETİN) 10 MİLYON TL SEVİYESİNDE BİR AKTİF BÜYÜKLÜĞÜ SÖZ KONUSU**” sözleriyle resmi ağızdan yalanlandı. A9 TV, Global Yayıncılık gibi şirketlerin **ortalama bir bakkal dükkânından fazla cirosu ve sermayesi olmadığı **ortaya çıktı, Günlerce sayfalarınıza, kanallarınıza defalarce taşıdığınız bu gülünç iddialara dair **İDDİANAMEDE BİLE HERHANGİ BİR SUÇ İSNADI YOK. **Şirketlerin, güya kara para aklama faaliyeti olarak gösterilen işlemlerin ofis boyların bankalara yatırdıkları 500'er, 1000'er liralık elektrik, su, doğalgaz faturaları olduğu anlaşıldı.
 
   
 
