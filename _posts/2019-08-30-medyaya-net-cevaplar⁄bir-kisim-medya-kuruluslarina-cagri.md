@@ -12,13 +12,13 @@ lang: tr
 encoding: UTF-8
 ---
 
-Sayın Adnan Oktar ve arkadaşlarına yönelik operasyonun gerçekleştiği 11 Temmuz 2018 tarihinden bu yana **camiamız aleyhindeki asılsız ve gerçek dışı yüzlerce iddiayı, olmadık iftiraları akıl almaz biçimde, NEFES ALMADAN kamuoyuna servis etmenizi endişeyle izliyoruz.**
+TBAV'na yönelik operasyonun gerçekleştiği 11 Temmuz 2018 tarihinden bu yana **camiamız aleyhindeki asılsız ve gerçek dışı yüzlerce iddiayı, olmadık iftiraları akıl almaz biçimde, NEFES ALMADAN kamuoyuna servis etmenizi endişeyle izliyoruz.**
 
 Üstelik, sistematik bir biçimde yayınladığınız hayali kurgu, senaryo ve iftiraları içeren gerçek dışı haberlerinizi, **yalnızca husumetli bir grubun beyanlarını kaynak alarak hazırlıyor, tek bir iddianıza dahi SOMUT MADDİ DELİLLER SUNAMIYORSUNUZ**. Bunun yanında, **BİZİM MASUMİYETİMİZİ, BİZLERE ATILAN SUÇLAMA VE İFTİRALARIN GERÇEK DIŞI OLDUĞUNU İSPATLAYAN BİNLERCE KARŞI–DELİLİ ADETA YOK SAYIYORSUNUZ.**
 
 Dahası, böyle bir kaygınızın bile olmadığı açıkça görülüyor.
 
-Sayın Adnan Oktar ve TBAV camiası ile ilgili yayınladığınız **her gerçek dışı haberin yanlışlığını, asılsızlığını belge ve delilleriyle sunduğumuz halde **aynı haberleri yaklaşık 14 aydır mükerrer bir şekilde yayınlamaktan vazgeçmemeniz akıllarda önemli soru işaretleri ve endişeler oluşturuyor.
+TBAV camiası ile ilgili yayınladığınız **her gerçek dışı haberin yanlışlığını, asılsızlığını belge ve delilleriyle sunduğumuz halde **aynı haberleri yaklaşık 14 aydır mükerrer bir şekilde yayınlamaktan vazgeçmemeniz akıllarda önemli soru işaretleri ve endişeler oluşturuyor.
 
   
 
@@ -26,7 +26,7 @@ Sayın Adnan Oktar ve TBAV camiası ile ilgili yayınladığınız **her gerçek
 
 **Asılsız ve mesnetsiz olduğunu defalarca ispatladığımız halde, **akla hayale gelmedik **iftiralarla, hakaretlerle, karalamalarla **dolup taşan yüzlerce uydurma haberi, ardı arkası kesilmeyecek bir biçimde sayfalarınıza, yayınlarınıza taşıdınız.
 
-Ne var ki içindeki iddiaların **tamamı somut delillerden yoksun, belgesiz, dayanaksız ve bütünüyle magazin içerikli olan "iddianame"de bile **sizin Sayın Adnan Oktar ve arkadaşlarına yönelttiğiniz akıl almaz suçlamaların, hayali senaryoların, uydurma haberlerin hiçbirisi yer almadı.
+Ne var ki içindeki iddiaların **tamamı somut delillerden yoksun, belgesiz, dayanaksız ve bütünüyle magazin içerikli olan "iddianame"de bile **sizin TBAV'na yönelttiğiniz akıl almaz suçlamaların, hayali senaryoların, uydurma haberlerin hiçbirisi yer almadı.
 
 **Bu bütünüyle uydurma, mesnetsiz ve hayal ürünü haberleri bir kez daha hatırlayacak olursak :**
 
@@ -46,11 +46,11 @@ Bu iddianızın da, gerçek dışı olduğunu, bunun da hemen ortaya çıkacağ�
 
 **– “_Taciz, tecavüz var_” dediniz, DNA testleri yapıldığını, her şeyin ortaya çıkacağını söylediniz de neden bu yalanları çürüten test sonuçlarını yayınlamadınız ???**
 
-İstismar, tecavüz ve taciz iddialarını tümüyle çürüten, **SAYIN ADNAN OKTAR’A VE ARKADAŞLARINA AİT DNA RAPORLARI, KAN ÖRNEKLERİ TERTEMİZ ÇIKIP ORTADA HİÇBİR SUÇ OLMADIĞINI SOMUT OLARAK İSPATLAYINCA**, **bu sonuçları hiçbir şekilde yayınlamadınız. Temiz çıkmamız, hiçbir suç çıkmaması sizi neden sevindirmedi?**
+İstismar, tecavüz ve taciz iddialarını tümüyle çürüten, **TBAV'na AİT DNA RAPORLARI, KAN ÖRNEKLERİ TERTEMİZ ÇIKIP ORTADA HİÇBİR SUÇ OLMADIĞINI SOMUT OLARAK İSPATLAYINCA**, **bu sonuçları hiçbir şekilde yayınlamadınız. Temiz çıkmamız, hiçbir suç çıkmaması sizi neden sevindirmedi?**
 
 ****– TBAV mensuplarına ait ruhsatlı silahlarla “_suç işlendi_” dediniz, bu haberiniz de anında belgelerle çürütüldü;****
 
-**İstanbul Kriminal Polis Laboratuvarı Müdürlüğü **tarafından yapılan balistik incelemelerinde TBAV mensuplarına ait silahların tamamen legal ve ruhsatlı oldukları, hiçbir suça veya olaya karışmadıkları anlaşıldı.
+**İstanbul Kriminal Laboratuvarı Müdürlüğü **tarafından yapılan balistik incelemelerinde TBAV mensuplarına ait silahların tamamen legal ve ruhsatlı oldukları, hiçbir suça veya olaya karışmadıkları anlaşıldı.
 
 **– Güya “_Zorla alıkonulduğu_”nu iddia ettiğiniz kadınlar nerede?**
 
@@ -58,7 +58,7 @@ Bu iddianızın da, gerçek dışı olduğunu, bunun da hemen ortaya çıkacağ�
 
 **– A9 TV ve Global Yayıncılık gibi şirketler üzerinden güya “_100 MİLYONLARCA DOLARLIK kara para aklandı_” dediniz...**
 
-Bu iddianız da TMSF Başkanı Sayın Muhiddin Gülal’ın, “**_Adnan Oktar ile alakalı çok bir şey yok aslında, (TOPLAM 86 ŞİRKETİN) 10 MİLYON TL SEVİYESİNDE BİR AKTİF BÜYÜKLÜĞÜ SÖZ KONUSU_**” sözleriyle resmi ağızdan yalanlandı. A9 TV, Global Yayıncılık gibi şirketlerin **ortalama bir bakkal dükkânından fazla cirosu ve sermayesi olmadığı **ortaya çıktı, Günlerce sayfalarınıza, kanallarınıza defalarce taşıdığınız bu gülünç iddialara dair **İDDİANAMEDE BİLE HERHANGİ BİR SUÇ İSNADI YOK. **Şirketlerin, güya kara para aklama faaliyeti olarak gösterilen işlemlerin ofis boyların bankalara yatırdıkları 500'er, 1000'er liralık elektrik, su, doğalgaz faturaları olduğu anlaşıldı.
+Bu iddianız da TMSF Başkanı, “**TBAV ile alakalı çok bir şey yok aslında, (TOPLAM 86 ŞİRKETİN) 10 MİLYON TL SEVİYESİNDE BİR AKTİF BÜYÜKLÜĞÜ SÖZ KONUSU_**” sözleriyle resmi ağızdan yalanlandı. A9 TV, Global Yayıncılık gibi şirketlerin **ortalama bir bakkal dükkânından fazla cirosu ve sermayesi olmadığı **ortaya çıktı, Günlerce sayfalarınıza, kanallarınıza defalarce taşıdığınız bu gülünç iddialara dair **İDDİANAMEDE BİLE HERHANGİ BİR SUÇ İSNADI YOK. **Şirketlerin, güya kara para aklama faaliyeti olarak gösterilen işlemlerin ofis boyların bankalara yatırdıkları 500'er, 1000'er liralık elektrik, su, doğalgaz faturaları olduğu anlaşıldı.
 
   
 
@@ -74,7 +74,7 @@ Bunların yanı sıra, bir yılı aşkın bir süredir yüzlerce kez yayınladı
 
 – Sürekli gündem yaptığınız sözde askeri ve siyasi sırların sızdırıldığına dair **CASUSLUK İFTİRALARININ TEK BİR KANITI, BELGESİ VEYA FOTOĞRAFI YOK**.
 
-– Değil uyuşturucu, sigara, alkol, nargile dahi kullanmayan **Sayın Adnan Oktar ve arkadaşlarının, “_KANLARINDA UYUŞTURUCU BULUNDU_” iftiranızın da gerçek dışı olduğu ****Adli Tıp Kurumu Kimya İhtisas Dairesi raporuyla **ispatlandı.
+– Değil uyuşturucu, sigara, alkol, nargile dahi kullanmayan **TBAV'nın, “_KANLARINDA UYUŞTURUCU BULUNDU_” iftiranızın da gerçek dışı olduğu ****Adli Tıp Kurumu Kimya İhtisas Dairesi raporuyla **ispatlandı.
 
 – "_Evlerin altında gizli geçitler, gizli hücreler var_" diye tamamıyla kurgu olan iddiaları haber yaptınız, **İstanbul İl Emniyet Müdürlüğü hiçbir evde böyle bir yapıya rastlamadı**. **BU HABERİN DE GERÇEK DIŞI OLDUĞU ORTAYA ÇIKTI**.
 
@@ -82,7 +82,7 @@ Bunların yanı sıra, bir yılı aşkın bir süredir yüzlerce kez yayınladı
 
 – Evlerde, ofislerde “**_dinleme cihazları, böcekler, gizli kameralar_**” var dediniz, bu iddianızın da gerçek dışı olduğu iddianamenin açıklanmasıyla bir kez daha ortaya çıktı. Adeta halkın aklıyla alay edercesine, **BAHÇE VE GÜVENLİK KAMERALARINA BİLE GİZLİ KAMERALAR DEDİNİZ**.
 
-– Sayın Adnan Oktar’ın canlı yayında gösterdiği **60 YILLIK EL YAZMASI TEVRAT ****için hiçbir aslı olmayan “_Tarihi Eser Tevrat_” safsatasını ortaya atınız**, bu uydurma iddianız da iddianamede yer almadı.
+– Canlı yayında gösterilen **60 YILLIK EL YAZMASI TEVRAT ****için hiçbir aslı olmayan “_Tarihi Eser Tevrat_” safsatasını ortaya atınız**, bu uydurma iddianız da iddianamede yer almadı.
 
 Buraya kadar verdiğimiz örneklerden de açıkça anlaşılacağı üzere, **HAKLARINDA HİÇBİR YARGI KARARI BULUNMAYAN, HAYATLARINDA HİÇBİR SUÇA KARIŞMAMIŞ, SABIKA KAYITLARI BİLE BULUNMAYAN VE BİR ANAYASAL HAK OLARAK "MASUMİYET KARİNESİNE" SAHİP SUÇSUZ İNSANLARI DAHA MAHKEMELERİ DAHİ GÖRÜLMEMİŞKEN GERÇEK DIŞI HABERLERLE SUÇLU İLAN EDİYORSUNUZ!**
 
@@ -104,7 +104,7 @@ Camiamız aleyhinde, kamuoyunda olumsuz algı oluşturmak, karalama ve itibarsı
 
 **– Derin devlet baskısı altında mısınız?**
 
-**– Polis teşkilatımız içinde yapılanan kripto bir yapı mı var ve size bu haberleri yayınlamanız için baskı yapıyor?**
+**– Teşkilatınız içinde yapılanan kripto bir yapı mı var ve size bu haberleri yayınlamanız için baskı yapıyor?**
 
 Sürekli gerçek dışı, önyargılı, asılsız haberlerle adaletin ve hukukun da gücünü kırıyorsunuz. **Mahkemeler üzerinde baskı oluşturuyorsunuz, yaptığınız haberler delilsiz, mesnetsiz olduğu halde, çıkardığınız infiallerle, koparttığınız yaygaralarla adil ve bağımsız yargıyı etki altında bırakıyorsunuz.**
 
@@ -116,9 +116,9 @@ Eğer yargının düzelmesini istemekte samimiyseniz öncelikle habercilik anlay
 
 **YAPTIĞINIZ KARA PROPAGANDA VE OLUŞTURDUĞUNUZ İNFİAL SONUCUNDA MASUM BİR İNSAN İÇİN HİÇBİR GEÇERLİ VE HUKUKİ DELİL OLMAKSIZIN 870 YIL HAPİS CEZASI İSTENİYOR !**
 
-Sayın Adnan Oktar aleyhinde **tek bir tane bile somut suç unsuru ve delili olmamasına, masumiyetinin ise yüzlerce delili olmasına ve bunları defalarca sunmamıza rağmen**kendisi için **870 YIL****HAPİS CEZASI**isteniyor. Bu ise, **10 KERE MÜEBBET ALMAK**anlamına geliyor!
+TBAV Camiası aleyhinde **tek bir tane bile somut suç unsuru ve delili olmamasına, masumiyetinin ise yüzlerce delili olmasına ve bunları defalarca sunmamıza rağmen**kendisi için **870 YIL****HAPİS CEZASI**isteniyor. Bu ise, **10 KERE MÜEBBET ALMAK**anlamına geliyor!
 
-Sayın Adnan Oktar ve arkadaşları, **MASUMİYET KARİNELERİ HİÇE SAYILARAK **yaklaşık 14 aydır kamuoyuna hukuksuzca servis ettiğiniz mesnetsiz haberlerle kara propagandaya maruz kalıyorlar.
+TBAV Camiası, **MASUMİYET KARİNELERİ HİÇE SAYILARAK **yaklaşık 14 aydır kamuoyuna hukuksuzca servis ettiğiniz mesnetsiz haberlerle kara propagandaya maruz kalıyorlar.
 
 **Bu durumda soruyoruz :**
 
