@@ -7,7 +7,7 @@ image: assets/images/1600_5d69995a5de75.jpg
 tags: [Medya]
 keywords: İngiliz Derin Devleti
 comments: false
-published: true
+published: false
 lang: tr
 encoding: UTF-8
 ---
