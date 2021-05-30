@@ -42,35 +42,13 @@
     src="https://code.jquery.com/jquery-3.3.1.min.js"
     integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
     crossorigin="anonymous"></script>
-    
-    
-<!-- dns-prefetch-->
-<link rel='dns-prefetch' href='//www.github.com'>
-<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com'>
-<link rel='dns-prefetch' href='//code.jquery.com'>
-<link rel='dns-prefetch' href='//ajax.googleapis.com'>
-<link rel='dns-prefetch' href='//cdnjs.cloudflare.com'>
 
-
-<link rel="subresource" href="../script/popper.min.js" crossorigin="anonymous">
-<link rel="prefetch" href="../script/popper.min.js" as="script">
-<link rel="prefetch" src="{{site.baseurl}}/assets/js/theme.js" as="script">
-
-
-
-
-    <script  rel="prefetch prerender" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-
-    <script  rel="prefetch prerender" src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-
-    <script src="{{site.baseurl}}/assets/js/theme.js"></script>
-
-
-    <!-- {% include tracking-header.html %} -->
+    {% include tracking-header.html %}
     
     {% include open-graph.html %}
 <!-- antializing scroll for tears -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jscroll/2.4.1/jquery.jscroll.min.js" crossorigin="anonymous></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jscroll/2.4.1/jquery.jscroll.min.js"
+    crossorigin="anonymous></script>
 
     <script src="{{site.baseurl}}/assets/js/theme.js"></script>
     
@@ -123,12 +101,20 @@
     <main class="site-content">
         {{ content }}
     </main>
-    <script async src="{{ site.baseurl }}/assets/js/jscrolling.js"  crossorigin="anonymous"></script>
-    <script async defer src="//code.responsivevoice.org/responsivevoice.js?key=usuE8V10" crossorigin="anonymous"></script>
+    <script src="{{ site.baseurl }}/assets/js/jscrolling.js" async></script>
+    <script defer src="//code.responsivevoice.org/responsivevoice.js?key=usuE8V10"></script>
     <!-- Scripts: popper, bootstrap, theme, lunr
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
 
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script> -->
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+    <script src="{{site.baseurl}}/assets/js/theme.js"></script>
+
 
 
     <!-- Footer -->
@@ -150,7 +136,7 @@
         </div>
     </footer>
 
-    <!--  {% include tracking-footer.html %}-->
+    {% include tracking-footer.html %}
 <noscript>
     <img src="https://counter2000.herokuapp.com/ingress/bb395551-6abf-4424-b96d-f55e2fb8a4fa/pixel.gif" alt="counter" title="counter">
 </noscript>
