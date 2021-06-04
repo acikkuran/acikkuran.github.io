@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Koronavirüs Salgını Evrime Delil Değildir"
+description: Son günlerde Çin’de başlayan Koronavirüs salgınını evrime örnek olarak yorumlayanlarla karşılaşabiliyoruz. Salgınla etkili bir şekilde mücadele edilememesinin sebebinin mutasyonlar olduğu, evrimin bu mekanizma ile yeni, güçlü ve gelişmiş bir virüsü ortaya çıkardığı iddia ediliyor.
 author: jane
 categories: [ Evrim ]
 image: assets/images/Koronavir.jpg
