@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "“Atom Altı Parçacıklar” birer Kuran mucizesidir"
+title:  "'Atom Altı Parçacıklar' birer Kuran mucizesidir"
+description:  "Günümüzden 50 yıl öncesine kadar atomları oluşturan en küçük parçacıkların protonlar ve nötronlar oldukları sanılıyordu."
 author: admin
 categories: [ Bilim ]
 image: assets/images/atom.png
@@ -33,10 +34,6 @@ Yapılacak en güzel şey, insanların iman bilincini artırmak; iman hakikatler
 
 Allah’ın varlığının delillerinin, Kuran mucizelerinin ve Darwinizm'in geçersizliğinin düzenli olarak televizyonlarda anlatılması gerekir. *(Adnan Oktar, A9 TV; 16 Ağustos 2017)*
 
-**Kuran Mucizeleri videoları - Atom Altı Parçacıklar**
-
-<div class="embed-responsive embed-responsive-16by9">
-<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/H3Gea21ReEg" width="480"></iframe></div>
 <!--
 <div>
 <a class="twitter-share-button" 
