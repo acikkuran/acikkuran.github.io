@@ -2,8 +2,8 @@
 layout: post
 title:  "Kuran'da Ahirzaman Ebced Tarihleri"
 author: jane
-categories: [ Yaşam-Sağlık ]
-tags: [Ölüm]
+categories: [Kuran ]
+tags: [Ebced]
 keywords: Plan, Ölüm, Hayat
 image: assets/images/EBCED.jpg
 comments: false
