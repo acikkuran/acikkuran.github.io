@@ -15,19 +15,19 @@ encoding: UTF-8
 <h2> KURAN'DA EBCED HESABI</h2>
 <p>Arapça alfabedeki her harfin sayısal bir değeri vardır. Yani Arapçada her harf bir rakama tekabül eder. Bundan istifade edilerek çeşitli hesaplamalar yapılır. İşte yapılan bu hesaba &#8220;ebced hesabı&#8221; ya da &#8220;hisab-ı cümel&#8221; denir.</a></p>
 <p>Ebced alfabe düzeninin her bir harfinin bir rakama tekabül etmesi özelliğinden faydalanan Müslümanlar, bunu çeşitli sahalarda kullanmışlardır. Cifr ilmi de bu yöntemlerden birisidir.</p>
-<p align="center"></p>
+
 <p>Cifr; gelecekte muhtemel olacak işlerden haber veren ilmin adıdır. Buna göre sembolik şekiller ve harflerin ebced sayı karşılıkları üzerinde yapılan yorumlar, bu sahayla meşgul olan kimselerin başvurdukları yollardan biridir. Ebced ile cifr yöntemleri arasındaki en önemli fark; ebced gerçekleşmiş olanın, cifr ise gerçekleşmesi muhtemel olanın ilmidir.</p>
 <p>Bu hesap yöntemi, çok eski tarihlere kadar uzanan ve daha henüz Kuran indirilmeden önce kullanımı çok yaygın olan bir yazım şeklidir. Arap tarihinde geçen tüm olaylar, harflere rakam değeri verilerek yazılır ve böylece her olayın tarihi de kayda geçilmiş olurdu. Bu tarihler, her kullanılan harfin özel rakam değerlerinin toplanmasıyla elde ediliyordu.</p>
 <p>İşte söz konusu bu ebced yöntemiyle, Kuran&#8217;da geçen bazı ayetler incelendiğinde, bu ayetlerin anlamlarına uygun olarak birtakım tarihlere denk geldiğini görürüz. Ve bu ayetlerde bahsedilen olayların, ebced hesaplarıyla elde edilen tarihlerde gerçekleştiğini gördüğümüzde ise, söz konusu ayetlerde olaya ilişkin gizli bir işaret bulunduğunu anlarız. (Doğrusunu en iyi Allah bilir.)</p>
-<table width="45%" border="1" cellspacing="0" cellpadding="10" align="center">
+<table>
 <tbody>
 <tr>
-<th scope="col">AÇIKLAMA:Bu sitede bulunan ebced hesaplamaları; aynı ayet üzerinden şeddeli, şeddesiz, tenvinli, tenvinsiz gibi çeşitli hesaplama yöntemleri kullanılarak yapıldığından, aynı ayetin farklı ebced sonuçları bulunmaktadır.</th>
+<th>AÇIKLAMA:Bu sitede bulunan ebced hesaplamaları; aynı ayet üzerinden şeddeli, şeddesiz, tenvinli, tenvinsiz gibi çeşitli hesaplama yöntemleri kullanılarak yapıldığından, aynı ayetin farklı ebced sonuçları bulunmaktadır.</th>
 </tr>
 </tbody>
 </table>
  
-<table width="37%" border="0" align="center">
+<table>
 <tbody>
 <tr>
 <td></td>
