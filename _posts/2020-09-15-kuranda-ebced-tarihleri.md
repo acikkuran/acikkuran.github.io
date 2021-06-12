@@ -29,20 +29,7 @@ Bu hesap yöntemi, çok eski tarihlere kadar uzanan ve daha henüz Kuran indiril
 </tbody>
 </table>
  
-<table>
-<tbody>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td bgcolor="#FFFFFF">
+
 <table width="600" border="1" cellspacing="0" cellpadding="5" align="center">
 <tbody>
 <tr>
