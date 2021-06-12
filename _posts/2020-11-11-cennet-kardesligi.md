@@ -12,7 +12,7 @@ lang: tr
 encoding: UTF-8
 ---
 
-'CENNET KARDEŞLİĞİ'
+## 'CENNET KARDEŞLİĞİ'
 
 Neşenin, hüznün, coşkunun, sevginin, ümidin, kararsızlığın, evrendeki tüm duyguların kadrajına girmesi, en büyük tutkularındandı. Neredeyse profesyonel sayılacak güzellikte pozlar yakalıyordu. Çekimler sırasında farklı bir dünyada gibiydi!
 
