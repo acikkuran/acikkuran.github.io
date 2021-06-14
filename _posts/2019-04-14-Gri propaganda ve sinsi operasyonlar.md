@@ -12,7 +12,7 @@ lang: tr
 encoding: UTF-8
 ---
 
-![walking](//assets/images/the_pioneer_adnan_oktar_grey_propaganda_and_insidious_operations.jpg "image")
+![walking](/assets/images/the_pioneer_adnan_oktar_grey_propaganda_and_insidious_operations.jpg "image")
 
 Çağımızda, savaşların, iç çatışmaların, darbelerin ve isyanların büyük ölçüde organize bir amaç doğrultusunda başlatıldığı artık bir sır değildir. Arap Baharı da dahil olmak üzere çeşitli ülkelerde başlatılan ve kimi zaman iktidarların değişmesi veya Yugoslavya'da olduğu gibi ülkelerin parçalanması ile sonuçlanan sokak isyanlarının organize üst akıllar tarafından planlanıp üretildiği ortaya çıkmıştır. Bunun elbette pek çok sebebi bulunmaktadır: Kaynakları sömürülecek olan ülkeleri istikrarsız hale getirmek, istenmeyen veya kurallara uymayan iktidarları devirmek ve savaşlar çıkarmak.
 
@@ -67,11 +67,11 @@ Bugün olduğu gibi, bundan sonra da bazı kesimlerin dezenformasyon yöntemleri
 - http://gidss.com/content/gray-propaganda-and-insidious-operations
 - http://www.jeffersoncorner.com/grey-propaganda-and-insidious-operations/
 
-![walking](//assets/images/jefferson_corner_adnan_oktar_grey_propaganda_and_insidious_operations.jpg "image")
+![walking](/assets/images/jefferson_corner_adnan_oktar_grey_propaganda_and_insidious_operations.jpg "image")
 
-![walking](//assets/images/gidss_adnan_oktar_grey_propaganda_and_insidious_operations.jpg "image")
+![walking](/assets/images/gidss_adnan_oktar_grey_propaganda_and_insidious_operations.jpg "image")
 
-![walking](//assets/images/al_bilad_adnan_oktar_grey_propaganda_and_insidious_operations.jpg "image")
+![walking](/assets/images/al_bilad_adnan_oktar_grey_propaganda_and_insidious_operations.jpg "image")
 
 <!--div>
 <a class="twitter-share-button" 

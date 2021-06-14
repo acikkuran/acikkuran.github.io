@@ -57,7 +57,7 @@ Kısacası demir ' dediğimiz elementin var olması ve dünya üzerinde bol mikt
 Yeryüzündeki teknolojiyi mümkün kılan tüm unsurlar incelendiğinde, hepsinde Allah'ın yaratma sanatının delillerini görmek mümkün olacaktır.  
  
 
-**![](//assets/images/makaleler/technology.jpg)**
+**![](/assets/images/makaleler/technology.jpg)**
 
   
 

@@ -18,7 +18,7 @@ Peygamberimiz (s.a.v.)’den aktarılan pek çok hadiste, yeryüzünde İslam ah
 
 Sayın Adnan Oktar, Hz. Mehdi (a.s.)’ın, imanının gücü, Allah’a olan derin sevgisi ve cennete olan özlemi nedeniyle, dünyayı cennete benzer biçimde güzelleştireceğini çeşitli tarihlerde yaptığı röportajlarında belirtmiştir.
 
-![](//assets/images/makaleler/mehdiyet_sanat_01.jpg)
+![](/assets/images/makaleler/mehdiyet_sanat_01.jpg)
 
 Altınçağ’da Hz. İsa (a.s.) ve Hz. Mehdi (a.s.)’ın vesilesiyle hayatın her anına bolluk, zenginlik, güzellik, ilerleme ve sanat hakim olacaktır. Bu dönemde insanlar hep güzellikle karşılaşacak, ahlakları gibi, yaşadıkları yerler, bahçeleri, evlerinin dekorasyonu, kıyafetleri, dinledikleri müzik, eğlence şekilleri, resimleri, sohbetleri de güzelleşecektir. Bu güzelliklerin hepsi Kuran ahlakının eksiksiz olarak yaşanması ile gerçekleşecektir. Dolayısıyla insanlar, Yüce Allah’ın Kuran’da inanan kullarına müjdelediği güzelliklerin hepsini bu dönemde yaşayabileceklerdir. Allah Kuran’da iman eden müminleri dünyada da güzel bir hayatla yaşatacağını şöyle bildirmektedir:
 
@@ -50,7 +50,7 @@ Yüce Allah Kuran’da hem günlük hayatta, hem de cennet hayatındaki sanat, e
 
 Altınçağ her insanın yaşamında sanatın bir yönünü sergilediği, insanların daima oluşturdukları eserlerle, bakışları, konuşmaları, tavırlarıyla diğer insanlara güzellik sunmaya çalıştıkları bir dönem olacaktır.
 
-![](//assets/images/makaleler/mehdiyet_sanat_02.jpg)
+![](/assets/images/makaleler/mehdiyet_sanat_02.jpg)
 
 **Sayın  Adnan Oktar 16 Haziran 2010 tarihli Samsun AKS TV ve TV Kayseri röportajında bu konuyu şöyle anlatmaktadır:**
 
@@ -64,7 +64,7 @@ Müminlerin cennete duydukları özlem, onların çevrelerini cenneti andırır 
 
 Hz. Mehdi (a.s.) Kuran ahlakını uygulama konusundaki kararlılığı ile temizlik ve estetik anlayışını mimari yapılara da yansıtacaktır. İnsanların kullandıkları tüm mekanlar, yollar, ibadethaneler, eğlence yerleri, işyerleri, evler kısacası her yer tertemiz olacaktır. **“Elbiseni temizle. Pislikten kaçınıp uzaklaş.”** (Müddessir Suresi, 4-5) ayetlerindeki hükmün gereği olarak Altınçağ’da bu temizliğin sağlanması için gerekli olan temizleyici maddeler tüm insanların kullanımına sunulacak, bu konularda insanlara büyük kolaylıklar sağlanacaktır. İnsanların kıyafetleri ve yaşadıkları mekanlar dışında çevre temizliğine de son derece önem verilecektir. Tüm yerleşim merkezlerinde çevre kirliliğinin önüne geçilecek, hava kirliliğine neden olan her konuya çözüm getirilecektir.
 
-![](//assets/images/makaleler/mehdiyet_sanat_03.jpg)
+![](/assets/images/makaleler/mehdiyet_sanat_03.jpg)
 
 **Sayın Adnan Oktar 4 Şubat 2011 tarihli Kocaeli TV röportajında Hz. Mehdi (a.s.) zamanında mimari yapıların güzelliğini ve temizliğini  Kabe’yi örnek vererek şöyle anlatmaktadır:**
 
@@ -80,7 +80,7 @@ Hz. Mehdi (a.s.) insanlara bilim ve sanatın imanın gücüyle gelişeceğini ö
 
 **Hz. Mehdi (a.s.) İnsanların Toplu Olarak Yaşadıkları Her Yere  Konfor ve Estetik Kazandıracaktır:**
 
-![](//assets/images/makaleler/mehdiyet_sanat_04.jpg)Hz. Mehdi (a.s.) devrinde tüm insanların hayatını kolaylaştıracak pek çok güzellikler olacaktır. İbadethanelerde sıcak, soğuk suyun sürekli akması, toplu taşıma araçlarında herkesin rahatlıkla yolculuk edebilmesi, kirli, kötü kokulu, kalabalık ortamlarda insanların saatlerce mağdur olmasına izin verilmeyecek sistemlerin geliştirilmesi, geniş caddelerin yapılması, asfaltların parlak hatta beyaz olması, caddelerin sokakların meyve ağaçları ile süslenmesi, bu güzelliklerden sadece birkaçıdır.
+![](/assets/images/makaleler/mehdiyet_sanat_04.jpg)Hz. Mehdi (a.s.) devrinde tüm insanların hayatını kolaylaştıracak pek çok güzellikler olacaktır. İbadethanelerde sıcak, soğuk suyun sürekli akması, toplu taşıma araçlarında herkesin rahatlıkla yolculuk edebilmesi, kirli, kötü kokulu, kalabalık ortamlarda insanların saatlerce mağdur olmasına izin verilmeyecek sistemlerin geliştirilmesi, geniş caddelerin yapılması, asfaltların parlak hatta beyaz olması, caddelerin sokakların meyve ağaçları ile süslenmesi, bu güzelliklerden sadece birkaçıdır.
 
 Hz. Mehdi (a.s.) devrinde insanların sosyal hayatları da son derece zengin olacaktır. Dinlenme alanları, parklar tertemiz olacak, insanların en rahat kullanabilecekleri şekilde düzenlenecektir. Aynı zamanda hayvan sevgisi de teşvik edilecek, her türlü hayvanın rahatlıkla sevilebileceği ve incelenebileceği ortamlar oluşturulacaktır. Hatta aslan, panter, çita gibi hayvanlar eğitilerek sokaklarda dolaşmaları sağlanacaktır. Bunun yanı sıra akrep, yılan gibi hayvanların zehirlerinin bilimsel metodlarla yok edilmesi sayesinde, bunların da insanlara zarar vermesi engellenecektir. Ahir zamanda yaşanacak olan bu ortama Peygamberimiz (s.a.v.)’in bir hadisinde şöyle dikkat çekilmiştir:
 
@@ -98,7 +98,7 @@ Altınçağ  insanların cennete özlem duyduğu, Allah’ın rızasını ve ce
 
 **SONUÇ: Hz. Mehdi (a.s.) Devrinde Türk İslam Birliği Kurulacak, Bu Birlik Sanatı ve Estetiği Teşvik Edecek, İhtişamlı Bir Medeniyet Oluşturacaktır**
 
-![](//assets/images/makaleler/mehdiyet_sanat_05.jpg)Hz. Mehdi (a.s.) önderliğinde kurulacak olan Türk İslam Birliği dünyada ihtişamın oluşmasına, Müslümanların dünyaya ışık tutan kültür ve medeniyet önderleri olmalarına vesile olacaktır. Sayın Adnan Oktar çeşitli tarihlerde yaptığı röportajlarında bu birliğin insanlığa kazandıracağı ihtişamlı medeniyeti şöyle anlatmaktadır:
+![](/assets/images/makaleler/mehdiyet_sanat_05.jpg)Hz. Mehdi (a.s.) önderliğinde kurulacak olan Türk İslam Birliği dünyada ihtişamın oluşmasına, Müslümanların dünyaya ışık tutan kültür ve medeniyet önderleri olmalarına vesile olacaktır. Sayın Adnan Oktar çeşitli tarihlerde yaptığı röportajlarında bu birliğin insanlığa kazandıracağı ihtişamlı medeniyeti şöyle anlatmaktadır:
 
 **ADNAN OKTAR:** “Dünya yepyeni bir medeniyet çağına girecek. Bilimde, sanatta, estetikte her yönde, inşaAllah. Huzur, güven, barış, iyilikler, güzellikler bütün dünyayı kaplayacak. Deccalin pisliğini, deccalin rezilliğini dünya bütün açıklığıyla gördü. Şimdi de Mehdiyet’in ışığını, temizliğini ve sıcaklığını görecekler. Aradaki kıyası yapacaklar; aman Allah’ım biz cehennemin içindeymişiz, diyecekler. Hayat varmış, dünya varmış elhamdülillah, diyecekler. Arada muazzam fark olduğunu görecekler. O muazzam farkı göstermek için Cenab-ı Allah bu imkanı meydana getiriyor.  _(__Adnan Oktar’ın Gaziantep olay Tv’deki canlı röportajı, 15 Şubat 2011__)_
 
