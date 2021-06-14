@@ -1,0 +1,7 @@
+<h5 class="mb-3">Jekyll Site</h5>
+
+<p>Merhaba! Bu web sitesi, <a href="https://acikkuran.github.io/">Admin</a> tarafından Github sunucusunda barındırılıyor.</p>
+
+<a target="_blank" href="https://acikkuran.github.io/" class="btn btn-warning d-block mb-2"><i class="fa fa-file"></i> Belgesel</a>
+
+<a target="_blank" class="btn btn-danger d-block" href="https://acikkuran.github.io/"><i class="fa fa-coffee"></i> Destek</a> 
