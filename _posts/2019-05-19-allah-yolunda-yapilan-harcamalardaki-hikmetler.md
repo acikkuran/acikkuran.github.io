@@ -13,7 +13,7 @@ encoding: UTF-8
 ---
 
 
-![](/assets/images/infak.jpg)İnsanı maddi ve manevi pisliklerden temizleyen, nefsini eğiterek Allah'ın hoşnut olduğu bir ahlaka erişmesine vesile olan en önemli ibadetlerden birisi de Allah yolunda ve hayır için yapılan harcamalardır. Allah peygambere müminlerin mallarından sadaka almasını bu şekilde onları temizlemesini bildirmiştir. Ayette şöyle hükmedilmektedir:
+![infak](/assets/images/infak.jpg)İnsanı maddi ve manevi pisliklerden temizleyen, nefsini eğiterek Allah'ın hoşnut olduğu bir ahlaka erişmesine vesile olan en önemli ibadetlerden birisi de Allah yolunda ve hayır için yapılan harcamalardır. Allah peygambere müminlerin mallarından sadaka almasını bu şekilde onları temizlemesini bildirmiştir. Ayette şöyle hükmedilmektedir:
 
 **Onların mallarından sadaka al, bununla onları temizlemiş, arındırmış olursun…** (Tevbe Suresi, 103)
 
@@ -23,8 +23,7 @@ Ancak, insanların temizlenip arınmalarına vesile olan harcamalar, Kuran'da bi
 
 İnsanın dünya hayatında yaşaması için gerekli olan ihtiyaçları çok azdır. İnsanın ihtiyaçları için kullandığı miktar dışında sahip olduğu mal ihtiyaçtan arta kalan demektir. Önemli olan neyin harcandığı değil, kişinin samimi olarak verebileceği neyse onu vermesidir. Allah herşeyin doğrusunu bilir ve insanların ihtiyaçlarından arta kalan miktarın ne kadar olduğunu tamamen insanın aklına ve vicdana bırakmıştır. Dünya hırsı olmayan, dünyalarını ahiretlerine karşılık olarak satmış bulunanlar için infak çok kolay bir ibadettir. Allah, dünya hırsı olanların veya içinde biraz bile dünyaya bağlılığı bulunanların da mallarından infak ederek arınmalarını ve dünya hırsını bırakmalarını istemiştir. Şüphesiz bu, müminlerin ahiretleri için çok önemli bir ibadettir. 
 
-**İnsan sevdiği şeylerden de ihtiyaç içinde**
-**olanlara vermelidir**
+**İnsan sevdiği şeylerden de ihtiyaç içinde olanlara vermelidir**
 
 İnsanlar başkalarına bir iyilikte bulunacakları zaman, bu yapılan iyiliğin kendilerine hiç dokunmamasını isterler. Örneğin ihtiyaç içindeki birine eşyalar verecek biri kendi sevmediği, belki hiç kullanmadığı şeyleri verir. 
 
@@ -34,8 +33,7 @@ Allah kişinin kendisine uygun görmediği, eski bulduğu, kullanılmayacağına
 
 Ey iman edenler, kazandıklarınızın iyi olanından ve sizin için yerden bitirdiklerimizden infak edin. Kendinizin göz yummadan alamayacağınız bayağı şeyleri vermeye kalkışmayın ve bilin ki, şüphesiz Allah, hiçbir şeye ihtiyacı olmayandır, övülmeye layık olandır. (Bakara Suresi, 267)
 
-**Allah yolunda yapılan harcamalar Allah'a**
-**yakınlaşmak için bir yoldur**
+**Allah yolunda yapılan harcamalar Allah'a yakınlaşmak için bir yoldur**
 
 Bir Müslüman için hiçbir şey, Allah'ın hoşnutluğundan ve O'nun sevgisini kazanmaktan daha üstün değildir. Mümin hayatı boyunca sürekli olarak kendisini Allah'a yakınlaştıracak vesileler arar. Allah bir ayetinde müminlere bunu şöyle bildirir:
 
@@ -45,8 +43,7 @@ Allah Kuran'da müminlere bir sır ve bir müjde olarak yaptıkları infakların
 
 **Bedevilerden öyleleri de vardır ki, onlar Allah'a ve ahiret gününe iman eder ve infak ettiğini Allah Katında bir yakınlaşmaya ve elçinin dua ve bağışlama dileklerine (bir yol) sayar. Haberiniz olsun, bu gerçekten onlar için bir yakınlaşmadır. Allah da onları Kendi rahmetine sokacaktır. Şüphesiz Allah, bağışlayandır, esirgeyendir.** (Tevbe Suresi, 99)
 
-**Allah için yapılan her harcamanın güzel**
-**bir karşılığı vardır**
+**Allah için yapılan her harcamanın güzel bir karşılığı vardır**
 
 Allah'ın infak konusu ile ilgili olarak bildirdiği bir diğer sır ise kişinin aslında bir fedakarlık yaparak infak ettiği şeyin mutlaka kendisine geri döneceğidir. Bu Allah'ın önemli bir vaadidir. Yoksulluk korkusu yaşamadan Allah yolunda mallarını infak eden insanlar hayatları boyunca hiç ummadıkları nimetlerle rızıklandırılırlar. Hayır olarak infak ettikleri herşey hayır olarak kendilerine döner. Allah'ın bu vaadinin bildirildiği ayetlerden bazıları şöyledir:
 
