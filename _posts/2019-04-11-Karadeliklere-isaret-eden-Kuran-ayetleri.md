@@ -2,7 +2,7 @@
 layout: post
 title:  "Karadeliklere işaret eden Kuran ayetleri"
 author: admin
-categories: [ Bilim ]
+categories: [ evren ]
 image: assets/images/kara-deligin-fotografini-cektiler.jpg
 tags: [evren]
 keywords: Karadelik, ayet, yıldız, keşif
@@ -59,10 +59,8 @@ Bu şöyle açıklanabilir: Her varlığın ve olayın yaratıldığı anda asl�
 Allah, varlık verdiği her şeyi sonsuz olarak yaratmıştır. Var olan şeyler için artık sonsuz yaşam başlamıştır. Fakat bunu iyi anlayabilmek için tek tek varlıklar ve olaylar üzerinde düşünmekte yarar vardır. Ancak bu örneklere geçmeden önce bir konuya daha değinmek gerekir: Burada anlatılanlar, kuşkusuz bir insanın yaşamında karşılaşabileceği en büyük ilimlerden biridir. Sonsuzluk kavramıyla ilgili bu gerçekleri çoğu insan ilk kez duyuyor, ilk kez düşünüyor olabilir. Önemli olan şudur; Allah Kuran’da yalnızca “içten Allah’a yönelen” kimselerin öğüt alabileceğine dikkat çekmektedir. Yani samimi kalple Allah’tan yardım dileyen, O’nun sonsuz kudretini takdir etmeye çalışan, Rabbinin büyüklüğünü kavramak için çaba gösteren insanlar burada anlatılan gerçeklerden de öğüt alacak ve bu gerçekleri kavramaya başlayacaklardır.
 
 Event Horizon Telescope ve National Science Foundation (@NSFgov) tarafından bir kara deliğin ve gölgesinin bir görüntüsü ilk kez yakalandı. Farklı dalga boylarında ışık kullanarak aynı kara deliği gözlemlemek ve kara deliğin ortamını anlamak için veri toplandı.
-
-<div style="margin: 15px; text-align: center;">
-<img src="{{ site.baseurl }}/assets/images/kara_delik.jpg" alt="Decorators" class="resize" /><p><small>Event Horizon Telescope ve National Science Foundation (@NSFgov)  &bull; İşte @NASAChandraXRay Gözlemevi'nin m87 galaksisinin çekirdeğinin ve bunun merkezindeki kara deliğin yakın çekimine bir göz atın.</small></p>
-</div>
+![Dua](/assets/images/kara_delik.jpg "Hafıza Kuran Okuttuk"){:height="100%" width="100%" class="left"}
+Event Horizon Telescope ve National Science Foundation (@NSFgov)  &bull; İşte @NASAChandraXRay Gözlemevi'nin m87 galaksisinin çekirdeğinin ve bunun merkezindeki kara deliğin yakın çekimine bir göz atın.
 
 Adnan Oktar'ın Arab News'da yayınlanan makalesi:
 - http://www.arabnews.com/islam-perspective/news/645376
