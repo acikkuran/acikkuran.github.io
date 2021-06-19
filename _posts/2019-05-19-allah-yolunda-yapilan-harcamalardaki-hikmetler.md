@@ -3,7 +3,7 @@ layout: post
 title: "Allah Yolunda Yapılan Harcamalardaki Hikmetler"
 author: jane
 categories: [ Din ]
-image: assets/images/para.png
+image: assets/images/infak.jpg
 tags: din
 keywords: Hikmet, Para, Mehdi
 comments: false
@@ -13,7 +13,7 @@ encoding: UTF-8
 ---
 
 
-![infak](/assets/images/infak.jpg)İnsanı maddi ve manevi pisliklerden temizleyen, nefsini eğiterek Allah'ın hoşnut olduğu bir ahlaka erişmesine vesile olan en önemli ibadetlerden birisi de Allah yolunda ve hayır için yapılan harcamalardır. Allah peygambere müminlerin mallarından sadaka almasını bu şekilde onları temizlemesini bildirmiştir. Ayette şöyle hükmedilmektedir:
+![infak](/assets/images/infak.jpg) İnsanı maddi ve manevi pisliklerden temizleyen, nefsini eğiterek Allah'ın hoşnut olduğu bir ahlaka erişmesine vesile olan en önemli ibadetlerden birisi de Allah yolunda ve hayır için yapılan harcamalardır. Allah peygambere müminlerin mallarından sadaka almasını bu şekilde onları temizlemesini bildirmiştir. Ayette şöyle hükmedilmektedir:
 
 **Onların mallarından sadaka al, bununla onları temizlemiş, arındırmış olursun…** (Tevbe Suresi, 103)
 
