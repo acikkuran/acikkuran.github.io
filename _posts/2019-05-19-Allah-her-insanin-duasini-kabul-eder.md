@@ -1,6 +1,6 @@
 ---
 layout: post
-title:"Allah her insanın duasını kabul eder"
+title: "Allah her insanın duasını kabul eder"
 author: jane
 categories: [ Din ]
 image: assets/images/dua.png

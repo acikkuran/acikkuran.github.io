@@ -1,8 +1,8 @@
 ---
 layout: post
-title:"Allah Yolunda Yapılan Harcamalardaki Hikmetler"
+title: "Allah Yolunda Yapılan Harcamalardaki Hikmetler"
 author: jane
-categories: [ Para ]
+categories: [ Din ]
 image: assets/images/para.png
 tags: din
 keywords: Hikmet, Para, Mehdi
