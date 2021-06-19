@@ -12,7 +12,7 @@ lang: tr
 encoding: UTF-8
 ---
 
-![Dua](/assets/images/unnamed.jpg "Hafıza Kuran Okuttuk"){:height="50%" width="50%" class="left"}
+![Abdülhamit Dönemi](/assets/images/unnamed.jpg "Darwinizm’in ve Materyalizm"){:height="50%" width="50%" class="left"}
 
 
 Osmanlı’da Tanzimat’la birlikte başlayan Batılılaşma hareketi bazı çevreler tarafından suiistimal edilmiş ve tek yanlı materyalist, Darwinist propaganda için kullanılmıştır. Modernleşme, bilimde ve sanatta ilerleme gibi olumlu talepler, bazı alanlarda adeta dinsizlik propagandasına dönüştürülmüş ve Osmanlı’nın çöküş süreci başlamıştır.
@@ -30,7 +30,7 @@ Abdülhamit dönemine dikkatlice bakıldığında Osmanlı’yı yıkan, Sevr an
 
 **Abdülhamit Döneminde Darwinizm’in ve Materyalizmin Osmanlı’da Yayılması**
 
-![Dua](/assets/images/unnamed.jpg "Hafıza Kuran Okuttuk"){:height="50%" width="50%" class="left"}
+![Abdülhamit Dönemi](/assets/images/unnamed2.jpg "Darwinizm’in ve Materyalizm"){:height="50%" width="50%" class="left"}
 
 **Münif Paşa**
 
@@ -42,8 +42,8 @@ Abdülhamit dönemine dikkatlice bakıldığında Osmanlı’yı yıkan, Sevr an
 
 3- Abdülhamit döneminde Milli Eğitim Bakanı ve Sadrazam olarak görev yapan Kıbrıslı Mehmet Kamil Paşa da İngiliz hayranı olarak bilinmektedir. Lakabı İngiliz Kâmil’dir. 
 
+![Abdülhamit Dönemi](/assets/images/unnamed3.jpg "Darwinizm’in ve Materyalizm"){:height="50%" width="50%" class="left"}
 
-![](https://lh5.googleusercontent.com/proxy/yv1ik3hTPH4IRFXo_xVY3ZP5cjx6U9MBdsE-jFfjtpFpwUgE9qoy9-rivvsAIuXsMO0u_b3DzT9bg56LJNRoT8k2eC6zBqktLKpPuA=s0-d)
 
 ** İngiliz Kamil Paşa**
 
