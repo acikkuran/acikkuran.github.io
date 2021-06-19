@@ -1,10 +1,10 @@
 ---
 layout: post
-title:"Darwinizm ve Materyalizm Abdülhamit Döneminde Tüm Osmanlı’ya Yayılmış, Böylece Osmanlı ve İslam Alemi Parçalanıp Dağılmıştır"
+title: "Darwinizm ve Materyalizm Abdülhamit Döneminde Tüm Osmanlı’ya Yayılmış, Böylece Osmanlı ve İslam Alemi Parçalanıp Dağılmıştır"
 author: admin
-categories: [ Darwinizm ]
+categories: [ Felsefe ]
 image: assets/images/ottomandarwinizm.jpg
-tags: [Osmanlı]
+tags: [felsefe]
 keywords: Darwinizm, Materyalizm, Abdülhamit, Osmanlı
 comments: false
 published: true
@@ -12,7 +12,7 @@ lang: tr
 encoding: UTF-8
 ---
 
-![](https://lh6.googleusercontent.com/proxy/ygLE7Sj0iFt-aVw9gamCUoUqijr9gMKxAsgMYijZZHsbEO8TYHYYlnlJ9y7sSnwEaAU8XuP68iHbkagbROvsvzun7oqb0IYtSTeTanCSON4OWzMOK4S4X1FxWXyN0AqATU1XddMWJTqZYw5AVSNo7OBJmaeXZiuAGuL1QVgdg0TX6vg5IJt9lrE4O_b1WefLlkKtFKoTrulwI05ut-wA30TVjGznwUa_soC6xZkdqqBPNBNqjM4m9sAoyxw=s0-d)
+![Dua](/assets/images/unnamed.jpg "Hafıza Kuran Okuttuk"){:height="50%" width="50%" class="left"}
 
 
 Osmanlı’da Tanzimat’la birlikte başlayan Batılılaşma hareketi bazı çevreler tarafından suiistimal edilmiş ve tek yanlı materyalist, Darwinist propaganda için kullanılmıştır. Modernleşme, bilimde ve sanatta ilerleme gibi olumlu talepler, bazı alanlarda adeta dinsizlik propagandasına dönüştürülmüş ve Osmanlı’nın çöküş süreci başlamıştır.
@@ -30,7 +30,7 @@ Abdülhamit dönemine dikkatlice bakıldığında Osmanlı’yı yıkan, Sevr an
 
 **Abdülhamit Döneminde Darwinizm’in ve Materyalizmin Osmanlı’da Yayılması**
 
-![](https://lh4.googleusercontent.com/proxy/KNcg3KEtSm7xp2IEs0f0Eu32zR4iK2YtskTJlskmI5pR-cWmhfJFfrn7TYgdS86vc8QtXZU3ZAwGV-bkelnpF8Vatao=s0-d)
+![Dua](/assets/images/unnamed.jpg "Hafıza Kuran Okuttuk"){:height="50%" width="50%" class="left"}
 
 **Münif Paşa**
 
