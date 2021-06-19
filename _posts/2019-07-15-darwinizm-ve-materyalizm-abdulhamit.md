@@ -53,7 +53,7 @@ Abdülhamit dönemine dikkatlice bakıldığında Osmanlı’yı yıkan, Sevr an
 5- İngiltere’nin Mısır Sömürge Valisi Lord Cromer masondur. Başta materyalist Muhammed Abduh olmak üzere Mısır’daki evrimci tüm alimleri desteklemiş, sözde aydınlanma ve modernleşme adı altında Mısır’ın tüm fikri yapısını değiştirmiştir. El Ezher üniversitesini Darwinizm’in adeta üslerinden biri haline getiren de Lord Cromer’dır. Mısır’dan Arap dünyasına yayılan Darwinist materyalist kitap ve dergilerin maddi destekçisidir. Evrimci materyalist Muhammed Abduh’un 1899’da Mısır Baş Müftüsü olmasını sağlamıştır. Muhammed Abduh da masondur ve İslam reformisti olarak tanınır. İngiliz derin devleti için İslam reformu demek, kendi Darwinist felsefelerine uyan Kuran’dan uzak, İslam olmayan bir İslam’ı inşa etmek demektir. Osmanlı’da Abdülhamit döneminde, İngiltere başta Mısır olmak üzere Arap dünyasında evrimci kitaplar yayınlatmaya başlamış, Abdülhamit yönetimi de bu kitapları, dergileri ve yazıları tüm İslam dünyasına yaymışlardır.
 
 
-![](https://lh4.googleusercontent.com/proxy/tZ09Qg4HlQShhH9I3A5VNUDz3SsWvUz5uQeD2NSK_68EHycAaad0P5OUjPSEdgh8pUhQTFDYiAmCB-LsDxqtpyt5I1L7l95DI6M=s0-d)
+![Abdülhamit Dönemi](/assets/images/unnamed4.jpg "Darwinizm’in ve Materyalizm"){:height="50%" width="50%" class="left"}
 
 **El Beyan dergisi**
 
