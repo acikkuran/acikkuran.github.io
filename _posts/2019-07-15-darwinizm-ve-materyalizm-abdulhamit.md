@@ -57,7 +57,8 @@ Abdülhamit dönemine dikkatlice bakıldığında Osmanlı’yı yıkan, Sevr an
 
 **El Beyan dergisi**
 
-![](https://lh4.googleusercontent.com/proxy/IfgEgAelVlnRCtYujxP2sHYjXfImbb7IJoGWYA5FlAW7ENDoB17A5Cw5NbNURBMvHMwWnhGiYHCDIhj-3r83eM4Y6s0a=s0-d)
+
+![Abdülhamit Dönemi](/assets/images/unnamed5.jpg "Darwinizm’in ve Materyalizm"){:height="50%" width="50%" class="left"}
 
 **Lord Cromer**
 
