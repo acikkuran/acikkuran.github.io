@@ -12,8 +12,7 @@ lang: tr
 encoding: UTF-8
 ---
 
-
-![Dua](/assets/images/Dua.jpg) Sonsuz merhamet, şefkat ve güç sahibi olan Allah, Kuran'da insanlara çok yakın olduğunu, Kendisi'ne dua ederek bir şey istediklerinde onların dualarını kabul edeceğini bildirir. Bu konuyla ilgili ayetlerden biri şöyledir:
+![Dua](/assets/images/Dua.jpg "Hafıza Kuran Okuttuk"){:height="50%" width="50%" class="left"} Sonsuz merhamet, şefkat ve güç sahibi olan Allah, Kuran'da insanlara çok yakın olduğunu, Kendisi'ne dua ederek bir şey istediklerinde onların dualarını kabul edeceğini bildirir. Bu konuyla ilgili ayetlerden biri şöyledir:
 
 **Kullarım Beni sana soracak olursa, muhakkak ki Ben (onlara) pek yakınım. Bana dua ettiği zaman dua edenin duasına cevap veririm. Öyleyse, onlar da Benim çağrıma cevap versinler ve Bana iman etsinler. Umulur ki irşad (doğru yolu bulmuş) olurlar.** (Bakara Suresi, 186)
 
