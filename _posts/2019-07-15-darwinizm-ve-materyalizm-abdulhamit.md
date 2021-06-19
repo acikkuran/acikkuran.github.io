@@ -62,7 +62,8 @@ Abdülhamit dönemine dikkatlice bakıldığında Osmanlı’yı yıkan, Sevr an
 
 **Lord Cromer**
 
-![](https://lh6.googleusercontent.com/proxy/bQnveVi5uYAUg8CV0Eg18iB5xkYQ52Y2Hez8maJRXSogjsULU4_5WcJTMkwAWACnhz4IVJkZni2R-kNI_S9QD4v2Y-JkBNGn=s0-d)
+
+![Abdülhamit Dönemi](/assets/images/unnamed6.jpg "Darwinizm’in ve Materyalizm"){:height="50%" width="50%" class="left"}
 
 **Muhammed Abduh**
 
