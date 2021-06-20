@@ -52,11 +52,11 @@ encoding: UTF-8
 
 10-Budistler günde tek bir öğün yemek yerler ve bu da öğleden önce olmak zorundadır. Öğleden sonra bir ertesi güne kadar bir şey yemek yasaktır. Yemek genellikle ekmek, pirinç ve baharattan oluşur. İçecekleri ise, su veya pirinç sütüdür. Başka yiyecekler “lüks” sayılır ve yasaklanır, hatta ilaçlar bile yasaktır. Et, balık ve meyve gibi yiyecekler sadece eğer rahip hasta ise ve o da bir üst rahibin daveti üzerine yenir.
 
-[![budizm](/assets/images/10.jpg "budizm")](/assets/images/10.jpg)
+[![budizm](/assets/images/10.jpg "budizm")](/assets/images/101.jpg)
 
 11-Evlilik ve her türlü aile yaşamı da yine rahiplere yasaktır. Her rahibin sadece tek bir elbisesi olabilir, bu da kalitesiz sarı kumaştan olmalıdır. Bu giysinin yanında başka tek eşyaları da; uyku için kullanabilecekleri sert bir yatak, saçlarını kazımak için ustura, iğne, matara ve dilenmek için bir kaptır.
 
-![budist rahip](/assets/images/11.jpg "budist rahip")
+![budist rahip](/assets/images/111.jpg "budist rahip")
 
 12-Budist rahipler için hayat türlü zorluklarla doludur. Çalışamazlar ve mülk sahibi olamazlar. Günlük yiyeceklerini, halk arasında ellerinde bir kap ile gezip dilenerek gidermek zorundadırlar. Hatta bu nedenle Budist rahiplere halk arasında “bhikkus” (dilenciler) ismi verilmiştir.
 
