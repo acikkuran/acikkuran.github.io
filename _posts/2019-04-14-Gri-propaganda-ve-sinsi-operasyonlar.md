@@ -12,7 +12,7 @@ lang: tr
 encoding: UTF-8
 ---
 
-![walking](/assets/images/the_pioneer_adnan_oktar_grey_propaganda_and_insidious_operations.jpg "image")
+![walking](/assets/images/the_pioneer_adnan_oktar_grey_propaganda_and_insidious_operations.jpg "image"){:height="50%" width="50%" class="left"}
 
 Çağımızda, savaşların, iç çatışmaların, darbelerin ve isyanların büyük ölçüde organize bir amaç doğrultusunda başlatıldığı artık bir sır değildir. Arap Baharı da dahil olmak üzere çeşitli ülkelerde başlatılan ve kimi zaman iktidarların değişmesi veya Yugoslavya'da olduğu gibi ülkelerin parçalanması ile sonuçlanan sokak isyanlarının organize üst akıllar tarafından planlanıp üretildiği ortaya çıkmıştır. Bunun elbette pek çok sebebi bulunmaktadır: Kaynakları sömürülecek olan ülkeleri istikrarsız hale getirmek, istenmeyen veya kurallara uymayan iktidarları devirmek ve savaşlar çıkarmak.
 
@@ -33,9 +33,9 @@ Dünyada, İran'da Musaddık darbesi, ardından Kaddafi'ye yapılan başarısız
 Türkiye'de yaşanan 15 Temmuz darbe girişimi de, FETÖ terör örgütünü uydurma haberlerle destekleyen bir gri propagandaya maruz kalmıştır. Bir kısım uluslararası ana akım medyada henüz darbe girişimi devam ederken darbenin başarılı olduğuna dair yalan haberler çıkmaya başlamış; tanınmış bazı isimler Cumhurbaşkanı Erdoğan'ın yurt dışına kaçtığına dair haber yaygınlaştırmışlardır. Darbe girişimi sürerken başta New York Times, The Guardian, Time, CNN, BBC, Washington Post, The Times ve Der Spiegel gibi yayın organlarında darbe girişimini destekleyecek türden onlarca yayına yer verilmiştir. Adeta darbe girişiminin başarılı olacağına emin bir şekilde verilen bu haberler, kuşkusuz Türk halkı tarafından büyük tepki ile karşılanmıştır.
 
   
-![walking](/assets/images/operasyon.png "image")
-<p>Son dönemde Türkiye'nin Suriye'de gerçekleştirdiği Afrin operasyonu kapsamında da yaygınlaştırılan yoğun bir dezenformasyon ve uygulanan bir gri propaganda çalışması dikkat çekmektedir. Özellikle sosyal medya kapsamında yaygınlaştırılan yalan haberler, Gezi Olaylarından tanıdık olduğumuz bir manzaradır. Yine özellikle ana akım medya organlarında yayınlanan Afrin operasyonu ve Türkiye aleyhinde propaganda yazıları, Türkiye'nin haklı operasyonuna karşı kurgulanmış organize bir çalışmadır.</p>
-</div>
+![walking](/assets/images/operasyon.png "image"){:height="50%" width="50%" class="left"}
+Son dönemde Türkiye'nin Suriye'de gerçekleştirdiği Afrin operasyonu kapsamında da yaygınlaştırılan yoğun bir dezenformasyon ve uygulanan bir gri propaganda çalışması dikkat çekmektedir. Özellikle sosyal medya kapsamında yaygınlaştırılan yalan haberler, Gezi Olaylarından tanıdık olduğumuz bir manzaradır. Yine özellikle ana akım medya organlarında yayınlanan Afrin operasyonu ve Türkiye aleyhinde propaganda yazıları, Türkiye'nin haklı operasyonuna karşı kurgulanmış organize bir çalışmadır.
+
 
 Son dönemde Türkiye'nin Suriye'de gerçekleştirdiği Afrin operasyonu kapsamında da yaygınlaştırılan yoğun bir dezenformasyon ve uygulanan bir gri propaganda çalışması dikkat çekmektedir. Özellikle sosyal medya kapsamında yaygınlaştırılan yalan haberler, Gezi Olaylarından tanıdık olduğumuz bir manzaradır. Yine özellikle ana akım medya organlarında yayınlanan Afrin operasyonu ve Türkiye aleyhinde propaganda yazıları, Türkiye'nin haklı operasyonuna karşı kurgulanmış organize bir çalışmadır.
 
