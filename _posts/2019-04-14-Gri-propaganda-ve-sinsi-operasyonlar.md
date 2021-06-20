@@ -32,28 +32,8 @@ Dünyada, İran'da Musaddık darbesi, ardından Kaddafi'ye yapılan başarısız
 
 Türkiye'de yaşanan 15 Temmuz darbe girişimi de, FETÖ terör örgütünü uydurma haberlerle destekleyen bir gri propagandaya maruz kalmıştır. Bir kısım uluslararası ana akım medyada henüz darbe girişimi devam ederken darbenin başarılı olduğuna dair yalan haberler çıkmaya başlamış; tanınmış bazı isimler Cumhurbaşkanı Erdoğan'ın yurt dışına kaçtığına dair haber yaygınlaştırmışlardır. Darbe girişimi sürerken başta New York Times, The Guardian, Time, CNN, BBC, Washington Post, The Times ve Der Spiegel gibi yayın organlarında darbe girişimini destekleyecek türden onlarca yayına yer verilmiştir. Adeta darbe girişiminin başarılı olacağına emin bir şekilde verilen bu haberler, kuşkusuz Türk halkı tarafından büyük tepki ile karşılanmıştır.
 
-<style>
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
-#circle-shape-example { 
-  font-family: Open Sans, sans-serif; 
-  margin: 2rem; 
-}
-#circle-shape-example p { 
-  line-height: 1.8; 
-}
-#circle-shape-example .curve { 
-  width: 33%; height: auto;
-  min-width: 150px;
-  float: left;
-  margin-right:2rem; 
-  border-radius: 50%;
-  -webkit-shape-outside:circle();
-  shape-outside:circle();
-}
-</style>
-
-<div id="circle-shape-example">
-  <img src="{{ site.baseurl }}/assets/images/operasyon.png" alt="plate" class="curve">
+  
+![walking](/assets/images/operasyon.png "image")
 <p>Son dönemde Türkiye'nin Suriye'de gerçekleştirdiği Afrin operasyonu kapsamında da yaygınlaştırılan yoğun bir dezenformasyon ve uygulanan bir gri propaganda çalışması dikkat çekmektedir. Özellikle sosyal medya kapsamında yaygınlaştırılan yalan haberler, Gezi Olaylarından tanıdık olduğumuz bir manzaradır. Yine özellikle ana akım medya organlarında yayınlanan Afrin operasyonu ve Türkiye aleyhinde propaganda yazıları, Türkiye'nin haklı operasyonuna karşı kurgulanmış organize bir çalışmadır.</p>
 </div>
 
@@ -73,14 +53,3 @@ Bugün olduğu gibi, bundan sonra da bazı kesimlerin dezenformasyon yöntemleri
 
 ![walking](/assets/images/al_bilad_adnan_oktar_grey_propaganda_and_insidious_operations.jpg "image")
 
-<!--div>
-<a class="twitter-share-button" 
-href="https://twitter.com/intent/tweet?text=Çağımızda, savaşların, iç çatışmaların, darbelerin ve isyanların büyük ölçüde organize bir amaç doğrultusunda başlatıldığı artık bir sır değildir.">
-</a>
-
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </div>
- 
-<div>
-<a href="https://twitter.com/zekidem20379657" class="twitter-follow-button" data-show-count="false"></a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div-->
