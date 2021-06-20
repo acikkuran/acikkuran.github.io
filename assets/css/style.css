@@ -320,3 +320,12 @@ div[class*="databaseTable_import_wrap"] {
     font-size: 1.5em;
   }
 }*/
+
+
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+
+
