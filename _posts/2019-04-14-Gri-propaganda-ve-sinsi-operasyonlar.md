@@ -2,9 +2,9 @@
 layout: post
 title:  "Gri propaganda ve sinsi operasyonlar"
 author: admin
-categories: [ Dünya ]
+categories: [ Din ]
 image: assets/images/sinsi.png
-tags: [münafık]
+tags: [din]
 keywords: propaganda, sinsi, operasyonlar, krizler
 comments: false
 published: true
