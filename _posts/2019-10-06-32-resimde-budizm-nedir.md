@@ -140,4 +140,4 @@ encoding: UTF-8
 32-Son yıllarda da Batılı toplumlarda “alışılanın dışında” ve “toplum dışı” hayat tarzlarıyla dikkat çeken yeni bir akım görülmektedir. Bu akım Doğu kültürünü, felsefelerini ve inanışlarını kullanarak dikkat çekmeye çalışan kimselerden oluşmaktadır. Bu akımın kullandığı Doğu felsefelerinin başında ise Budizm gelir.
 
 
-Kaynak:  ![Budizmin nasıl bir inanç olduğunu 32 resimde öğrenelim](https://dusuneninsanlaricin.com/budizmin-nasil-bir-inanc-oldugunu-32-resimde-ogrenelim/ "Budizmin nasıl bir inanç olduğunu 32 resimde öğrenelim")
+Kaynak:  [Budizmin nasıl bir inanç olduğunu 32 resimde öğrenelim](https://dusuneninsanlaricin.com/budizmin-nasil-bir-inanc-oldugunu-32-resimde-ogrenelim/ "Budizmin nasıl bir inanç olduğunu 32 resimde öğrenelim")
