@@ -3,7 +3,7 @@ layout: post
 title:  "32 Resimde Budizm Nedir?"
 author: admin
 categories: [ Din ]
-image: /assets/images/121.jpg
+image: /assets/images/12-1.jpg
 tags: [Budizm]
 keywords: Budizm
 comments: true
