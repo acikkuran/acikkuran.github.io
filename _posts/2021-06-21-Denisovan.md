@@ -98,7 +98,7 @@ Oysaki ortak atanın varlığına dair en ufak bir delil dahi yoktur. Ancak kimi
 
 Yapılan bu gibi çalışmalara evrimci çevrelerden de eleştiriler gelmektedir. Leipzig Enstitüsü’nden Richard E. Green ve Harvard Tıp’tan David Reich şu şekilde yorum yapmaktadırlar:
 
-“Yapılan çalışma yoğun ve kompleks matematiksel istatistiklere dayanıyor ve bu da savlarının doğruluğunu sorgulatıyor. İstatistiksel bakış açısı bilgi yüklü olmasına karşın, arkeolojik bulgularda somut karşılığını bulamıyor.” [](https://web.archive.org/web/20161108000632/http://www.nytimes.com/2010/05/07/science/07neanderthal.html)(http://www.nytimes.com/2010/05/07/science/07neanderthal.html)
+“Yapılan çalışma yoğun ve kompleks matematiksel istatistiklere dayanıyor ve bu da savlarının doğruluğunu sorgulatıyor. İstatistiksel bakış açısı bilgi yüklü olmasına karşın, arkeolojik bulgularda somut karşılığını bulamıyor.” [07neanderthal](https://web.archive.org/web/20161108000632/http://www.nytimes.com/2010/05/07/science/07neanderthal.html)(http://www.nytimes.com/2010/05/07/science/07neanderthal.html)
 
 **DENISOVAN, FARKLI BİR CANLI TÜRÜ DEĞİLDİR, İNSANDIR**
 
@@ -108,7 +108,7 @@ Söz konusu makalede Denisovan insanının, 40-50 bin yıl önce yaşadığı va
 
 Stanford Üniversitesi’nden paleontolojist Richard Klein bu konuda şunları söylemiştir:
 
-“Çiftleşme teorisi, arkeolojik zeminde karşılığını bulmuş görünmüyor. Dedikleri sadece “Bunlar bizim verilerimiz, kabul etmeniz gerekir.” şeklinde. İncelediğim kısmı problemli olan bu çalışmanın kalanı konusunda da endişeliyim.” [](https://web.archive.org/web/20161108000632/http://www.nytimes.com/2010/05/07/science/07neanderthal.html)(http://www.nytimes.com/2010/05/07/science/07neanderthal.html)
+“Çiftleşme teorisi, arkeolojik zeminde karşılığını bulmuş görünmüyor. Dedikleri sadece “Bunlar bizim verilerimiz, kabul etmeniz gerekir.” şeklinde. İncelediğim kısmı problemli olan bu çalışmanın kalanı konusunda da endişeliyim.” [07neanderthal](https://web.archive.org/web/20161108000632/http://www.nytimes.com/2010/05/07/science/07neanderthal.html)(http://www.nytimes.com/2010/05/07/science/07neanderthal.html)
 
 **AYNI GENLER VE FARKLI İNSANLAR**
 
@@ -130,7 +130,7 @@ Toplumda ırkçı fikirleri besleyen, ayrıştırıcı ve bölücü akımların 
 
 1. http://www.sciencemag.org/news/2016/03/our-ancestors-may-have-mated-more-once-mysterious-ancient-humans
 2. http://www.nature.com/nature/journal/v468/n7327/full/nature09710.html
-3. http://evolution.berkeley.edu/evolibrary/article/evo\_01
+3. http://evolution.berkeley.edu/evolibrary/article/evo_01
 4. Richard E. Green, , 710 (2010)
 5. http://www.nytimes.com/2010/05/07/science/07neanderthal.html
 
