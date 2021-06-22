@@ -8,7 +8,7 @@ categories: [makale]
 tags: [makale]
 encoding: utf-8
 keywods: İnsansı,Denisovanlar, Science Mag
-image: assets/assets/images/Denisovan-skulls.jpg
+image: assets/images/Denisovan-skulls.jpg
 comments: false
 published: true
 lang: tr
