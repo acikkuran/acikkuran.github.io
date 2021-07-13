@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Müminin, yaşarken kendisini öldü kabul ederek hareket etmesi, şeytanın tüm oyunlarını bozacak önemli bir yoldur"
+title: "Müminin, yaşarken kendisini öldü kabul ederek hareket etmesi, şeytanın tüm oyunlarını bozacak önemli bir yoldur. - Allahsevgisi.net"
 description: Müminin, yaşarken kendisini öldü kabul ederek hareket etmesi, şeytanın tüm oyunlarını bozacak önemli bir yoldur. 
 excerpt: Bu midye kabuğunu ilginç yapan üzerindeki işlemelerdi ve işlemelerdeki detaylar Darwinistleri derinden sarstı.
 author: jane
@@ -44,7 +44,5 @@ Bu imani olgunlukla hareket eden bir insanın üzerindeki olumsuz tüm baskılar
 *   Böyle bir kişi çevresindeki her insanın sevdiği, saygı duyduğu; yanında olmayı, sohbetine katılmayı, dostluk etmeyi isteyeceği; güvenilir, dengeli, olgun, sevgi dolu, canlı, neşeli, akıllı, uyumlu, munis bir insan haline gelir. Böylece dünya şartlarında olabilecek en üst seviyede sevgiyi yaşayabilecek; derin sevmeyi, derin sevilmeyi tadabilecek bir ahlaka ulaşır.  
      
 
-
-- Allahsevgisi.net
-
+  
 **2010-05-22 14:15:28**
