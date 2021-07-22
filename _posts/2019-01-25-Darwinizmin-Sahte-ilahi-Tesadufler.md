@@ -6,6 +6,8 @@ categories: [ Darwinizm ]
 image: assets/images/darwinizm.jpg
 tags: [evrim]
 keywords: Darwinizm, Sahte, İlah, Tesadüfler
+date:   2019-01-25 12:00:00
+last_updated: 2019-01-25 18:57:00
 comments: false
 published: true
 lang: tr

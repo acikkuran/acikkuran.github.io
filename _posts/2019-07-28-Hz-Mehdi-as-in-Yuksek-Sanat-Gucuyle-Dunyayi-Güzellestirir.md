@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Sayın Adnan Oktar Hz. Mehdi (a.s.)'ın Yüksek Sanat Gücüyle Dünyayı Güzelleştireceğini Anlatıyor"
+title:  "Hz. Mehdi (a.s.)'ın Yüksek Sanat Gücüyle Dünyayı Güzelleştirir"
+description:  "Kıyam edecek (Kâim) olan Hz. Mehdi (a.s.) Ali’nin soyundandır. O BU YERYÜZÜNÜ, YERYÜZÜNDEN BAŞKA BİR HALE GETİRECEKTİR..."
 author: admin
 categories: [ Din ]
 image: assets/images/mehdiyet_sanat_01.jpg
