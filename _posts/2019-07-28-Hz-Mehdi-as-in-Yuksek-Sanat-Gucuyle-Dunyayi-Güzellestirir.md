@@ -11,6 +11,8 @@ comments: false
 published: true
 lang: tr
 encoding: UTF-8
+redirect_from:
+  - /Sayin-Adnan-Oktar-Hz-Mehdi-as-in-Yuksek-Sanat-Gucuyle-Dunyayi/
 ---
 
 **“Kıyam edecek (Kâim) olan Hz. Mehdi (a.s.) Ali’nin soyundandır. O BU YERYÜZÜNÜ, YERYÜZÜNDEN BAŞKA BİR HALE GETİRECEKTİR...” (Şeyh Muhammed b. İbrahim-i Numani, Gaybet-i Numani, s. 169)**

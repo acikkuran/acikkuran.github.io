@@ -25,6 +25,10 @@ plugins_dir:
   - jekyll-seo-tag
   - jekyll-assets
   - jekyll-coffeescript
+  - jekyll-redirect-from
+  
+whitelist:
+  - jekyll-redirect-from
   
 authors:
     admin:
@@ -34,7 +38,7 @@ authors:
       avatar:         assets/images/avatar1.jpg
       bio:            Blogger
       email:          union2023@protonmail.com
-      twitter:        https://twitter.com/zekidem20379657
+      twitter:        https://twitter.com/
       instagram:      https://www.instagram.com/jeruselam.github.io
     sal:
       name:           Sal
@@ -43,7 +47,7 @@ authors:
       avatar:         assets/images/avatar1.jpg
       bio:            Blogger
       email:          union2023@protonmail.com
-      twitter:        https://twitter.com/zekidem20379657
+      twitter:        https://twitter.com/
       instagram:      https://www.instagram.com/jeruselam.github.io
 
     jane:
