@@ -990,10 +990,6 @@ encoding: UTF-8
 
 
 <figure><img src="/assets/images/Esma/ZÜLCELAL-I-VEL-IKRAM-1024x683.jpg"></figure>
-<div>
-			
-			<span>Post Views: </span>
-			<span>474</span>
-			</div><span>By : </span>	
+
 </article>
 
