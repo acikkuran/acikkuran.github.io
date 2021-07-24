@@ -993,3 +993,6 @@ encoding: UTF-8
 
 </article>
 
+Kaynak: 
+
+- https://moderndindargenclik.com/122-resimde-allahin-isimleri/
