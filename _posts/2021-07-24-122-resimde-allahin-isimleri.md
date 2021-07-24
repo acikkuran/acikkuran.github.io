@@ -17,10 +17,6 @@ encoding: UTF-8
 
 <article>
 
-    <img src="https://moderndindargenclik.com/wp-content/uploads/2019/01/Allah.jpg">		    <aside><div><div><div>0</div><span>SHARES</span></div><div><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmoderndindargenclik.com%2F122-resimde-allahin-isimleri%2F"><span>Share</span></a></div>
-            </div>
-                </aside>
-            
 <p> 1-ADL – Adil Olan, Adaleti Emreden </p>
 
 
