@@ -25,7 +25,7 @@ encoding: UTF-8
 
 
 
-<p> 2-AFÜVV – Affı Çok Olan </p>
+<p> 2- AFÜVV – Affı Çok Olan </p>
 
 
 
