@@ -25,7 +25,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/adl-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/adl-1024x683.jpg"></figure>
 
 
 
@@ -33,7 +33,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/af%C3%BCv-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/afüv-1024x683.jpg"></figure>
 
 
 
@@ -41,7 +41,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/ahir-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/ahir-1024x683.jpg"></figure>
 
 
 
@@ -49,7 +49,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/ahkamulhakimin-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/ahkamulhakimin-1024x683.jpg"></figure>
 
 
 
@@ -57,7 +57,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/alim-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/alim-1024x683.jpg"></figure>
 
 
 
@@ -65,7 +65,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/aliyy-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/aliyy-1024x683.jpg"></figure>
 
 
 
@@ -73,7 +73,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/asim-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/asim-1024x683.jpg"></figure>
 
 
 
@@ -81,7 +81,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/azim-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/azim-1024x683.jpg"></figure>
 
 
 
@@ -89,7 +89,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/aziz-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/aziz-1024x683.jpg"></figure>
 
 
 
@@ -97,7 +97,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/bais-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/bais-1024x683.jpg"></figure>
 
 
 
@@ -105,7 +105,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/baki-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/baki-1024x683.jpg"></figure>
 
 
 
@@ -113,7 +113,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/bari-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/bari-1024x683.jpg"></figure>
 
 
 
@@ -121,7 +121,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/basir-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/basir-1024x683.jpg"></figure>
 
 
 
@@ -129,7 +129,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/basit-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/basit-1024x683.jpg"></figure>
 
 
 
@@ -137,7 +137,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/batin-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/batin-1024x683.jpg"></figure>
 
 
 
@@ -145,7 +145,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/bedi-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/bedi-1024x683.jpg"></figure>
 
 
 
@@ -153,7 +153,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/berr-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/berr-1024x683.jpg"></figure>
 
 
 
@@ -161,7 +161,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/cami-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/cami-1024x683.jpg"></figure>
 
 
 
@@ -169,7 +169,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/cebbar-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/cebbar-1024x683.jpg"></figure>
 
 
 
@@ -177,7 +177,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/dafig-1-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/dafig-1-1024x683.jpg"></figure>
 
 
 
@@ -185,7 +185,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/dai-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/dai-1024x683.jpg"></figure>
 
 
 
@@ -193,7 +193,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/darr-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/darr-1024x683.jpg"></figure>
 
 
 
@@ -201,7 +201,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/erhamurrahimin-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/erhamurrahimin-1024x683.jpg"></figure>
 
 
 
@@ -209,7 +209,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/evvel-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/evvel-1024x683.jpg"></figure>
 
 
 
@@ -217,7 +217,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/falik-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/falik-1024x683.jpg"></figure>
 
 
 
@@ -225,7 +225,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/fasil-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/fasil-1024x683.jpg"></figure>
 
 
 
@@ -233,7 +233,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/fatir-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/fatir-1024x683.jpg"></figure>
 
 
 
@@ -241,7 +241,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Fettah-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Fettah-1024x683.jpg"></figure>
 
 
 
@@ -249,7 +249,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Gaffar-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Gaffar-1024x683.jpg"></figure>
 
 
 
@@ -257,7 +257,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Ganiy-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Ganiy-1024x683.jpg"></figure>
 
 
 
@@ -265,7 +265,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Habir-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Habir-1024x683.jpg"></figure>
 
 
 
@@ -273,7 +273,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Hadi-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Hadi-1024x683.jpg"></figure>
 
 
 
@@ -281,7 +281,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/hafid-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/hafid-1024x683.jpg"></figure>
 
 
 
@@ -289,7 +289,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/hafiz-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/hafiz-1024x683.jpg"></figure>
 
 
 
@@ -297,7 +297,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/hakem-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/hakem-1024x683.jpg"></figure>
 
 
 
@@ -305,7 +305,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Hakim-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Hakim-1024x683.jpg"></figure>
 
 
 
@@ -313,7 +313,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/hakk-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/hakk-1024x683.jpg"></figure>
 
 
 
@@ -321,7 +321,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Halik-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Halik-1024x683.jpg"></figure>
 
 
 
@@ -329,7 +329,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/halim-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/halim-1024x683.jpg"></figure>
 
 
 
@@ -337,7 +337,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/hamid-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/hamid-1024x683.jpg"></figure>
 
 
 
@@ -345,7 +345,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Hasib-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Hasib-1024x683.jpg"></figure>
 
 
 
@@ -353,7 +353,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/hayy-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/hayy-1024x683.jpg"></figure>
 
 
 
@@ -361,7 +361,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/kabid-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/kabid-1024x683.jpg"></figure>
 
 
 
@@ -369,7 +369,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Kabil-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Kabil-1024x683.jpg"></figure>
 
 
 
@@ -377,7 +377,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/kadi-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/kadi-1024x683.jpg"></figure>
 
 
 
@@ -385,7 +385,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/kadim-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/kadim-1024x683.jpg"></figure>
 
 
 
@@ -393,7 +393,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Kadir-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Kadir-1024x683.jpg"></figure>
 
 
 
@@ -401,7 +401,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/kafi-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/kafi-1024x683.jpg"></figure>
 
 
 
@@ -409,7 +409,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/kahhar-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/kahhar-1024x683.jpg"></figure>
 
 
 
@@ -417,7 +417,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/kaim-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/kaim-1024x683.jpg"></figure>
 
 
 
@@ -425,7 +425,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/karib-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/karib-1024x683.jpg"></figure>
 
 
 
@@ -433,7 +433,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/kasim-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/kasim-1024x683.jpg"></figure>
 
 
 
@@ -441,7 +441,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Kavi-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Kavi-1024x683.jpg"></figure>
 
 
 
@@ -449,7 +449,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/kebir-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/kebir-1024x683.jpg"></figure>
 
 
 
@@ -457,7 +457,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/kerim-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/kerim-1024x683.jpg"></figure>
 
 
 
@@ -465,7 +465,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/kudd%C3%BCs-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/kuddüs-1024x683.jpg"></figure>
 
 
 
@@ -473,7 +473,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/latif-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/latif-1024x683.jpg"></figure>
 
 
 
@@ -481,7 +481,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Makir-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Makir-1024x683.jpg"></figure>
 
 
 
@@ -489,7 +489,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/malikiyevmiddin-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/malikiyevmiddin-1024x683.jpg"></figure>
 
 
 
@@ -497,7 +497,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/mecid-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/mecid-1024x683.jpg"></figure>
 
 
 
@@ -505,7 +505,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Melca-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Melca-1024x683.jpg"></figure>
 
 
 
@@ -513,7 +513,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/melik-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/melik-1024x683.jpg"></figure>
 
 
 
@@ -521,7 +521,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/metin-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/metin-1024x683.jpg"></figure>
 
 
 
@@ -529,7 +529,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Mevla-1.jpg"></figure>
+<figure><img src="/assets/images/Esma/Mevla-1.jpg"></figure>
 
 
 
@@ -537,7 +537,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/muahhir-1024x601.jpg"></figure>
+<figure><img src="/assets/images/Esma/muahhir-1024x601.jpg"></figure>
 
 
 
@@ -545,7 +545,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/muazzib-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/muazzib-1024x683.jpg"></figure>
 
 
 
@@ -553,7 +553,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/muhit-1-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/muhit-1-1024x683.jpg"></figure>
 
 
 
@@ -561,7 +561,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/mubki-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/mubki-1024x683.jpg"></figure>
 
 
 
@@ -569,7 +569,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/mucib-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/mucib-1024x683.jpg"></figure>
 
 
 
@@ -577,7 +577,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/mugni-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/mugni-1024x683.jpg"></figure>
 
 
 
@@ -585,7 +585,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/muhsi-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/muhsi-1024x683.jpg"></figure>
 
 
 
@@ -593,7 +593,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Muhsin-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Muhsin-1024x683.jpg"></figure>
 
 
 
@@ -601,7 +601,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/muhyi-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/muhyi-1024x683.jpg"></figure>
 
 
 
@@ -609,7 +609,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/mukallib-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/mukallib-1024x683.jpg"></figure>
 
 
 
@@ -617,7 +617,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Mukmil-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Mukmil-1024x683.jpg"></figure>
 
 
 
@@ -625,7 +625,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/muktedir-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/muktedir-1024x683.jpg"></figure>
 
 
 
@@ -633,7 +633,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/muntakim-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/muntakim-1024x683.jpg"></figure>
 
 
 
@@ -641,7 +641,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Musavvir-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Musavvir-1024x683.jpg"></figure>
 
 
 
@@ -649,7 +649,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/musevva-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/musevva-1024x683.jpg"></figure>
 
 
 
@@ -657,7 +657,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Mutahhir-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Mutahhir-1024x683.jpg"></figure>
 
 
 
@@ -665,7 +665,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/muveffi-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/muveffi-1024x683.jpg"></figure>
 
 
 
@@ -673,7 +673,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/M%C3%BCbessir-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Mübessir-1024x683.jpg"></figure>
 
 
 
@@ -681,7 +681,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/m%C3%BCbeyyin-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/mübeyyin-1024x683.jpg"></figure>
 
 
 
@@ -689,7 +689,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/m%C3%BCdebbir-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/müdebbir-1024x683.jpg"></figure>
 
 
 
@@ -697,7 +697,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/m%C3%BCheymin-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/müheymin-1024x683.jpg"></figure>
 
 
 
@@ -705,7 +705,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/m%C3%BCmin-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/mümin-1024x683.jpg"></figure>
 
 
 
@@ -713,7 +713,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/m%C3%BCstean-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/müstean-1024x683.jpg"></figure>
 
 
 
@@ -721,7 +721,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/m%C3%BCteali-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/müteali-1024x683.jpg"></figure>
 
 
 
@@ -729,7 +729,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/m%C3%BCtekebbir-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/mütekebbir-1024x683.jpg"></figure>
 
 
 
@@ -737,7 +737,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/m%C3%BCyessir-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/müyessir-1024x683.jpg"></figure>
 
 
 
@@ -745,7 +745,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/m%C3%BCzekki-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/müzekki-1024x683.jpg"></figure>
 
 
 
@@ -753,7 +753,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/m%C3%BCzeyyin-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/müzeyyin-1024x683.jpg"></figure>
 
 
 
@@ -761,7 +761,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/M%C3%BCzil-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Müzil-1024x683.jpg"></figure>
 
 
 
@@ -769,7 +769,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/nasir-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/nasir-1024x683.jpg"></figure>
 
 
 
@@ -777,7 +777,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/nur-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/nur-1024x683.jpg"></figure>
 
 
 
@@ -785,7 +785,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Rabbilalemin-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Rabbilalemin-1024x683.jpg"></figure>
 
 
 
@@ -793,7 +793,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Rafi-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Rafi-1024x683.jpg"></figure>
 
 
 
@@ -801,7 +801,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/rahman-rahim-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/rahman-rahim-1024x683.jpg"></figure>
 
 
 
@@ -809,7 +809,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/rakib-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/rakib-1024x683.jpg"></figure>
 
 
 
@@ -817,7 +817,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/rauf-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/rauf-1024x683.jpg"></figure>
 
 
 
@@ -825,7 +825,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/rezzak-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/rezzak-1024x683.jpg"></figure>
 
 
 
@@ -833,7 +833,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/sadik-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/sadik-1024x683.jpg"></figure>
 
 
 
@@ -841,7 +841,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/safi-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/safi-1024x683.jpg"></figure>
 
 
 
@@ -849,7 +849,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/saik-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/saik-1024x683.jpg"></figure>
 
 
 
@@ -857,7 +857,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/samed-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/samed-1024x683.jpg"></figure>
 
 
 
@@ -865,7 +865,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/sani-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/sani-1024x683.jpg"></figure>
 
 
 
@@ -873,7 +873,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Sarih-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Sarih-1024x683.jpg"></figure>
 
 
 
@@ -881,7 +881,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/sefi-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/sefi-1024x683.jpg"></figure>
 
 
 
@@ -889,7 +889,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/sehid-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/sehid-1024x683.jpg"></figure>
 
 
 
@@ -897,7 +897,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Sek%C3%BCr-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Sekür-1024x683.jpg"></figure>
 
 
 
@@ -905,7 +905,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/selam-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/selam-1024x683.jpg"></figure>
 
 
 
@@ -913,7 +913,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Semi-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Semi-1024x683.jpg"></figure>
 
 
 
@@ -921,7 +921,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/tevvab-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/tevvab-1024x683.jpg"></figure>
 
 
 
@@ -929,7 +929,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/vahid-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/vahid-1024x683.jpg"></figure>
 
 
 
@@ -937,7 +937,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/varis-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/varis-1024x683.jpg"></figure>
 
 
 
@@ -945,7 +945,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/vasi-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/vasi-1024x683.jpg"></figure>
 
 
 
@@ -953,7 +953,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/vedud-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/vedud-1024x683.jpg"></figure>
 
 
 
@@ -961,7 +961,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/vehhab-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/vehhab-1024x683.jpg"></figure>
 
 
 
@@ -969,7 +969,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Vekil-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/Vekil-1024x683.jpg"></figure>
 
 
 
@@ -977,7 +977,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/veli-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/veli-1024x683.jpg"></figure>
 
 
 
@@ -985,7 +985,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/zahir-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/zahir-1024x683.jpg"></figure>
 
 
 
@@ -993,7 +993,7 @@ encoding: UTF-8
 
 
 
-<figure><img src="https://moderndindargenclik.com/wp-content/uploads/2019/12/Z%C3%9CLCELAL-I-VEL-IKRAM-1024x683.jpg"></figure>
+<figure><img src="/assets/images/Esma/ZÜLCELAL-I-VEL-IKRAM-1024x683.jpg"></figure>
 <div>
 			
 			<span>Post Views: </span>
