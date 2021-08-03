@@ -9,8 +9,6 @@ tags: [makale]
 encoding: utf-8
 date:   2021-05-27 12:00:00
 keywords: Atom Mucizesi
-tags:  Teknoloji  Bilim  Kitap
-categories: Bilim
 permalink: /:categories/:title/
 comments: false
 published: true
