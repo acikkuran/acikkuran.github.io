@@ -9,7 +9,7 @@ tags: [makale]
 encoding: utf-8
 date:   2021-05-27 12:00:00
 keywords: Atom Mucizesi
-image: /assets/image/atom/AtomMucizesi.jpg
+image: assets/image/atom/AtomMucizesi.jpg
 permalink: /:categories/:title/
 comments: false
 published: true
