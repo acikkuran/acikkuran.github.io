@@ -1,22 +1,21 @@
 ---
 layout: post
 title:  "Atom Mucizesi"
-description: "Görkemli boyutlarıyla insan aklının kavrama sınırlarını zorlayan evren, var olduğu ilk andan itibaren hassas dengeler üzerinde ve büyük bir düzen içerisinde,  hiç şaşmadan işlemektedir
-excerpt: Kitapta zaman zaman karşınıza Allah'ın yaratmasındaki mükemmelliği vurgulamak için kullandığımız 'tasarım' kelimesi çıkacak. Bu kelimenin hangi maksatla kullanıldığının doğru anlaşılması çok önemli"
+description: "Görkemli boyutlarıyla insan aklının kavrama sınırlarını zorlayan evren, var olduğu ilk andan itibaren hassas dengeler üzerinde ve büyük bir düzen içerisinde,  hiç şaşmadan işlemektedir"
+excerpt: "Kitapta zaman zaman karşınıza Allah'ın yaratmasındaki mükemmelliği vurgulamak için kullandığımız 'tasarım' kelimesi çıkacak. Bu kelimenin hangi maksatla kullanıldığının doğru anlaşılması çok önemli"
 author: jane
 categories: [makale]
 tags: [makale]
 encoding: utf-8
 date:   2021-05-27 12:00:00
 keywords: Atom Mucizesi
+image: /assets/image/atom/AtomMucizesi_tr_4b_K_170925.jpg
 permalink: /:categories/:title/
 comments: false
 published: true
 lang: tr
 ---
 
-
-<img src="/assets/image/atom/AtomMucizesi_tr_4b_K_170925.jpg"  alt="Atom Mucizesi">
 
 <h2>Giriş</h2>
 
