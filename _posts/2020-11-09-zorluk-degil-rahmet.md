@@ -54,7 +54,7 @@ Müminlerin dünya hayatında yaşadıkları bu neşe dolu yaşam, Rabbimiz’in
 
 Bundan sonra başınıza her ne zorluk gelirse gelsin, unutmayın ki buna gücünüz yeter, altından kalkabilir ve sabırla, güzellikle karşılayabilirsiniz.
 
-**Son bir hatırlatma:** Bir konuda sıkıldığınızı, rahatınızın kaçtığını düşündüğünüzde dünyadaki diğer insanların durumuna bir bakın ve biraz düşünün: Savaşta açlık çekerek hayatını kaybedenleri, ot yiyerek hayatta kalmaya çalışanları, bomba sesleri ile uyananları, evi başına yıkılanları, içecek su bulamayanları...  
+**Son bir hatırlatma:** Bir konuda sıkıldığınızı, rahatınızın kaçtığını düşündüğünüzde dünyadaki diğer insanların durumuna bir bakın ve biraz düşünün: Savaşta açlık çekerek hayatını kaybedenleri, ot yiyerek hayatta kalmaya çalışanları, bomba sesleri ile uyananları, evi başına yıkılanları, içecek su bulamayanları... 
 Sahip olduklarınıza teker teker şükredin. Sizin belki de sadece yıllardır giydiğiniz için beğenmediğiniz o ayakkabınızı rüyasında bile görmemiş insanları düşünün ve halinize şükredin.
 
 Size verdiği tüm nimetler için Allah'a hamd edin. "Elhamdülillah, Sana şükürler olsun Allah'ım" diyerek, güzellikleri görmeye niyet edin.
