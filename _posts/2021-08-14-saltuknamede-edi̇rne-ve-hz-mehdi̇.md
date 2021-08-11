@@ -8,7 +8,7 @@ categories: [makale]
 tags: [makale]
 encoding: utf-8
 keywods: Mehdi, Sâltukname, Edirne, Istanbul, Rum
-image: assets/images/dna2.jpg
+image: assets/hzmehdi/edirne.jpg
 comments: false
 published: true
 lang: tr
