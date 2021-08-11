@@ -34,7 +34,10 @@ Sâltukname’de Edirne şehrinden, buranın manevi değerinden ve erenler şehr
 
 
 ![İstanbul](/assets/hzmehdi/0*jrn_G9bDyKsgZvIJ.gif "İstanbul")
+
 ##### Hz. Hızır’ın Edirne’yi her gün gözlediği rivayet edilir
+
+![Edirne](/assets/hzmehdi/0*HF-H0vwX8mxUm7CO.jpg "Edirne")
 
 Raviler bunda şöyle rivayet iderler kim şehr karşusında bir depe vardı, şöyle kim ol depeye her zamanında Hazret-i Hızr — aleyhi’s-selam- gelürdi ve dahı ol yirlerde Sunni cinlerden dahı olurlardı. Meğer kim gene Hazret-i Hızr gelüp ol depede otumışdı. Sunni cinnilerden Minu-çihr-i cini dahı Hazret-i Hızr’ı ziyaret ide geliyorurdı. Na-gah leşkeriyle gelürken gördi kim havada bir adem oğlanı eli bağlu yukarudan aşağı iner od içine. Heman tizcek irişüp kapdı ve alup Hazret-i Hızr katına geldi. Şerif’i Hazret-i Hızr öninde yire kodı. Hazret-i Hızr, Şerif’i görüp yirinden durup eli bağlın alup, eyitdi: “Ya Şerif! Gam çekme. Şimdilerde sana ölüm yokdur. Ta kim su gözüne od gibi görinmeyince sana mevt olmaya. Alamet oldur, üşenme didi. Şerif ve Hazret-i Hızr ve Minu-çihr-i cini oturdılar. Şehre bakup od yanduğın temaşa iderlerdi.
 
