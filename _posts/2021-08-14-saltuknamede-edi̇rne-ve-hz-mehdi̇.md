@@ -22,7 +22,7 @@ Sâltukname isimli eser, Rumeli’nin Türkleşmesine büyük katkıları olan 1
 
 Sâltukname’de Edirne şehrinden, buranın manevi değerinden ve erenler şehri olduğundan bahsedilir. Hz. Hızır, Hz. İlyas, Hz. Süleyman, Hz. Mehdi‘nin bu şehirle olan bağları anlatılır. Sâltukname’de Peygamberimiz (sav)’in hadisleri doğrultusunda anlatılan bilgiler gerçekleşen ahir zaman hadisleriyle benzerlik göstermektedir.
 
-###### İstanbul’da yaşanacak felaketlerin ardından Allah, Mehdi’yi bir süre Edirne’de koruyacaktır.
+#### İstanbul’da yaşanacak felaketlerin ardından Allah, Mehdi’yi bir süre Edirne’de koruyacaktır.
 
 ![İstanbul](/assets/hzmehdi/0*VLPNcG5z0mgxDl1M.png "İstanbul")
 
@@ -35,7 +35,7 @@ Sâltukname’de Edirne şehrinden, buranın manevi değerinden ve erenler şehr
 
 ![İstanbul](/assets/hzmehdi/0*jrn_G9bDyKsgZvIJ.gif "İstanbul")
 
-##### Hz. Hızır’ın Edirne’yi her gün gözlediği rivayet edilir
+#### Hz. Hızır’ın Edirne’yi her gün gözlediği rivayet edilir
 
 ![Edirne](/assets/hzmehdi/0*HF-H0vwX8mxUm7CO.jpg "Edirne")
 
@@ -45,7 +45,7 @@ Hazreti Hızır’ın, Edirne Cezaevinin bulunduğu yer olan Avarız’daki tepe
 
 ![Avarız](/assets/hzmehdi/0*yj2LVIoQAVwNTST9.gif "Avarız")
 
-##### Edirne, Hz. Hızır ve Hz. İlyas’ın bulunduğu bir şehirdir
+#### Edirne, Hz. Hızır ve Hz. İlyas’ın bulunduğu bir şehirdir
 
 ![Edirne](/assets/hzmehdi/0*vWXTc7sK-Oxpj0jl.png "Avarız")
 
