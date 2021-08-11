@@ -7,7 +7,7 @@ author: jane
 categories: [makale]
 tags: [makale]
 encoding: utf-8
-keywods: Münafık
+keywods: ateist, darwin, evrim, hücre, protein, teorisi, yaratılış
 image: assets/images/dna2.jpg
 comments: false
 published: true
