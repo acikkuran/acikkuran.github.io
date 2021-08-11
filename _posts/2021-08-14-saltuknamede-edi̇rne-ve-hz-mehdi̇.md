@@ -149,8 +149,8 @@ Müslümanlar burada nusret ve ferahlık, kuvvet bulacaklardır. Rum Suresinde b
 
 **“O Gün mü’minler ferahlar/sevinir, Allah’ın nasrı (nusreti) ile.”**
 
-    Elif, Lâm, Mîm. Rum (orduları) yenilgiye uğradı. (Rum Suresi, 1–2)
-    Bu 2 ayetin ebced (arapça harflerin sayısal) değeri 71–1909 = 1980’dir. 1980 yılı Mehdiyetin başlangıç tarihidir. (Hicri 1400)
+Elif, Lâm, Mîm. Rum (orduları) yenilgiye uğradı. (Rum Suresi, 1–2)
+Bu 2 ayetin ebced (arapça harflerin sayısal) değeri 71–1909 = 1980’dir. 1980 yılı Mehdiyetin başlangıç tarihidir. (Hicri 1400)
 
 #### Deccal’in Edirne’ye giremeceği rivayet olunmuştur.
 
