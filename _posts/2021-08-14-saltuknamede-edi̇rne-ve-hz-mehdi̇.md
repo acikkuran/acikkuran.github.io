@@ -42,7 +42,10 @@ Sâltukname’de Edirne şehrinden, buranın manevi değerinden ve erenler şehr
 Raviler bunda şöyle rivayet iderler kim şehr karşusında bir depe vardı, şöyle kim ol depeye her zamanında Hazret-i Hızr — aleyhi’s-selam- gelürdi ve dahı ol yirlerde Sunni cinlerden dahı olurlardı. Meğer kim gene Hazret-i Hızr gelüp ol depede otumışdı. Sunni cinnilerden Minu-çihr-i cini dahı Hazret-i Hızr’ı ziyaret ide geliyorurdı. Na-gah leşkeriyle gelürken gördi kim havada bir adem oğlanı eli bağlu yukarudan aşağı iner od içine. Heman tizcek irişüp kapdı ve alup Hazret-i Hızr katına geldi. Şerif’i Hazret-i Hızr öninde yire kodı. Hazret-i Hızr, Şerif’i görüp yirinden durup eli bağlın alup, eyitdi: “Ya Şerif! Gam çekme. Şimdilerde sana ölüm yokdur. Ta kim su gözüne od gibi görinmeyince sana mevt olmaya. Alamet oldur, üşenme didi. Şerif ve Hazret-i Hızr ve Minu-çihr-i cini oturdılar. Şehre bakup od yanduğın temaşa iderlerdi.
 
 Hazreti Hızır’ın, Edirne Cezaevinin bulunduğu yer olan Avarız’daki tepeye oturup, her gün Edirne’ye baktığı rivayet edilmiştir. Bu, Edirne’yi bir uçtan bir uca gören bir tepedir.
-Edirne, Hz. Hızır ve Hz. İlyas’ın bulunduğu bir şehirdir
+
+![Avarız](/assets/hzmehdi/0*yj2LVIoQAVwNTST9.gif "Avarız")
+
+##### Edirne, Hz. Hızır ve Hz. İlyas’ın bulunduğu bir şehirdir
 
 Ta kim su gözüne od gibi görinmeyince sana mevt olmaya. Alamet oldur, üşenme didi. Şerif ve Hazret-i Hızr ve Minu-çihr-i cini oturdılar. Şehre bakup od yanduğın temaşa iderlerdi. Na-gah Hazret-i İlyas peygamber –a.s.- dahı geldi. İlerü varup görüşdiler, oturdılar. İlyas –aleyhi’s-selam- Şerif’ün hatırın sordı. Şerif eyitdi: “Siz bu kafirler içinde neylersiz?” didi. Hazret-i Hızr -a.s.- eyitdi: “Bu makam Rum’da arz-ı Şerif’dür. Adn-ı arz budur. Gaziler ocağı olısardur. Şimden girü kırk yıldur her sabah namazın bu yirde kıluruz. Her kim kırık gün kaim, saim ola, kırk sabah namazın bunda kıla, salah ide, biz ana görinüp, bizden istifade iderler” didi. Ol makama şimdi Hazret-i Hızr İlyaslık dirler. Hazret-i Hırz ve Hazret-i İlyas kalup gitdiler. Şerif’i veda idüp, Hazret-i Hızr Şerif’e eyitdi: “Korkma şimden girü, aç ağzun.” Didi. Şerif dahi ağzın açdı. Ağzına Hazret-i Hızr ağzı yarın virdi, eyitdi: “Korkma şimden girü. Yüri” didi. Şerif bir ol kadar dahı kuvvet dutup velayet ve keramete kadem basdı.
 
