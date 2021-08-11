@@ -2,7 +2,7 @@
 layout: post
 title: "Darwinistler Tüm Canlılığı Basit Gibi Göstermeye Çalışırlar"
 description: "Darwinistlerin aldatma yöntemleri genellikle insanları düşündürmemek üzerine kuruludur." 
-excerpt: "Bunun kendilerince en etkili yöntemlerinden biri de, olağanüstü komplekslikteki canlılığı tamamen gözardı edip, bunu "basit" gösterebilmektir."
+excerpt: "Bunun kendilerince en etkili yöntemlerinden biri de, olağanüstü komplekslikteki canlılığı tamamen gözardı edip, bunu 'basit' gösterebilmektir."
 author: jane
 categories: [makale]
 tags: [makale]
