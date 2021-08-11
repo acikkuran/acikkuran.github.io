@@ -152,26 +152,38 @@ Müslümanlar burada nusret ve ferahlık, kuvvet bulacaklardır. Rum Suresinde b
     Elif, Lâm, Mîm. Rum (orduları) yenilgiye uğradı. (Rum Suresi, 1–2)
     Bu 2 ayetin ebced (arapça harflerin sayısal) değeri 71–1909 = 1980’dir. 1980 yılı Mehdiyetin başlangıç tarihidir. (Hicri 1400)
 
-Deccal’in Edirne’ye giremeceği rivayet olunmuştur.
+#### Deccal’in Edirne’ye giremeceği rivayet olunmuştur.
+
+
+![Edirne](/assets/hzmehdi/0*n2oXxfr1ix5Wyo08.png "Edirne")
 
 Çün ol hin ola benüm kavi ümmetüm bu diyarda gelüp cem olısalardur ve Beni Asfarla bunlar ceng idüp helak eyleyiserlerdür. Ve İsa — a.s.- Mehdi’ye leşker olup, küffarı kat idiserdür. Hak Ta’ala bu yiri Deccal çıktuğı vakt anun şerrinden saklaya ana göstermeye gaziler yüzi suyına halas eyleye bu yir kavmi kuvvetle bu yir darü’l-İslamdur, fitneden emin kalmıştur.
 
-Deccal’in Edirne’ye giremeyeceği, Mehdi’nin Edirne’de hem Deccal’in fitnesinden hem de o dönemde yaygın olacak felaketlerden korunacağı belirtilmiştir.
-Jeruselam
+#### Deccal’in Edirne’ye giremeyeceği, Mehdi’nin Edirne’de hem Deccal’in fitnesinden hem de o dönemde yaygın olacak felaketlerden korunacağı belirtilmiştir.
+
+![Edirne](/assets/hzmehdi/0*PCAEEfVB0DPreCUV.gif "Edirne")
+
+![Edirne](/assets/hzmehdi/0*tIxpdBRWa2HLtO7M.gif "Edirne")
+
+![Edirne](/assets/hzmehdi/0*UV41MJezcMZyrMak.gif "Edirne")
+
+![Edirne](/assets/hzmehdi/0*tg4Bl9x0_1k3-UhS.gif "Edirne")
+
+![Edirne](/assets/hzmehdi/0*OWWIOEJiFYDxMV4I.gif "Edirne")
+
+![Edirne](/assets/hzmehdi/0*OnSGVdbotW92XF8c.gif "Edirne")
+
+![Edirne](/assets/hzmehdi/0*_MG1qDElOeAFVsiu.gif "Edirne")
+
+![Edirne](/assets/hzmehdi/0*VllREgZgau3bqXea.gif "Edirne")
+
+![Edirne](/assets/hzmehdi/0*tgI7_uAfHtH5M5Qn.gif "Edirne")
+
+![Edirne](/assets/hzmehdi/0*nXL8Xj1ZbS-5_bki.gif "Edirne")
+
+![Edirne](/assets/hzmehdi/0*RfxHXibApf_u0tte.gif "Edirne")
+
 
 Tek bir Cümle.. Tekbir Paragraf.. Hayata Bakışınızı Değiştirir.
-Jeruselam Follows
 
-    The Educative Team
-    The Educative Team
-    Erik Rittenberry
-    Erik Rittenberry
-    Emre Özkan ☁️ 🐧 🐳 ☸️
-    Emre Özkan ☁️ 🐧 🐳 ☸️
-    Charles Scalfani
-    Charles Scalfani
-    Education Help
-    Education Help
-
-See all (23)
 
