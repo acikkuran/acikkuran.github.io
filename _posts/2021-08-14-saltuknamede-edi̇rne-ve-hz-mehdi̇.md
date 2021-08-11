@@ -56,23 +56,36 @@ Gözinden ve gönlinden hicab gitdi, cemi gizlüler aşikare oldu. Andan Hazret-
 Hazreti Hızır ve Hazreti İlyas’ın, Rum’un Edirne olduğunu, bu bölgenin Adn-ı arz (alçak yer-çukur yer) olduğunu ve Seyidlerin, Şeriflerin arzı (Peygamberimiz (sav)’in soyunun yeri, memleketi) olduğunu söylediği rivayet edilmiştir.
 
 Hz. Hızır ve Hz. İlyas’ın sabah namazlarını bu bölgede kıldıklarını, bu beldede 40 gün sabah namazı kılanın orada Hazreti Hızır’ı göreceği ve ondan istifade edeceği anlatılmıştır.
-Hz. Meryem’in Hz. İsa’yı Edirne’de dünyaya getirdiği rivayet edilmiştir.
+
+![Edirne](/assets/hzmehdi/0*ZeHOIyuB-rSVKWrx.gif "Edirne")
+
+#### Hz. Meryem’in Hz. İsa’yı Edirne’de dünyaya getirdiği rivayet edilmiştir.
+
+![Edirne](/assets/hzmehdi/0*xF41gTz6w6A7XIvE.png "Edirne")
 
 “Evvel bu kim “Bu hisar içindeki büyük kiliseyi bize virun, bizim ruhbanlarumuz gelüp giderler. İkinci uğrı kapu yanında olan hamam içinde bir kurna vardur, Meryem Ana Hazretleri İsa — aleyhi’s-selam- doğuracak anun içinde yudı dirler.”
 
-Hz. Meryem’in, Hz. İsa (as)’ı Edirne’de dünyaya getirdiği rivayet edilmiştir.
-Fethin başlangıç yeri Edirne’dir.
+#### Hz. Meryem’in, Hz. İsa (as)’ı Edirne’de dünyaya getirdiği rivayet edilmiştir.
+
+![Edirne](/assets/hzmehdi/0*I8nArQbZy0G1KsB0.gif "Edirne")
+
+#### Fethin başlangıç yeri Edirne’dir.
+
+![Edirne](/assets/hzmehdi/0*A06A3jUeYWUcLFB_.png "Edirne")
 
 “Ol gice Resül’i -aleyhi’s-selam- düşinde gördi. Ol bedr-i Münir, şems-i duha, Beşir ve nezir gelüp Şerif’e selam virdi. Ol camiün sol tarafına olan direğe arka virüp eyitti. Ya veledi! Bu makam benüm evümdür, hacet dilersen bunda dile, kabul ola. Bu şehr benüm ümmetüm gazilerinün ocağı olısardur. Adnü’l arz budur. Her kim bu makamı ümmetümden bekleye cemi düşmanına mansür ve muzaffer ola. FETH-İ BAB BU YİRDENDÜR RUM EVİNDE. NİTEKİM HAK TAALA KELAMINDA BUYURUR: “ELİF, LAM, MİM GULİBETİ’R-RUMÜ, Fİ ADNE’L ARD VE HÜM MİN BA’Dİ GALEBİTİM SEYEGLİBÜNE” DİR. DAHI DARÜ’N NASR BUNA AD OLSUN DİDİ. Şerif eyitti: “Ya Resulu’llah! Bana şefaat eyle ve bunda olanlara bile.”didi. Resül –aleyhi’s selam- eyitti: “Benüm şefaatüm şu benim yoluma sayidenleredür.” Didi. Ve dahı Resül Hazreti bu şehre Edirne diyü ad söyledi. La-cerem Sultan Saltıh ve Müslümanlar dahı adın Edirne didiler.
 
 Peygamber Efendimiz (sav)’in, fethin Edirne’den, bu Rum şehrinden olacağını söylediği ve Rum Suresini okuduğu rivayet edilmiştir:
 
-“Elif-Lâm-Mîm. Ġulibeti-rrûmü Fî EDNÂ-L-ARDİ vehum min ba’di ġalebihim seyaġlibûn.”(Rum Suresi, 1–3)
+**“Elif-Lâm-Mîm. Ġulibeti-rrûmü Fî EDNÂ-L-ARDİ vehum min ba’di ġalebihim seyaġlibûn.”(Rum Suresi, 1–3)**
 
 Edirne ismini bu şehre Peygamber Efendimiz vermiştir ve Edirne için Adnen’in arzı (Adn-ül arz*) (Adnen’in yeri, memleketi) demiştir.
 
 * Arz kelimesi Arapça’da ard olarak okunmakta ve “yer, memleket” anlamına gelmektedir.
-Hz. Süleyman’ın bir kısım cinlerinin Edirne’de olduğu rivayet edilmiştir
+
+![Edirne](/assets/hzmehdi/0*T7HLYuClj9fzIfCJ.gif "Edirne")
+
+#### Hz. Süleyman’ın bir kısım cinlerinin Edirne’de olduğu rivayet edilmiştir
 
 Hazret-i Seyyid tiz Minü-çihr duasın okudı. Az zamandan sonra Minü-çihr çıkagelüp Seyyid’e selam virdi. Seyyid eyidür: “İy ahi! Şol zir-i zeminde ne vardur, bilmek isterem. İçinden gümbürdi gelür. Bunun ahvalin bize beyan eyle” didi. Minü-çihr yüz urup eyidür: “Ya Server! Bu çahta üç kafir ifrit habs olmıştur, yüzleri üzre yaturlar, kıyamete değin ol çahta habs olısardurlar. Ya Server, eğer birisi halas olursa cihanı haraba virür Hazret –i Süleyman — aleyhi’s-selam- habs eylemiştür. Üç müvekkil cini vardur, müminlerdür. Andan gayri bir melek dahı vardur ve tılsım olmuştur, her kim bu çaha girse, anı yakup helak iderler” didi.
 
