@@ -47,6 +47,8 @@ Hazreti Hızır’ın, Edirne Cezaevinin bulunduğu yer olan Avarız’daki tepe
 
 ##### Edirne, Hz. Hızır ve Hz. İlyas’ın bulunduğu bir şehirdir
 
+![Edirne](/assets/hzmehdi/0*vWXTc7sK-Oxpj0jl.png "Avarız")
+
 Ta kim su gözüne od gibi görinmeyince sana mevt olmaya. Alamet oldur, üşenme didi. Şerif ve Hazret-i Hızr ve Minu-çihr-i cini oturdılar. Şehre bakup od yanduğın temaşa iderlerdi. Na-gah Hazret-i İlyas peygamber –a.s.- dahı geldi. İlerü varup görüşdiler, oturdılar. İlyas –aleyhi’s-selam- Şerif’ün hatırın sordı. Şerif eyitdi: “Siz bu kafirler içinde neylersiz?” didi. Hazret-i Hızr -a.s.- eyitdi: “Bu makam Rum’da arz-ı Şerif’dür. Adn-ı arz budur. Gaziler ocağı olısardur. Şimden girü kırk yıldur her sabah namazın bu yirde kıluruz. Her kim kırık gün kaim, saim ola, kırk sabah namazın bunda kıla, salah ide, biz ana görinüp, bizden istifade iderler” didi. Ol makama şimdi Hazret-i Hızr İlyaslık dirler. Hazret-i Hırz ve Hazret-i İlyas kalup gitdiler. Şerif’i veda idüp, Hazret-i Hızr Şerif’e eyitdi: “Korkma şimden girü, aç ağzun.” Didi. Şerif dahi ağzın açdı. Ağzına Hazret-i Hızr ağzı yarın virdi, eyitdi: “Korkma şimden girü. Yüri” didi. Şerif bir ol kadar dahı kuvvet dutup velayet ve keramete kadem basdı.
 
 Gözinden ve gönlinden hicab gitdi, cemi gizlüler aşikare oldu. Andan Hazret-i İlyas peygamber dahı Şerif’e dua-i ervah öğretdi — kim ism-i azamdur — ve Hazret-i Hızr –a.s. — dua-i melaikeyi öğretdi ve Hzret-i Hızr ve Hazret-i İlyas gitdiler… Minu-çihr-i cini dahı Şerif’e bir dua öğretdi, eyitdi: “Her kaçan kim sen bu duayı okuyasın, ben katunda leşkerüm birle hazır olan” didi.
