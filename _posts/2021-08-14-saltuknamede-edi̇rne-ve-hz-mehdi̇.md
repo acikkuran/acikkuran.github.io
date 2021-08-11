@@ -24,15 +24,17 @@ Sâltukname’de Edirne şehrinden, buranın manevi değerinden ve erenler şehr
 
 ###### İstanbul’da yaşanacak felaketlerin ardından Allah, Mehdi’yi bir süre Edirne’de koruyacaktır.
 
-![Münafık](/assets/hzmehdi/0*VLPNcG5z0mgxDl1M.png)
+![İstanbul](/assets/hzmehdi/0*VLPNcG5z0mgxDl1M.png "İstanbul")
 
 “Ben İsa Peygamber –aleyhi’s selam- ashabından Şemun’am. Benim içün İsa –a.s.- dua eylemiştür, ta ölmeyen ve İsa –a.s.- girü gökten ine, diri olam anunla girü gaza idevüz. İmdi geldüm ki seni ziyaret idem.” Didi. Server anı hoş gördi dahı düşin ana diyüvirdi. Şem’ün eyitti: “Server bu düş gerçektür, velinün vakıası ayni vaki olur. Sair halk gibi aksi olmaz” didi. Pes Server Şemun’dan sordi kim “Bu şehrün en sonı nice ola?” didi. Rahib eyitti: “Server, bu şehr akıbet Müslümanlar elinde harab olur. Sebeb-i harab fısk ve fücür, FESAD VE ZİNA VE LİVATADAN ve zulm ve cevrden ve bed efalleri çok ola, dahı Hak Taala kaht ve taunlar vire ve zelzele çok ola, en son bu şehr harab ve hasf olup yire geçe, gide, amma bir tarafı kala, ol yir umaram Ayafosya tarafıdur. Zira anun-çün dua olınmıştur” didi. Andan Server eyitti: “Ya Endriyye’nun harabı neden ola, bize beyan ve ayan eyle, ilm-i hikmetten bilürsen” dedi. Pes ol rahib-i alim eyitti: “Server, ANUN HARABI OLMAZ. Meğer gazadan Müslümanlar vaz geçeler, ol şehr nazar-gah-ı Hak’tur. Anun halin Allah Taala bilür” didi.
 
-    İstanbul’da fitne, fücur, iftira, zulüm, haksızlık, vicdansızlığın çok olacağına; fuhuş, zina, livata, homoseksüellik, kumar gibi haram olan her şeyin yayılacağı ifade edilmiştir.
-    Bunların ardından İstanbul’da kaht (kıtlık, hayat pahalılığı, cinayetler), salgın hastalık (korona gibi) ve depremler olacağı ifade edilmiştir.
-    Allah’ın Mehdi’yi bir süre Edirne’ye alarak onu çeşitli felaketlerden koruyacağı ifade edilmiştir.
+1. İstanbul’da fitne, fücur, iftira, zulüm, haksızlık, vicdansızlığın çok olacağına; fuhuş, zina, livata, homoseksüellik, kumar gibi haram olan her şeyin yayılacağı ifade edilmiştir.
+2. Bunların ardından İstanbul’da kaht (kıtlık, hayat pahalılığı, cinayetler), salgın hastalık (korona gibi) ve depremler olacağı ifade edilmiştir.
+3. Allah’ın Mehdi’yi bir süre Edirne’ye alarak onu çeşitli felaketlerden koruyacağı ifade edilmiştir.
 
-Hz. Hızır’ın Edirne’yi her gün gözlediği rivayet edilir
+
+![İstanbul](/assets/hzmehdi/0*jrn_G9bDyKsgZvIJ.gif "İstanbul")
+##### Hz. Hızır’ın Edirne’yi her gün gözlediği rivayet edilir
 
 Raviler bunda şöyle rivayet iderler kim şehr karşusında bir depe vardı, şöyle kim ol depeye her zamanında Hazret-i Hızr — aleyhi’s-selam- gelürdi ve dahı ol yirlerde Sunni cinlerden dahı olurlardı. Meğer kim gene Hazret-i Hızr gelüp ol depede otumışdı. Sunni cinnilerden Minu-çihr-i cini dahı Hazret-i Hızr’ı ziyaret ide geliyorurdı. Na-gah leşkeriyle gelürken gördi kim havada bir adem oğlanı eli bağlu yukarudan aşağı iner od içine. Heman tizcek irişüp kapdı ve alup Hazret-i Hızr katına geldi. Şerif’i Hazret-i Hızr öninde yire kodı. Hazret-i Hızr, Şerif’i görüp yirinden durup eli bağlın alup, eyitdi: “Ya Şerif! Gam çekme. Şimdilerde sana ölüm yokdur. Ta kim su gözüne od gibi görinmeyince sana mevt olmaya. Alamet oldur, üşenme didi. Şerif ve Hazret-i Hızr ve Minu-çihr-i cini oturdılar. Şehre bakup od yanduğın temaşa iderlerdi.
 
