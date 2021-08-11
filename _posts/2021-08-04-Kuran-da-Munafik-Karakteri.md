@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Münafık Karakteri"
+title: "Kuran'da Münafık Karakteri"
 description: "Münafık Müslümanları gereksiz meşgul etsin, Müslümanların malı zarar görsün, vakitleri boş işlerle geçsin ister. Bunun için sürekli lüzumsuz işler çıkarır." 
 excerpt: "Münafık küfri bir iş olduğunda çok enerjik ve aktif olur, müminlerin yanında İslam'a hizmet etmesi gerektiğinde ise çok bitkin ve donuktur."
 author: jane
